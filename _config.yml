@@ -9,7 +9,7 @@ title:               Pavol Rusnak
 tagline:             'hacker'
 description:         'Pavol Rusnak'
 url:                 http://gk2.sk
-baseurl:             ''
+baseurl:             http://gk2.sk
 paginate:            5
 
 # About/contact
@@ -17,6 +17,3 @@ author:
   name:              Pavol Rusnak
   url:               https://twitter.com/pavolrusnak
   email:             stick@gk2.sk
-
-# Custom vars
-version:             1.0.0
