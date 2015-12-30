@@ -7,7 +7,7 @@ relative_permalinks: true
 # Setup
 title:               Pavol Rusnak
 tagline:             'hacker'
-description:         'description'
+description:         'Pavol Rusnak'
 url:                 http://gk2.sk
 baseurl:             ''
 paginate:            5
