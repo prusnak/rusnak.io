@@ -7,7 +7,7 @@ I realized that I haven't put any new posts for quite a long time.
 Here, I try to summarize what I am up to now and what are the projects
 I'm currently working on.
 
-{% img https://en.bitcoin.it/img/bc_logo_135.png
+!(https://en.bitcoin.it/img/bc_logo_135.png)
 
 One area of my activities is related to Bitcoin. It is an
 exciting way how to transfer value over the Internet and
@@ -22,7 +22,7 @@ so it is impossible for attacker to steal them. We have couple of other
 ideas which deal with Bitcoins, but right now we focus on Trezor and we will
 announce these other Bitcoin related projects once Trezor is out.
 
-{% img http://fabhack.com/_media/wiki/logo.png
+!(http://fabhack.com/_media/wiki/logo.png)
 
 Another field is software, hardware and small fabrication
 consulting effort called [fabhack](http://fabhack.com/). We founded it together
@@ -33,7 +33,7 @@ but we realised that our knowledge is the most valuable asset and
 easy access to makers' technology can be provided by some other groups.
 At fabhack we try to do projects that are both bleeding edge and fun to make!
 
-{% img http://fabhack.com/_media/pebelab.png
+!(http://fabhack.com/_media/pebelab.png)
 
 During countless nights spent at brmlab we met a famous artist
 [Prokop Bartonicek](http://www.prokopbartonicek.com/)
