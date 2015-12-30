@@ -3,7 +3,7 @@ layout: post
 title: Idea Factory: Semantic Patches on Github
 ---
 
-This post is a part of [Idea Factory](http://stick.gk2.sk/2013/02/idea-factory/) series.
+This post is a part of [Idea Factory](/2013/02/idea-factory/) series.
 
 Two years ago someone sent me quite weird pull request on Github. It took me some time
 to realize that the only change was the removal of whitespace at the end of the lines

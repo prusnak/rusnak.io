@@ -3,7 +3,7 @@ layout: post
 title: Idea Factory: Coin Counter
 ---
 
-This post is a part of [Idea Factory](http://stick.gk2.sk/2013/02/idea-factory/) series.
+This post is a part of [Idea Factory](/2013/02/idea-factory/) series.
 
 !(/content/idea-coincounter.jpg)
 

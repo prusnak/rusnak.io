@@ -3,7 +3,7 @@ layout: post
 title: Idea Factory: Mycelium Animated Photos
 ---
 
-This post is a part of [Idea Factory](http://stick.gk2.sk/2013/02/idea-factory/) series.
+This post is a part of [Idea Factory](/2013/02/idea-factory/) series.
 
 One evening I found really [nice work](http://www.creativeapplications.net/processing/mycelium-processing/)
 by Ryan Alexander where images are created by simulating a life of mycelium.

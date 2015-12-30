@@ -46,5 +46,5 @@ looking forward to our contracts.
 As you can see I'm quite busy with these three enterprises.
 I decided to give away some of my older ideas
 for projects, because I'm afraid I will not have a chance to get back to them.
-See my next blogpost called [Idea Factory](http://stick.gk2.sk/2013/02/idea-factory/)
+See my next blogpost called [Idea Factory](/2013/02/idea-factory/)
 for more information.
