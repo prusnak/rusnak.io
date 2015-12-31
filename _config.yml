@@ -1,10 +1,5 @@
-# Permalinks
-#
-# Use of `relative_permalinks` ensures post links from the index work properly.
 permalink:           /:title/
-relative_permalinks: true
 
-# Setup
 title:               Pavol Rusnak
 tagline:             'hacker'
 description:         'Pavol Rusnak'
@@ -12,7 +7,6 @@ url:                 http://gk2.sk
 baseurl:             ''
 paginate:            5
 
-# About/contact
 author:
   name:              Pavol Rusnak
   url:               https://twitter.com/pavolrusnak
