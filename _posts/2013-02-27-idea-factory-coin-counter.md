@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Idea Factory: Coin Counter
+title: Idea Factory - Coin Counter
 ---
 
 This post is a part of [Idea Factory](/idea-factory/) series.

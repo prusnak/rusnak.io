@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Idea Factory: Pack My Stuff
+title: Idea Factory - Pack My Stuff
 ---
 
 This post is a part of [Idea Factory](/idea-factory/) series.

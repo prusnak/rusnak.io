@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Idea Factory: Facebook Random Comics
+title: Idea Factory - Facebook Random Comics
 ---
 
 This post is a part of [Idea Factory](/idea-factory/) series.

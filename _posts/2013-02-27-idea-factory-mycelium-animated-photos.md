@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Idea Factory: Mycelium Animated Photos
+title: Idea Factory - Mycelium Animated Photos
 ---
 
 This post is a part of [Idea Factory](/idea-factory/) series.

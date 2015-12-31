@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Idea Factory: Semantic Patches on Github
+title: Idea Factory - Semantic Patches on Github
 ---
 
 This post is a part of [Idea Factory](/idea-factory/) series.
