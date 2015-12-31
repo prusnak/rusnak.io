@@ -5,7 +5,7 @@ title: The Ugly Duckling called $XDG_CONFIG_HOME
 
 Let's take a look into my home directory:
 
-```
+<pre>
 [stick@spectra 0 ~] ls -F
 Applications/  Documents/  google.txt    reverse-ssh*
 Desktop/       Downloads/  public_html/  work/
@@ -61,7 +61,7 @@ Downloads/            .liquidwarrc            .teeworlds/
 .gnupg/               .profile                .y2usersettings
 .google/              .psi/
 .googleearth/         .psql_history
-```
+</pre>
 
 Out of 148 entries in my $HOME, there are only 12 of them I really want to see! How much nicer would it be, if it looked like this:
 
