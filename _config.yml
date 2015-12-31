@@ -1,4 +1,5 @@
 permalink:           /:title/
+relative_permalinks: true
 
 title:               Pavol Rusnak
 tagline:             'hacker'
