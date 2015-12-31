@@ -13,7 +13,7 @@ During the festival these two projects caught my eye: [CogniToo](http://cognitoo
 
 From the talks I mostly enjoyed the talk from [Golan Levin](http://en.wikipedia.org/wiki/Golan_Levin). He started with the following image:
 
-!(/content/tech-triangle.png)
+![img]({{ site.url }}/assets/tech-triangle.png)
 
 I think it's really a good way how to describe current efforts in technology. He didn't said that explicitly, but my opinion is that artists are leaning towards interesting-beautiful side and hackers towards useful-interesting side of things. There are also other groups like for example designers, which are positioned somewhere else in the triangle. Golan showed us some examples of interesting-beautiful projects like: [Most Wanted and Least Wanted Paintings](http://awp.diaart.org/km/painting.html) by Komar Melamid, [Every Playboy Centerfold](http://salavon.com/work/EveryPlayboyCenterfoldDecades/) by Jason Salavon or [The Secret Lives of Numbers](http://www.turbulence.org/Works/nums/) by himself.
 

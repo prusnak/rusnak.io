@@ -18,7 +18,7 @@ that feed from this food, move randomly,
 die if they are starving and multiply if they are well enough.
 The original photos and the mycelium growing process can be seen here:
 
-!(/content/idea-mycelium.gif)
+![img]({{ site.url }}/assets/idea-mycelium.gif)
 
 The idea is to create a mobile phone application that
 is able to take a photo from a camera (and/or open a gallery photo)

@@ -3,7 +3,7 @@ layout: post
 title: Convert PyQt4 Applications to PySide
 ---
 
-!(/content/pysidelogo.png)
+![img]({{ site.url }}/assets/pysidelogo.png)
 
 I just noticed (little bit late, but better later than never :-)) that [PySide](http://pyside.org/) has [become](http://www.pyside.org/2012/03/pyside-becomes-a-qt-add-on/) an official part of the [Qt Project](http://qt-project.org/).
 
