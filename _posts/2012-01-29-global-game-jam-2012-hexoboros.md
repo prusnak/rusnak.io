@@ -9,7 +9,7 @@ The theme selected for this year's edition was [Ouroboros](http://en.wikipedia.o
 
 !(/content/200px-Ouroboros-simple.svg_.png)
 
-At first I created one concept, but later I realized it's just a toy and it would be very hard to turn it into a playable game, so I decided to scratch it. Then I got the idea to create a puzzle game played on similar board like [Hexxagon](https://www.google.com/search?q=Hexxagon&amp;tbm=isch), but instead of individual stones you have 2-6 snakes and your objective is to move and/or rotate them in order to create one big cycle consisting of all of them.
+At first I created one concept, but later I realized it's just a toy and it would be very hard to turn it into a playable game, so I decided to scratch it. Then I got the idea to create a puzzle game played on similar board like [Hexxagon](https://www.google.com/search?q=Hexxagon&tbm=isch), but instead of individual stones you have 2-6 snakes and your objective is to move and/or rotate them in order to create one big cycle consisting of all of them.
 
 This is how the game looked immediately after the contest ([YouTube video](http://www.youtube.com/watch?v=Oa5PDTAo3Zo)).
 

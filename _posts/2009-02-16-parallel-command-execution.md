@@ -20,10 +20,10 @@ This expects you had the file commands.txt prepared, which contains one command 
 
 Using this approach you can limit both the number of concurrent jobs: `make -j 5` and the maximum load: `make -l 2`
 
-Others ideas were to use the shell with `&amp;` and `wait`, or to use the following one-liner:
+Others ideas were to use the shell with `&` and `wait`, or to use the following one-liner:
 
 {% highlight bash %}
-while sleep 1; do [ "`ps ax | grep your_cmd | wc -l`" -gt 6 ] || your_cmd &amp;; done
+while sleep 1; do [ "`ps ax | grep your_cmd | wc -l`" -gt 6 ] || your_cmd & ; done
 {% endhighlight %}
 
 but I really like mine solution the most :D
