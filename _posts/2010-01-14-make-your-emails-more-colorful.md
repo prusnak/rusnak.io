@@ -13,36 +13,37 @@ I found a [little hack](http://www.mozilla.org/support/thunderbird/tips#app_quot
 
 If you like it, just run the following code to have it applied:
 
-:::bash
-    cd ~/.thunderbird/*.default
-    mkdir chrome
-    cat <<EOF > chrome/userContent.css
-    /* Quote Levels Colors */
-    /* bar color: #729fcf */
-    blockquote[type=cite] {
-        color: #394f67 !important;
-        background-color: #edf3f9 !important;
-    }
-    /* bar color: #ad7fa8 */
-    blockquote[type=cite] blockquote {
-        color: #563f54 !important;
-        background-color: #f4eff4 !important;
-    }
-    /* bar color: #8ae234 */
-    blockquote[type=cite] blockquote blockquote {
-        color: #45711a !important;
-        background-color: #f0fbe5 !important;
-    }
-    /* bar color: #fcaf3e */
-    blockquote[type=cite] blockquote blockquote blockquote {
-        color: #7e571f !important;
-        background-color: #fef5e6 !important;
-    }
-    /* bar color: #e9b96e */
-    blockquote[type=cite] blockquote blockquote blockquote blockquote {
-        color: #745c37 !important;
-        background-color: #fcf6ec !important;
-    }
-    EOF
+{% highlight bash %}
+cd ~/.thunderbird/*.default
+mkdir chrome
+cat <<EOF > chrome/userContent.css
+/* Quote Levels Colors */
+/* bar color: #729fcf */
+blockquote[type=cite] {
+    color: #394f67 !important;
+    background-color: #edf3f9 !important;
+}
+/* bar color: #ad7fa8 */
+blockquote[type=cite] blockquote {
+    color: #563f54 !important;
+    background-color: #f4eff4 !important;
+}
+/* bar color: #8ae234 */
+blockquote[type=cite] blockquote blockquote {
+    color: #45711a !important;
+    background-color: #f0fbe5 !important;
+}
+/* bar color: #fcaf3e */
+blockquote[type=cite] blockquote blockquote blockquote {
+    color: #7e571f !important;
+    background-color: #fef5e6 !important;
+}
+/* bar color: #e9b96e */
+blockquote[type=cite] blockquote blockquote blockquote blockquote {
+    color: #745c37 !important;
+    background-color: #fcf6ec !important;
+}
+EOF
+{% endhighlight %}
 
 Don't forget to restart Thunderbird! :-)

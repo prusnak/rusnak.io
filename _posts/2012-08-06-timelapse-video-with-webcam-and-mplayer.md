@@ -12,21 +12,24 @@ Today I was asked how I did it and because I did not remember exactly the comman
 
 First step is to grab series of JPG images from mplayer using webcam:
 
-:::bash
-    while true; do
-      mplayer tv:// -vo jpeg -frames 1    # grab one frame from webcam and save it as 00000001.jpg
-      mv 00000001.jpg $(date +%s).jpg     # rename 00000001.jpg to something like 1344271221.jpg
-      sleep 1                             # sleep 1 second
-    done
+{% highlight bash %}
+while true; do
+  mplayer tv:// -vo jpeg -frames 1    # grab one frame from webcam and save it as 00000001.jpg
+  mv 00000001.jpg $(date +%s).jpg     # rename 00000001.jpg to something like 1344271221.jpg
+  sleep 1                             # sleep 1 second
+done
+{% endhighlight %}
 
 Once we are done (break the script with Ctrl+C) we can play the sequence using:
 
-:::bash
-    mplayer mf://*.jpg
+{% highlight bash %}
+mplayer mf://*.jpg
+{% endhighlight %}
 
 If we are satisfied with the result we can convert these images to video using mencoder (usually located in the same package as mplayer):
 
-:::bash
-    mencoder mf://*.jpg -ovc lavc -o out.avi
+{% highlight bash %}
+mencoder mf://*.jpg -ovc lavc -o out.avi
+{% endhighlight %}
 
 For more options about creating video or video formats please read mencoder manpage, but lavc output should be OK for most of you . :-)
