@@ -3,7 +3,7 @@ layout: post
 title: Idea Factory: Facebook Random Comics
 ---
 
-This post is a part of [Idea Factory](/2013/02/idea-factory/) series.
+This post is a part of [Idea Factory](/idea-factory/) series.
 
 Recently my friend sent me a link to this great [random comic generator](http://pandyland.net/random/) at Pandyland.
 My idea is to create a similar application but instead of the  drawn figures

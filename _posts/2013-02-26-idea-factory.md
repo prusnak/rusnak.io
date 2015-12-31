@@ -12,8 +12,8 @@ the donate section in the sidebar, so you can do me a favor once you are a milli
 
 But, enough talking, here are the ideas! I'll keep adding links to this list in the future:
 
-1. [Coin Counter](/2013/02/idea-factory-coin-counter/)
-1. [Github Semantic Patches](/2013/02/idea-factory-github-semantic-patches/)
-1. [Pack My Stuff](/2013/02/idea-factory-pack-my-stuff/)
-1. [Mycelium Animated Photos](/2013/02/idea-factory-mycelium-animated-photos/)
-1. [Facebook Random Comics](/2013/02/idea-factory-facebook-random-comics/)
+1. [Coin Counter](/idea-factory-coin-counter/)
+1. [Github Semantic Patches](/idea-factory-github-semantic-patches/)
+1. [Pack My Stuff](/idea-factory-pack-my-stuff/)
+1. [Mycelium Animated Photos](/idea-factory-mycelium-animated-photos/)
+1. [Facebook Random Comics](/idea-factory-facebook-random-comics/)

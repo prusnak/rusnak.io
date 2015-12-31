@@ -3,7 +3,7 @@ layout: post
 title: Idea Factory: Pack My Stuff
 ---
 
-This post is a part of [Idea Factory](/2013/02/idea-factory/) series.
+This post is a part of [Idea Factory](/idea-factory/) series.
 
 Last two years I travelled a lot to various Open Source related conferences.
 After few of them I already got quite a good idea what to pack and what not,
