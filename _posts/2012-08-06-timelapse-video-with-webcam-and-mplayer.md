@@ -14,9 +14,12 @@ First step is to grab series of JPG images from mplayer using webcam:
 
 {% highlight bash %}
 while true; do
-  mplayer tv:// -vo jpeg -frames 1    # grab one frame from webcam and save it as 00000001.jpg
-  mv 00000001.jpg $(date +%s).jpg     # rename 00000001.jpg to something like 1344271221.jpg
-  sleep 1                             # sleep 1 second
+  # grab one frame from webcam and save it as 00000001.jpg
+  mplayer tv:// -vo jpeg -frames 1
+  # rename 00000001.jpg to something like 1344271221.jpg
+  mv 00000001.jpg $(date +%s).jpg
+  # sleep 1 second
+  sleep 1
 done
 {% endhighlight %}
 
