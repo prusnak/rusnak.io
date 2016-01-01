@@ -11,12 +11,16 @@ I found a [little hack](http://www.mozilla.org/support/thunderbird/tips#app_quot
 
 ![img]({{ site.url }}/assets/tbird-after.png)
 
-If you like it, just run the following code to have it applied:
+If you like it, just run the following command to create the `userContents.css` file:
 
 {% highlight bash %}
-cd ~/.thunderbird/*.default
-mkdir chrome
-cat <<EOF > chrome/userContent.css
+mkdir -p ~/.thunderbird/*.default/chrome
+touch ~/.thunderbird/*.default/chrome/userContent.css
+{% endhighlight %}
+
+and put the following contents there:
+
+{% highlight css %}
 /* Quote Levels Colors */
 /* bar color: #729fcf */
 blockquote[type=cite] {
@@ -43,7 +47,6 @@ blockquote[type=cite] blockquote blockquote blockquote blockquote {
     color: #745c37 !important;
     background-color: #fcf6ec !important;
 }
-EOF
 {% endhighlight %}
 
 Don't forget to restart Thunderbird! :-)
