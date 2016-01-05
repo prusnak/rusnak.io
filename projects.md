@@ -3,7 +3,7 @@ layout: page
 title: Projects
 ---
 
-Projects I am/was directly involved in:
+Projects I am/was involved in:
 
 ##[Coinmap](https://coinmap.org/) (since 2013)
 
@@ -15,7 +15,13 @@ Lorem ipsum
 
 *A [SatoshiLabs](http://satoshilabs.com) project*
 
-Lorem ipsum
+{% for i in (1..4) %}
+![trezor{{ i }}](/assets/trezor{{ i }}.jpg)
+{% endfor %}
+
+TREZOR is the first hardware wallet providing security for your bitcoins by virtue of its design while retaining convenience of use. No matter whether you're a beginner or a security-paranoid geek.
+
+TREZOR is basically a small computer. It is designed to protect your private keys from possible online and offline risks. In order to do this, TREZOR keeps the private keys away from the Internet and confirms the transactions in-device. That way you can always check the screen for the right address, amount and transaction fee before sending your bitcoins.
 
 ###Jller/Ignorance (2015)
 
@@ -94,6 +100,12 @@ The work being a collaboration with Richard Janecek was featured in the National
 Interactive video-feedback VJing software. A camera is pointed to the computer screen, its picture is modified by a chain of custom made visual filters, which is then shown again on the very same screen. This feedback creates a complex chaotic system of colorful visuals.
 
 The project uses OpenCV for retrieving the camera stream, which is later rendered using OpenGL and an advanced pixel-shader. The behavior of this shader is controlled by an attached MIDI controller, which in combination with a movable camera provides an easy and intuitive way how to interact with the process that generates the images. Audio can also be used to change the filter parameters resulting in visuals that react to volume and/or frequency of the recorded sound.
+
+###[SVG-edit](https://github.com/svg-edit/svgedit) (since 2009)
+
+![svg-edit1](/assets/svg-edit1.png)
+
+SVG-edit is a fast, web-based, javascript-driven SVG drawing editor that works in any modern browser.
 
 ###[CTJB](https://ctjb.net)
 
