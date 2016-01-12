@@ -5,7 +5,7 @@ title: Idea Factory - Coin Counter
 
 This post is a part of [Idea Factory](/idea-factory/) series.
 
-![img]({{ site.url }}/assets/idea-coincounter.jpg)
+![img](/assets/idea-coincounter.jpg)
 
 The idea is simple: create a mobile phone application that is able to count coins (and their values) from the photo.
 You pour coins from your wallet on the table, make sure they don't overlap by spreading them, take a photo and voila

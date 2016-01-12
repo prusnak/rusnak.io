@@ -7,21 +7,21 @@ Last weekend I attended [Global Game Jam](http://globalgamejam.org/), more parti
 
 The theme selected for this year's edition was [Ouroboros](http://en.wikipedia.org/wiki/Ouroboros).
 
-![img]({{ site.url }}/assets/ouroboros.png)
+![img](/assets/ouroboros.png)
 
 At first I created one concept, but later I realized it's just a toy and it would be very hard to turn it into a playable game, so I decided to scratch it. Then I got the idea to create a puzzle game played on similar board like [Hexxagon](https://www.google.com/search?q=Hexxagon&tbm=isch), but instead of individual stones you have 2-6 snakes and your objective is to move and/or rotate them in order to create one big cycle consisting of all of them.
 
 This is how the game looked immediately after the contest ([YouTube video](http://www.youtube.com/watch?v=Oa5PDTAo3Zo)).
 
-![img]({{ site.url }}/assets/shot.jpg)
+![img](/assets/shot.jpg)
 
 I was very surprised that I won the second place with this game in the local competition, because all entries were great and to be honest I did not expect it. Thanks for your support!
 
-![img]({{ site.url }}/assets/gamejam0102.jpg)
+![img](/assets/gamejam0102.jpg)
 
-![img]({{ site.url }}/assets/gamejam0103.jpg)
+![img](/assets/gamejam0103.jpg)
 
-![img]({{ site.url }}/assets/gamejam0229.jpg)
+![img](/assets/gamejam0229.jpg)
 
 If you want to try the game for yourself you can either checkout the [source code](https://github.com/prusnak/hexoboros) or download a [ZIP](https://github.com/prusnak/hexoboros/zipball/master) or [TAR](https://github.com/prusnak/hexoboros/tarball/master) archives. After that make sure you have the latest [LÖVE](https://love2d.org/) engine installed and run `start.bat` (Windows) or `start.sh` (Linux/MacOSX).
 

@@ -5,11 +5,11 @@ title: Make your emails more colorful
 
 I use [Mozilla Thunderbird](http://mozillamessaging.com/thunderbird/) as my e-mail client and I prefer plain-text messages over HTML format. When you view a threaded conversation it looks like this:
 
-![img]({{ site.url }}/assets/tbird-before.png)
+![img](/assets/tbird-before.png)
 
 I found a [little hack](http://www.mozilla.org/support/thunderbird/tips#app_quotelevels) on Mozilla website which adds different colors for various quote levels in messages. Unfortunately the example is no longer valid for Thunderbird 3, because the default color scheme had changed. I modified the CSS to fit the new look and ended up with this:
 
-![img]({{ site.url }}/assets/tbird-after.png)
+![img](/assets/tbird-after.png)
 
 If you like it, just run the following command to create the `userContents.css` file:
 

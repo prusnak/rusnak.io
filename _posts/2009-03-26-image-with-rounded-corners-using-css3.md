@@ -7,7 +7,7 @@ W3C added nice [new options for creating rounded corners](http://www.css3.info/p
 
 I was playing with the rounded corners and I like this feature a lot, but I also hit one problem (in all 3 engines). When you use the `border-radius` with an `img` element, the image is drawn above the border, so it isn't rounded (top example). Fortunately, the effect could be easily achieved by rounded `div`, setting its dimensions exactly to the image size and using the image as the `div`'s background (bottom example).
 
-![img]({{ site.url }}/assets/rounded1.jpg)
+![img](/assets/rounded1.jpg)
 
 {% highlight html %}
 <img style="border: 2px solid black;
@@ -18,7 +18,7 @@ I was playing with the rounded corners and I like this feature a lot, but I also
             src="presov.jpg" />
 {% endhighlight %}
 
-![img]({{ site.url }}/assets/rounded2.jpg)
+![img](/assets/rounded2.jpg)
 
 {% highlight html %}
 <div style="border: 2px solid black;
