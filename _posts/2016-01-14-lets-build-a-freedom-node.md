@@ -14,7 +14,7 @@ I call it a "Freedom Node".
 
 I evaluated lot of options and ended up buying the following list from my local computer hardware supplier:
 
-| item | code | price |
+| item | model | price |
 |------|------|------:|
 | Barebone PC by Gigabyte | [GB-BXBT-1900](http://amzn.to/1TO7SyU) | $139.99 |
 | 8 GB RAM by Kingston | [KVR16LS11/8](http://amzn.to/1mOhUWs) | $35.38 |
@@ -23,7 +23,7 @@ I evaluated lot of options and ended up buying the following list from my local 
 I have decided to go for a solid-state drive option, but you can replace the suggested hard drive
 with a cheaper rotating disk (option A) or more expensive bigger solid-state disk (option B):
 
-| item | code | price |
+| item | model | price |
 |------|------|------:|
 | A) 750 GB HDD by Western Digital | [WD7500BPKX](http://amzn.to/1RHIOKH) | $58.99 |
 | B) 480 GB SSD by Crucial | [CT480BX200SSD1](http://amzn.to/1TQN61w) | $129.99 |
