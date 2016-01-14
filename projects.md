@@ -5,12 +5,6 @@ title: Projects
 
 Projects I am/was involved in:
 
-##[Coinmap](https://coinmap.org/) (since 2013)
-
-*A [SatoshiLabs](http://satoshilabs.com) project*
-
-Lorem ipsum
-
 ##[TREZOR](https://www.bitcointrezor.com/) (since 2012)
 
 *A [SatoshiLabs](http://satoshilabs.com) project*
@@ -22,6 +16,14 @@ Lorem ipsum
 TREZOR is the first hardware wallet providing security for your bitcoins by virtue of its design while retaining convenience of use. No matter whether you're a beginner or a security-paranoid geek.
 
 TREZOR is basically a small computer. It is designed to protect your private keys from possible online and offline risks. In order to do this, TREZOR keeps the private keys away from the Internet and confirms the transactions in-device. That way you can always check the screen for the right address, amount and transaction fee before sending your bitcoins.
+
+##[Coinmap](https://coinmap.org/) (since 2013)
+
+*A [SatoshiLabs](http://satoshilabs.com) project*
+
+![coinmap1](/assets/coinmap1.jpg)
+
+This is the question lot of bitcoin owners are asking themselves. We believe Bitcoin does not belong just to the online world, but has also its place in everyday real world situations. Many bitcoiners want to spend their coins in a restaurant or support a local service provider and bitcoin accepting businesses need to be discovered and located easily. That is why Coinmap came to life.
 
 ###Jller/Ignorance (2015)
 
