@@ -50,10 +50,16 @@ Now for the software part. I am going to use CentOS, because I am used to RPM di
 yum install epel-release
 {% endhighlight %}
 
-* Let's install Tor and Go language:
+* Add Ringing Liberty Bitcoin repository by running:
 
 {% highlight bash %}
-yum install tor golang
+yum install https://linux.ringingliberty.com/bitcoin/el7/x86_64/bitcoin-release-2-1.noarch.rpm
+{% endhighlight %}
+
+* Let's install Tor, Bitcoin and Go language:
+
+{% highlight bash %}
+yum install tor bitcoin-server golang
 {% endhighlight %}
 
 * Edit the Tor configuration file and uncomment the following lines (the first line opens the relay port, the second one disables the exit node):
@@ -65,12 +71,7 @@ ExitPolicy reject *:*
 
 If you are more adventurous you might skip uncommenting the `ExitPolicy reject` line, but I recommend [reading something](https://blog.torproject.org/blog/tips-running-exit-node-minimal-harassment) about running an Exit Node first.
 
-* Download and unpack Bitcoin client:
-
-{% highlight bash %}
-wget https://bitcoin.org/bin/bitcoin-core-0.11.2/bitcoin-0.11.2-linux64.tar.gz
-tar xfz bitcoin-0.11.2-linux64.tar.gz
-{% endhighlight %}
+* Edit the Bitcoin configuration file `/etc/bitcoin/bitcoin.conf` and change a RPC password to something random.
 
 * Add the following files to your `~/.bashrc` file and relogin:
 
@@ -88,8 +89,12 @@ go get -u github.com/ipfs/go-ipfs/cmd/ipfs
 * Run all three services using the following commands:
 
 {% highlight bash %}
+systemctl enable bitcoin
+systemctl start bitcoin
+
+systemctl enable tor
 systemctl start tor
-~/bin/bitcoind
+
 ipfs daemon &
 {% endhighlight %}
 
