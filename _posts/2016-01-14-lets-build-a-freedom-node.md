@@ -62,6 +62,8 @@ yum install https://linux.ringingliberty.com/bitcoin/el7/x86_64/bitcoin-release-
 yum install tor bitcoin-server golang
 {% endhighlight %}
 
+(If you want to use Bitcoin XT instead of Bitcoin Core just use `bitcoinxt-server` package instead of `bitcoin-server` in the line above.)
+
 * Edit the Tor configuration file `/etc/tor/torrc` and uncomment the following lines (the first line opens the relay port, the second one disables the exit node):
 
 {% highlight bash %}
