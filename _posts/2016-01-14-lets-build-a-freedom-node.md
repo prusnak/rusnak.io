@@ -91,4 +91,4 @@ systemctl start tor
 ipfs daemon &
 {% endhighlight %}
 
-* Enjoy!
+* Enjoy and big THANK YOU for your important contributions to these networks!
