@@ -62,7 +62,7 @@ yum install https://linux.ringingliberty.com/bitcoin/el7/x86_64/bitcoin-release-
 yum install tor bitcoin-server golang
 {% endhighlight %}
 
-* Edit the Tor configuration file and uncomment the following lines (the first line opens the relay port, the second one disables the exit node):
+* Edit the Tor configuration file `/etc/tor/torrc` and uncomment the following lines (the first line opens the relay port, the second one disables the exit node):
 
 {% highlight bash %}
 ORPort 9001
@@ -71,7 +71,12 @@ ExitPolicy reject *:*
 
 If you are more adventurous you might skip uncommenting the `ExitPolicy reject` line, but I recommend [reading something](https://blog.torproject.org/blog/tips-running-exit-node-minimal-harassment) about running an Exit Node first.
 
-* Edit the Bitcoin configuration file `/etc/bitcoin/bitcoin.conf` and change a RPC password to something random.
+* Edit the Bitcoin configuration file `/etc/bitcoin/bitcoin.conf` and change RPC password to something random:
+
+{% highlight ini %}
+rpcuser=bitcoinrpc
+rpcpassword=a_more_secure_password_than_this_one
+{% endhighlight %}
 
 * Add the following files to your `~/.bashrc` file and relogin:
 
