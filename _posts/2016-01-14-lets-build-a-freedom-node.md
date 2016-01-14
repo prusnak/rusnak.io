@@ -56,12 +56,14 @@ yum install epel-release
 yum install tor golang
 {% endhighlight %}
 
-* Edit the Tor configuration file and uncomment the following lines (the first line opens the relay port, the second one disables exit node):
+* Edit the Tor configuration file and uncomment the following lines (the first line opens the relay port, the second one disables the exit node):
 
 {% highlight bash %}
 ORPort 9001
 ExitPolicy reject *:*
 {% endhighlight %}
+
+If you are more adventurous you might skip uncommenting the `ExitPolicy reject` line, but I recommend [reading something](https://blog.torproject.org/blog/tips-running-exit-node-minimal-harassment) about running an Exit Node first.
 
 * Download and unpack Bitcoin client:
 
