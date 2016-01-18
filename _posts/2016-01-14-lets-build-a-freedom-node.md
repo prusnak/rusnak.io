@@ -84,16 +84,37 @@ rpcpassword=something_random_like_8aRuH7Dxa0NBegBWLVNTndF_but_longer
 
 {% highlight bash %}
 export GOPATH=$HOME/.go
-export PATH=$PATH:$GOPATH/bin
 {% endhighlight %}
 
-* Install IPFS:
+* Install IPFS and make a symlink to `/usr/bin`:
 
 {% highlight bash %}
 go get -u github.com/ipfs/go-ipfs/cmd/ipfs
+ln -s /root/.go/bin/ipfs /usr/bin/ipfs
 {% endhighlight %}
 
-* Run all three services using the following commands:
+* Initialize IPFS node:
+
+{% highlight bash %}
+ipfs init
+{% endhighlight %}
+
+* Create IPFS systemd service file `/usr/lib/systemd/system/ipfs.service` and put the following contents in it:
+
+{% highlight ini %}
+[Unit]
+Description=IPFS daemon
+After=network.target
+
+[Service]
+ExecStart=/usr/bin/ipfs daemon
+Restart=on-failure
+
+[Install]
+WantedBy=multiuser.target
+{% endhighlight %}
+
+* Run and enable start at boot for all three services using the following commands:
 
 {% highlight bash %}
 systemctl enable bitcoin
@@ -102,7 +123,8 @@ systemctl start bitcoin
 systemctl enable tor
 systemctl start tor
 
-ipfs daemon &
+systemctl enable ipfs
+systemctl start ipfs
 {% endhighlight %}
 
 * Enjoy and big THANK YOU for your important contribution to these networks!
