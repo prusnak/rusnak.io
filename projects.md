@@ -108,27 +108,3 @@ The project uses OpenCV for retrieving the camera stream, which is later rendere
 ![svg-edit1](/assets/svg-edit1.png)
 
 SVG-edit is a fast, web-based, javascript-driven SVG drawing editor that works in any modern browser.
-
-###[CTJB](https://ctjb.net) (since 2014)
-
-![ctjb](/assets/ctjb_logo.png)
-
-Lorem ipsum
-
-###[Ex Post](http://expost.space) (since 2015)
-
-![expost](/assets/expost.png)
-
-Lorem ipsum
-
-###[brmlab](https://brmlab.cz/) (2010-2012)
-
-![brmlab](/assets/brmlab.png)
-
-Founder
-
-###[openSUSE](https://www.opensuse.org) (2006-2012)
-
-![opensuse](/assets/opensuse.png)
-
-Board Member (2009-2011)
