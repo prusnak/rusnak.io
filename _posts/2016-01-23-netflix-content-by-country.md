@@ -3,7 +3,7 @@ layout: post
 title: Netflix Content by Country
 ---
 
-Beginning of January Netflix expanded to most of the countries all around the world. The domination map looks quite impressive:
+Beginning of January Netflix expanded to most of the countries all around the world. The [domination map](https://help.netflix.com/en/node/14164) looks quite impressive:
 
 [![netflix_map](/assets/netflix_map.jpg)](https://help.netflix.com/en/node/14164)
 
