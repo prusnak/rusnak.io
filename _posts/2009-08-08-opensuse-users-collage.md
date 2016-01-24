@@ -11,11 +11,11 @@ I started experimenting with metapixel, but because I still had 10 times less im
 
 ![opensuse-users-collage-1024](/assets/opensuse-users-collage-1024.jpg)
 
-hi-res: [6000x3754](http://fc07.deviantart.com/fs49/f/2009/219/a/1/openSUSE_Users_Collage_by_stickac.jpg)
+hi-res: [6000x3754](/assets/openSUSE_Users_Collage.jpg)
 
 ![opensuse-users-collage-2-1024](/assets/opensuse-users-collage-2-1024.jpg)
 
-hi-res: [6000x3750](http://fc01.deviantart.com/fs46/f/2009/220/3/2/openSUSE_Users_Collage_2_by_stickac.jpg)
+hi-res: [6000x3750](/assets/openSUSE_Users_Collage_2.jpg)
 
 If you'd like to play with the parameters I give you the [tarballed avatars](/assets/opensuse-users.tar.bz2) (6 MiB), [original images](/assets/collage-sources.tar.bz2) (1 MiB) and the command lines I used to produce the image:
 
