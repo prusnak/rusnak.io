@@ -3,7 +3,7 @@ layout: post
 title: RPM Summit at the openSUSE Conference 2009
 ---
 
-{% img /content/osc09.png %}
+![osc09](/assets/osc09.png)
 
 I'm sure you all heard about the [openSUSE Conference 2009](http://en.opensuse.org/OpenSUSE_Conf_2009) that took place in September in Nuremberg. Not so many know about the RPM Summit that was a part of the conference during its first two days. Idea to create something like this started at [LinuxTag](http://www.linuxtag.org/) 2009 when [Zonker](http://zonker.opensuse.org/) invited Florian to Nuremberg. One thing lead to another and in the end we managed to get several important people into one room (or to join us via conf call) and we kept them there until all problems with RPM and package management in general were solved. Well, not really, there was a lot to discuss and there still is, but you got the point. :-)
 

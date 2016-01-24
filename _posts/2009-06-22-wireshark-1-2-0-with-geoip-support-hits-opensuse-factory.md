@@ -9,11 +9,11 @@ A few days ago, the new stable 1.2 branch of Wireshark, the network protocol ana
 * Display filters now do auto-completion (Picture 2)
 * Wireshark can lookup in [GeoIP](http://geolite.maxmind.com/download/geoip/database/) databases and also use [OpenStreetMap](http://www.openstreetmap.org/) (Picture 3)
 
-{% img center /content/wireshark-start.png %}
+![wireshark-start](/assets/wireshark-start.png)
 
-{% img center /content/wireshark-autocomplete.png %}
+![wireshark-autocomplete](/assets/wireshark-autocomplete.png)
 
-{% img center /content/wireshark-map.jpg %}
+![wireshark-map](/assets/wireshark-map.jpg)
 
 The release contains also a lot of bugfixes, support for the new protocols and the new capture files. You can find more info in the [release notes](http://www.wireshark.org/docs/relnotes/wireshark-1.2.0.html).
 

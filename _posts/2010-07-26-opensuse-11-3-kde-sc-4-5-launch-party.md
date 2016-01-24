@@ -3,7 +3,7 @@ layout: post
 title: openSUSE 11.3 & KDE SC 4.5 Launch Party
 ---
 
-{% img center /content/launch_11.3.jpg %}
+![launch_11.3](/assets/launch_11.3.jpg)
 
 *This article is about openSUSE 11.3 & KDE SC 4.5 Launch Party in Prague, Czech Republic and is probably not very interesting for people living abroad. :-)*
 

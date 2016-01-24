@@ -9,15 +9,15 @@ We hadn't metapixel packaged in openSUSE, so I created the package in [Contrib](
 
 I started experimenting with metapixel, but because I still had 10 times less images available than Andreas, I was not able to produce very good results. Fortunately, I discovered `-c` option, which tries to create a collage instead of a mosaic, which looks much better. (Mosaic has photos arranged in a rectangular grid, while collage does not.) After some fiddling I was able to create the following pictures. I hope you like them! :-) (use right click and "Save as" when downloading hi-res images)
 
-{% img center /content/opensuse-users-collage-1024.jpg %}
+![opensuse-users-collage-1024](/assets/opensuse-users-collage-1024.jpg)
 
 hi-res: [6000x3754](http://fc07.deviantart.com/fs49/f/2009/219/a/1/openSUSE_Users_Collage_by_stickac.jpg)
 
-{% img center /content/opensuse-users-collage-2-1024.jpg %}
+![opensuse-users-collage-2-1024](/assets/opensuse-users-collage-2-1024.jpg)
 
 hi-res: [6000x3750](http://fc01.deviantart.com/fs46/f/2009/220/3/2/openSUSE_Users_Collage_2_by_stickac.jpg)
 
-If you'd like to play with the parameters I give you the [tarballed avatars](/content/opensuse-users.tar.bz2) (6 MiB), [original images](/content/collage-sources.tar.bz2) (1 MiB) and the command lines I used to produce the image:
+If you'd like to play with the parameters I give you the [tarballed avatars](/assets/opensuse-users.tar.bz2) (6 MiB), [original images](/assets/collage-sources.tar.bz2) (1 MiB) and the command lines I used to produce the image:
 
 {% highlight bash %}
 tar xfj opensuse-users.tar.bz2

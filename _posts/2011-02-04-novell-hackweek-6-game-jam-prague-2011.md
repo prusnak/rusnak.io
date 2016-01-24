@@ -3,13 +3,13 @@ layout: post
 title: "Novell Hackweek #6 / Game Jam Prague 2011"
 ---
 
-{% img /content/se-liveview.jpg 150 150 %}
+![se-liveview](/assets/se-liveview.jpg)
 
 Last week we had a Hackweek at Novell. I decided to do something rather unusual for me - to hack a device. I bought one of these nifty [LiveView](http://www.sonyericsson.com/cws/products/accessories/overview/liveview) devices made by Sony Ericsson, which are basically an intelligent watch that can connect to your mobile phone using Bluetooth. Unfortunately, it turned out to be rather unusable with Android devices (lots of Bluetooth disconnects), but supposedly a firmware update is on its way. After I saw that, I was somehow disappointed but I thought there must be a way how to reverse engineer a protocol and try to connect the device to my computer. I started to look around on the Internet and found a great blog by [Andrew de Quincey](http://adq.livejournal.com/). What was even more cool was that Andrew already did most of the job and wrote some code in Python. All I had to do is to wrap it into classes to make it more general and thus customizable. So what's next? My dream is to create a custom open-source firmware and flash the device. I hope I can achieve this with help of hardware wizards from our [Prague hackerspace](http://brmlab.cz/project/liveview). The source code is available from [gitorious](http://gitorious.org/brmlab/liveview) as usual. Do you think that Hackweek lasted only until Friday for me? Well, not really, keep reading ... :-)
 
 -----
 
-{% img /content/ggj.jpg 150 150 %}
+![ggj](/assets/ggj.jpg)
 
 When I was last time in [Germany](/gnome-python-hackfest-appinstaller-meeting-and-bretzn-hackfest/), [Leinir](http://leinir.dk/) told me about an event called [Global Game Jam](http://www.globalgamejam.org/). I liked its idea very much - 48-hour game coding marathon. I was amused when a couple of days later (just one day before the event took place) my friends [Split](http://twitter.com/split82), [Lokiman](http://twitter.com/lokimansk) and Frem told me about the Prague chapter called [Game Jam Prague](http://www.gamejamprague.org/) and invited me to join them. We decided to go there under the name they already used for a couple of their projects - [Hyperbolic Magnetism](http://hyperbolicmagnetism.com/) aka [@hypmag](http://twitter.com/hypmag).
 
@@ -19,9 +19,9 @@ We agreed that for idea one to be successful we would need to create nice graphi
 
 We met again on Saturday evening and we coded and tweaked and coded and tweaked ... It was a long way, but at some point (I guess it must have been something around Sunday 4AM) we realised we want to change the whole game logic completely. How about we had only two types of nations - green controlled by the user and cyan ones by AI? What if player could decide to split the nation into two halves or join two nations into a bigger one? Bigger nation of course produces A-bombs faster, but is also easier to target. We replaced most of the code and I started to work on an AI, which suddenly became necessary. We worked until Sunday noon when we were finally satisfied with the result. In the meanwhile Split composed a great music track and we quickly hacked game menu, intro screen and other cosmetic stuff. That's how it looked in the end:
 
-{% img center /content/ggj11-nuclear-crisis-logo.png %}
+![ggj11-nuclear-crisis-logo](/assets/ggj11-nuclear-crisis-logo.png)
 
-{% img center /content/ggj11-nuclear-crisis-iphone.png %}
+![ggj11-nuclear-crisis-iphone](/assets/ggj11-nuclear-crisis-iphone.png)
 
 I'll attach the gameplay video to give you even better idea how the game is played:
 
@@ -29,14 +29,14 @@ I'll attach the gameplay video to give you even better idea how the game is play
 
 At the end of the event all contestants judged the produced games and the first three places were announced - [check the list](http://www.gamejamprague.org/hry) for all other games and the result. The first team also got a very nice pacman-themed cake (which was also very tasty, thanks for sharing!). Although we didn't make it into the Top 3, I think it was a great success for us. We tried something completely new and we also met a lot of interesting people (one of them being Antonin, author of the legendary [TotalFinder](http://totalfinder.binaryage.com/)). I also hope that we'd be able to finish the game and publish it into Apple App Store (and probably later into Android Market).
 
-{% img center /content/179638_194546517237518_162802187078618_726903_3532401_n.jpg %}
+![179638_194546517237518_162802187078618_726903_3532401_n](/assets/179638_194546517237518_162802187078618_726903_3532401_n.jpg)
 
-{% img center /content/ggj11-all.jpg %}
+![ggj11-all](/assets/ggj11-all.jpg)
 
-{% img center /content/ggj11-cake.jpg %}
+![ggj11-cake](/assets/ggj11-cake.jpg)
 
 Finally I present you the photo of amazing Hyperbolic Magnetism shortly after we submitted our game at the end of the 48-hour session. :-)
 
-{% img center /content/ggj11-hypmag.jpg %}
+![ggj11-hypmag](/assets/ggj11-hypmag.jpg)
 
 See you next year!

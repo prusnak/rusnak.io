@@ -17,7 +17,7 @@ What we need for our delicious openSUSE coffee cake:
 
 <sup>1</sup> flour, <sup>2</sup> sugar, <sup>3</sup> walnuts, <sup>4</sup> powder, <sup>5</sup> cinnamon, <sup>6</sup> coffee
 
-{% img center /content/cooking.jpg %}
+![cooking](/assets/cooking.jpg)
 
 Instructions:
 
@@ -28,11 +28,11 @@ Instructions:
 5. Put chocolate icing on the top and add some openSUSE magic.
 6. Enjoy!
 
-{% img center /content/coffee-cake-opensuse.jpg %}
+![coffee-cake-opensuse](/assets/coffee-cake-opensuse.jpg)
 
 #Oh no, wait!
 
-{% img center /content/notyours1.jpg %}
+![notyours1](/assets/notyours1.jpg)
 
 There are some ingredients missing in our kitchen, ahem, I meant Factory. Currently we only have NetBeans and today I learned from [Michal](http://lizards.opensuse.org/author/mvyskocil/) that it will be probably dropped as well, because some of its parts started to depend on Eclipse.
 

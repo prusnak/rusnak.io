@@ -3,7 +3,7 @@ layout: post
 title: "Hackweek: Game Store"
 ---
 
-{% img /content/hackweek4.jpg %}
+![hackweek4](/assets/hackweek4.jpg)
 
 This week we had [Hack Week](http://news.opensuse.org/2009/07/08/hack-week-iv-approaches/) event when everyone was welcome to use Innovation time on FOSS projects or even start the new one! I spent most of the time on hacking the [Game Store](http://en.opensuse.org/GameStore), which I introduced in my [previous blogpost](/gamestore/). The package is now ready for you in the Build Service.
 
@@ -13,8 +13,8 @@ As a bonus I created a very simple One Click Install files catalog which imitate
 
 The screenshots for both versions (left Qt, right web) are here so you get the idea how it looks, but the best thing is to try it on your own! :-)
 
-{% img center /content/gamestore-qt.png %}
+![gamestore-qt](/assets/gamestore-qt.png)
 
-{% img center /content/gamestore-web.png %}
+![gamestore-web](/assets/gamestore-web.png)
 
 Big thanks go to randy-sk who helped me with harvesting of icons and screenshots of the games. I am already looking for your feedback! :-)

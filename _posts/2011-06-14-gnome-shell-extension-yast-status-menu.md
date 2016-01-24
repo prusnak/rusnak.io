@@ -11,4 +11,4 @@ If you don't know this yet, you have to install the `gnome-shell-extension-yast
 
 Enjoy! :-)
 
-{% img center /content/gnome3-menu-yast.png %}
+![gnome3-menu-yast](/assets/gnome3-menu-yast.png)

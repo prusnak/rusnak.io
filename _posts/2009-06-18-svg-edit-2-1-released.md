@@ -14,7 +14,7 @@ Thanks to hard work of Jeff, Narendra, Vidar and me, we managed to create today 
 * change rectangle radius
 * controlling of the editor with keyboard shortcuts
 
-{% img /content/svg-edit-2.1.png %}
+![svg-edit-2.1](/assets/svg-edit-2.1.png)
 
 You can try the 2.1 branch [here](http://svg-edit.googlecode.com/svn/branches/2.1/editor/svg-editor.html)
 

@@ -10,9 +10,9 @@ title: Google Summer of Code Mentors Summit 2008 - Day 1
 * back in the hotel room shown BuildService to David like I promised; he was interested in packaging, because he wanted to build [Tux4Kids](http://tux4kids.alioth.debian.org/) packages for [OLPC](http://laptop.org/)
 * we all took a shuttle to Googleplex
 
-{% img center /content/googleplex.jpg %}
-{% img center /content/gsocms2008-1.jpg %}
-{% img center /content/gsocms2008-2.jpg %}
+![googleplex](/assets/googleplex.jpg)
+![gsocms2008-1](/assets/gsocms2008-1.jpg)
+![gsocms2008-2](/assets/gsocms2008-2.jpg)
 
 * all herded into the largest of the conference rooms called Tunis
 * summit's opening talk held by [Leslie Hawthorn](http://www.hawthornlandings.org/) and [Chris DiBona](http://www.dibona.com/), the open source manager at Google
@@ -36,8 +36,8 @@ title: Google Summer of Code Mentors Summit 2008 - Day 1
 * everybody is throwing Google colorful frisbees and balls
 * lunch is actually tasty, but I miss warm food, every choice is a cold dish :(
 
-{% img center /content/gsocms2008-6.jpg %}
-{% img center /content/gsocms2008-3.jpg %}
+![gsocms2008-6](/assets/gsocms2008-6.jpg)
+![gsocms2008-3](/assets/gsocms2008-3.jpg)
 
 * going to session called 'Human Supercomputer Workshop' held by James from [Audacity](http://audacity.sourceforge.net/)
 

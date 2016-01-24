@@ -3,7 +3,7 @@ layout: post
 title: openSUSE Xfce Live CDs
 ---
 
-{% img /content/xfce_cd.png %}
+![xfce_cd](/assets/xfce_cd.png)
 
 Yesterday Andrea aka anubisg1 [announced the Live CDs for LXDE](http://lizards.opensuse.org/2010/03/13/opensuse-lxde-live-cds/), which he built in Build Service with the help of Dmitry Serpokryl. It was a very easy task for me to replace LXDE packages with Xfce ones in kiwi definition, so I can present you **the Xfce Live CDs**!
 

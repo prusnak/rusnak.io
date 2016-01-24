@@ -3,7 +3,7 @@ layout: post
 title: My Candidacy for the openSUSE Board
 ---
 
-{% img /content/snowboard_chameleon.png %}
+![snowboard_chameleon](/assets/snowboard_chameleon.png)
 
 ¡Hola openSUSE Folks!
 

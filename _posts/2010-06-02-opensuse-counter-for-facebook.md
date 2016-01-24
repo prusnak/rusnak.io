@@ -9,10 +9,10 @@ Here are the steps for you:
 
 1. login to [Facebook](http://facebook.com/)
 2. go to [http://apps.facebook.com/opensuse-counter](http://apps.facebook.com/opensuse-counter)
-3. application will ask for permission to access your profile, to accept click **Allow** {% img /content/fbcounter1.png %}
-4. click **Add to Profile** on the following page {% img /content/fbcounter2.png %}
-5. click **Add** to confirm your choice {% img /content/fbcounter3.png %}
-6. you'll be taken to your profile page where you click **Keep** {% img /content/fbcounter4.png %}
+3. application will ask for permission to access your profile, to accept click **Allow** ![fbcounter1](/assets/fbcounter1.png)
+4. click **Add to Profile** on the following page ![fbcounter2](/assets/fbcounter2.png)
+5. click **Add** to confirm your choice ![fbcounter3](/assets/fbcounter3.png)
+6. you'll be taken to your profile page where you click **Keep** ![fbcounter4](/assets/fbcounter4.png)
 7. enjoy openSUSE counter on your Facebook profile! :-)
 
 **Update:** When the counter seems to be stuck on 43 days, just remove and re-add the profile box.

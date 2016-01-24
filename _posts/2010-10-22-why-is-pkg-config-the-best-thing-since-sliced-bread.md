@@ -7,7 +7,7 @@ For those of you who haven't met pkg-config yet a short introduction from its [p
 
 > "pkg-config is a helper tool used when compiling applications and libraries. It helps you insert the correct compiler options on the command line so an application can use gcc -o test test.c `pkg-config --libs --cflags glib-2.0` for instance, rather than hard-coding values on where to find glib (or other libraries). It is language-agnostic, so it can be used for defining the location of documentation tools, for instance."
 
-{% img /content/sliced-bread.jpg %}
+![sliced-bread](/assets/sliced-bread.jpg)
 
 More and more projects are using pkg-config already, but there is still a very high number of projects that don't. This post tries to describe why using pkg-config is a good idea.
 

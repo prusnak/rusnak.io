@@ -13,8 +13,8 @@ title: Google Summer of Code Mentors Summit 2008 - Day 2
 * Pretty in-depth session about Android internals by [Romain Guy](http://www.curious-creature.org/).
 * Went outside to take a group photo near the Android statue:
 
-{% img center /content/gsocms2008-4.jpg %}
-{% img center /content/gsocms2008-5.jpg %}
+![gsocms2008-4](/assets/gsocms2008-4.jpg)
+![gsocms2008-5](/assets/gsocms2008-5.jpg)
 
 * Closing talk with Leslie and Chris. Mainly about Summer of Code application called [Melange, the Spice of Creation](http://code.google.com/p/soc/).
 

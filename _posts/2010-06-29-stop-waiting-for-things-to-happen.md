@@ -5,10 +5,10 @@ title: Stop Waiting for Things to Happen
 
 Today I stumbled upon this image:
 
-{% img center /content/happen.jpg %}
+![happen](/assets/happen.jpg)
 
 I thought this is exactly the motto openSUSE needs right now so I created this one:
 
-{% img center /content/opensuse-happen.png %}
+![opensuse-happen](/assets/opensuse-happen.png)
 
-(Feel free to enhance, [XCF file](/content/opensuse-happen.xcf.gz) for Gimp is [here](/content/opensuse-happen.xcf.gz).)
+(Feel free to enhance, [XCF file](/assets/opensuse-happen.xcf.gz) for Gimp is [here](/assets/opensuse-happen.xcf.gz).

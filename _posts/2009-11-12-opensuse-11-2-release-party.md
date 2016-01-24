@@ -3,7 +3,7 @@ layout: post
 title: openSUSE 11.2 Release Party
 ---
 
-{% img /content/opensuse-11.2.png %}
+![opensuse-11.2](/assets/opensuse-11.2.png)
 
 *This article is about openSUSE 11.2 Release Party in Prague, Czech Republic and is probably not very interesting for people living abroad. :-)*
 

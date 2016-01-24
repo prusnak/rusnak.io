@@ -9,7 +9,7 @@ During the event we had a wireless connection available, but it was rather unrel
 
 Let's get hacking! Mac OS X application is in fact just a directory structure. I copied the file `prezi.app/Contents/Resources/movie.swf` to the same location as my `data` directory and tried to run `flashplayer movie.swf`. Wow! The presentation started to load, but unfortunately it stopped after few seconds and I ended with this:
 
-{% img center /content/prezi1.png %}
+![prezi1](/assets/prezi1.png)
 
 I tried `strace`ing the process, but found nothing unusual (like failed `open` calls). Then I downloaded the debug version of Flash Player, run the command again and got this exception:
 
@@ -24,7 +24,7 @@ Aha! Locally stored SWF files cannot load other SWF files, neither local ones, n
 
 I will make it easier for you: let's google for "flash global security settings content creators". The first result at the time of writing this article was [this one](http://macromedia.com/support/documentation/en/flashplayer/help/settings_manager04a.html). Go to this URL, wait until the Settings manager is loaded and then click on the "Edit locations ..." button.
 
-{% img center /content/prezi2.png %}
+![prezi2](/assets/prezi2.png)
 
 After that select "Add directory" and choose local directory where you store your presentations. From now on you enabled standalone Flash player to run your Prezis. Congratulations!
 

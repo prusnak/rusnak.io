@@ -23,8 +23,8 @@ There are plenty of ideas and I'm sure you can come up with even more! I'm annou
 
 For the comparison I added screenshots how my profile looks in applications I mentioned in this post:
 
-{% img center /content/fedora-fas.png %}
+![fedora-fas](/assets/fedora-fas.png)
 
-{% img center /content/launchpad.png %}
+![launchpad](/assets/launchpad.png)
 
-{% img center /content/opensuse-connect.png %}
+![opensuse-connect](/assets/opensuse-connect.png)

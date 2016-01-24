@@ -9,10 +9,10 @@ Pred pár dňami sa pražská pobočka [SUSE Linux, s.r.o.](http://suse.cz/) sta
 
 Na záver ešte prikladám certifikát a dve fotografie nášho krásavca:
 
-{% img center /content/zoo_certifikat.jpg %}
+![zoo_certifikat](/assets/zoo_certifikat.jpg)
 
-{% img center /content/zoo_chameleon_1.jpg %}
+![zoo_chameleon_1](/assets/zoo_chameleon_1.jpg)
 
-{% img center /content/zoo_chameleon_2.jpg %}
+![zoo_chameleon_2](/assets/zoo_chameleon_2.jpg)
 
 *A few days ago the [Prague SUSE office](http://www.suse.cz/en/) became the adoptive parent of the giant chameleon (Furcifer oustaleti) in the [Prague ZOO](http://www.zoopraha.cz/en). You can see the adoption certificate and two photographs of our beauty above.*

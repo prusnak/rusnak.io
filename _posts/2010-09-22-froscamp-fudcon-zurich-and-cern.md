@@ -23,11 +23,23 @@ A very good thing about the conference was the accommodation. We were allowed to
 
 During the last night Zurich was attacked by aliens, but fortunately our CTJB Emergency Team from the van was present in the bunker and we were able to repel the invasion and save the world from the disaster! Meet the heroes:
 
-{% img /content/58504_1500642388881_1018818893_2240539_7162165_n.jpg %} {% img /content/59464_1500642628887_1018818893_2240542_956168_n.jpg %} {% img /content/59464_1500642668888_1018818893_2240543_4052970_n.jpg %}
+![58504_1500642388881_1018818893_2240539_7162165_n](/assets/58504_1500642388881_1018818893_2240539_7162165_n.jpg)
 
-{% img /content/59464_1500642788891_1018818893_2240546_6244479_n.jpg %} {% img /content/60456_1500583387406_1018818893_2240421_8178141_n.jpg %} {% img /content/62551_1500643548910_1018818893_2240550_8050005_n.jpg %}
+![59464_1500642628887_1018818893_2240542_956168_n](/assets/59464_1500642628887_1018818893_2240542_956168_n.jpg)
 
-{% img /content/62562_1500582867393_1018818893_2240418_6833033_n.jpg %} {% img /content/62979_1500583227402_1018818893_2240420_45982_n.jpg %} {% img /content/59464_1500642868893_1018818893_2240548_2816427_n.jpg %}
+![59464_1500642668888_1018818893_2240543_4052970_n](/assets/59464_1500642668888_1018818893_2240543_4052970_n.jpg)
+
+![59464_1500642788891_1018818893_2240546_6244479_n](/assets/59464_1500642788891_1018818893_2240546_6244479_n.jpg)
+
+![60456_1500583387406_1018818893_2240421_8178141_n](/assets/60456_1500583387406_1018818893_2240421_8178141_n.jpg)
+
+![62551_1500643548910_1018818893_2240550_8050005_n](/assets/62551_1500643548910_1018818893_2240550_8050005_n.jpg)
+
+![62562_1500582867393_1018818893_2240418_6833033_n](/assets/62562_1500582867393_1018818893_2240418_6833033_n.jpg)
+
+![62979_1500583227402_1018818893_2240420_45982_n](/assets/62979_1500583227402_1018818893_2240420_45982_n.jpg)
+
+![59464_1500642868893_1018818893_2240548_2816427_n](/assets/59464_1500642868893_1018818893_2240548_2816427_n.jpg)
 
 Photos by xyzz
 
@@ -35,38 +47,38 @@ Photos by xyzz
 
 The last day of the event was dedicated to [CERN](http://cern.ch/) visit. Journey to Geneve was long and extended our way back home to more than 10 hours, but it was totally worth it! Let the pictures speak for themselves:
 
-{% img center /content/shot_1284990152434.jpg %}
+![shot_1284990152434](/assets/shot_1284990152434.jpg)
 
-{% img center /content/shot_1284989025267.jpg %}
+![shot_1284989025267](/assets/shot_1284989025267.jpg)
 
-{% img center /content/shot_1284987474980.jpg %}
+![shot_1284987474980](/assets/shot_1284987474980.jpg)
 
-{% img center /content/shot_1284986358301.jpg %}
+![shot_1284986358301](/assets/shot_1284986358301.jpg)
 
-{% img center /content/shot_1284985687819.jpg %}
+![shot_1284985687819](/assets/shot_1284985687819.jpg)
 
-{% img center /content/shot_1284985485880.jpg %}
+![shot_1284985485880](/assets/shot_1284985485880.jpg)
 
-{% img center /content/shot_1284985162447.jpg %}
+![shot_1284985162447](/assets/shot_1284985162447.jpg)
 
-{% img center /content/shot_1284985060020.jpg %}
+![shot_1284985060020](/assets/shot_1284985060020.jpg)
 
-{% img center /content/shot_1284985020265.jpg %}
+![shot_1284985020265](/assets/shot_1284985020265.jpg)
 
-{% img center /content/shot_1284984998577.jpg %}
+![shot_1284984998577](/assets/shot_1284984998577.jpg)
 
-{% img center /content/shot_1284984329579.jpg %}
+![shot_1284984329579](/assets/shot_1284984329579.jpg)
 
-{% img center /content/shot_1284984273622.jpg %}
+![shot_1284984273622](/assets/shot_1284984273622.jpg)
 
-{% img center /content/shot_1284984182189.jpg %}
+![shot_1284984182189](/assets/shot_1284984182189.jpg)
 
-{% img center /content/shot_1284984032740.jpg %}
+![shot_1284984032740](/assets/shot_1284984032740.jpg)
 
-{% img center /content/shot_1284983867121.jpg %}
+![shot_1284983867121](/assets/shot_1284983867121.jpg)
 
-{% img center /content/shot_1284983850580.jpg %}
+![shot_1284983850580](/assets/shot_1284983850580.jpg)
 
-{% img center /content/shot_1284983638016.jpg %}
+![shot_1284983638016](/assets/shot_1284983638016.jpg)
 
 I would like to thank [Marcus Moeller](http://www.marcus-moeller.de/) and the whole ETH staff for driving both conferences and things related to that and I am already looking forward for the next year's edition!

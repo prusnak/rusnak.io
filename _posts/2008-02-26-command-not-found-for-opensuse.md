@@ -7,7 +7,7 @@ During Hackweek I implemented project [command-not-found for openSUSE](http://id
 
 Background: Debian and Ubuntu use patched bash, that allows to write handler, which is executed before "command not found" is written. That provides us a way we can help user in solving the problem. You can look at the picture to get the idea:
 
-{% img center /content/cnf.png %}
+![cnf](/assets/cnf.png)
 
 In first example, user types "epihpany" instead of "epiphany" and handler suggests correct spelling. After this user tries running epiphany, but it is not installed, so handler shows list of packages that provide this program. In the third example, user runs program that is not found, but package providing it is installed (meaning that program is not in user's path - probably intended to be run only by root).
 

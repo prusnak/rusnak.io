@@ -3,7 +3,7 @@ layout: post
 title: Xfce 4.6.0 released (and ready for testing!)
 ---
 
-{% img /content/xfce_logo.png %}
+![xfce_logo](/assets/xfce_logo.png)
 
 The Xfce development team [announced](http://www.xfce.org/about/news?id=21) today the release of the long-awaited 4.6.0 version of their [Xfce Desktop Environment](http://www.xfce.org/). There is also a very nice [Visual Tour](http://www.xfce.org/about/tour) prepared by Jérôme Guelfucci and Jannis Pohlmann, which highlights some of the new and exciting Xfce features. For me, the most vivid change is the complete rewrite of the Settings Manager together with its configuration backend, but I'm sure that everybody will find his/hers own favorite :-).
 

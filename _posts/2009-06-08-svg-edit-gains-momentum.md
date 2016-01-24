@@ -3,7 +3,7 @@ layout: post
 title: SVG-edit gains momentum
 ---
 
-{% img /content/svg.png %}
+![svg](/assets/svg.png)
 
 Last week I announced cooperation with [Narendra Sisodiya](http://narendra.techfandu.org/) on a [SVG-edit](http://svg-edit.googlecode.com/) project. The inscrutable ways of twitter allowed [Jeff Schiller](http://blog.codedread.com/), a co-chair of the W3C SVG Interest Group, to spot our efforts and later he contributed with various patches and implemented some new features like selecting and moving objects.
 

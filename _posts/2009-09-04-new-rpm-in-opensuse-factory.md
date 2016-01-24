@@ -3,7 +3,7 @@ layout: post
 title: New RPM in openSUSE Factory
 ---
 
-{% img /content/rpmlogo.png %}
+![rpmlogo](/assets/rpmlogo.png)
 
 Michael Schroeder has finally updated the RPM package in openSUSE to the latest upstream version 4.7.1. \o/ There were LOTS of bugfixes, enhancements and internal API changes which are probably not very interesting for mere mortals, but what do they mean for packagers? Here's a list of important changes for them:
 

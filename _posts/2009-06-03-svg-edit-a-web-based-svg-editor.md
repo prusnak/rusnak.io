@@ -9,7 +9,7 @@ Then I stumbled upon [svg-edit](http://code.google.com/p/svg-edit/) by Narendra 
 
 Today I finished all changes I wanted to fix before the relase, so I can present you the 2.0 release of SVG-edit! You can [try for yourself](http://svg-edit.googlecode.cddom/svn/trunk/editor/svg-editor.html) - this points to trunk development version, so it might get messy in time :)
 
-{% img center /content/svg-edit.png %}
+![svg-edit](/assets/svg-edit.png)
 
 During the development I was testing it in Firefox and Opera and I'm sure there will be some problems in other browsers. If you hit any, do not hesitate and write me an e-mail or even better use the issue tracker on the [project site](http://svg-edit.googlecode.com/).
 

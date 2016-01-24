@@ -9,7 +9,7 @@ title: Adding YaST menuitem to GNOME 3 status menu
 
 I read a [blogpost](http://lizards.opensuse.org/2011/04/30/mockup-gnome3-and-yast/) from Nelson Marques about adding YaST modules icon to GNOME Shell. I kind of liked the idea of YaST integration into GNOME Shell, but I had to share Julian Aloofi's worries in comments. He came up with a simple idea to just add the YaST menuitem to status menu in the top-right corner. This was very easy to implement because most of the GNOME Shell features are written in Javascript. I created the following [simple hack](https://gist.github.com/8d0d7d756e18b8a1da21) and ended up with this:
 
-{% img center /content/gnome3-menu-yast.png %}
+![gnome3-menu-yast](/assets/gnome3-menu-yast.png)
 
 If you want to add the YaST menuitem as well, just follow these simple steps (as root):
 

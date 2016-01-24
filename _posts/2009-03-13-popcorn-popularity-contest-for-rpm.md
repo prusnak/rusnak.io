@@ -3,7 +3,7 @@ layout: post
 title: Popcorn - Popularity Contest (for RPM)
 ---
 
-{% img /content/popcorn-128x128.png %}
+![popcorn-128x128](/assets/popcorn-128x128.png)
 
 A few days ago I came across [Feature #305877](https://features.opensuse.org/305877). What is it about? Well, Debian has the [Popularity Contest](http://popcon.debian.org/), which tracks installed packages, how often they are used and sends an anonymized report once a week to their server. This maps the usage of Debian packages and as a nice side effect Debian guys can estimate the size of their user base on various platforms and releases. This also gives information about the community structure (e.g. how many users use development tools or graphic applications). This would be a very neat thing to have in openSUSE too!
 

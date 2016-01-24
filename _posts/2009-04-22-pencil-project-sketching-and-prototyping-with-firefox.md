@@ -3,7 +3,7 @@ layout: post
 title: Pencil project - Sketching and Prototyping with Firefox
 ---
 
-{% img /content/pencil.jpg %}
+![pencil](/assets/pencil.jpg)
 
 A few years ago, me and four of my friends were doing an university project, which was basically a web portal. While designing our application we needed a tool for creating mock-ups and screen prototypes. There are a lot of options like [Wireframe Sketcher](http://wireframesketcher.com/), [Cleverlance Petra](http://petra.cleverlance.com/), but finally we ended up with [Axure RP](http://www.axure.com/). Now I'm not sure why, but at least we had the motivation to finish the prototype early (trial period was only 30 days :D).
 

@@ -23,21 +23,21 @@ I'm not going to compare the absolute number of bugs, nor the ratio of reported/
 * - assignee could be mailing list, it does not have to be an individual
 {% endhighlight %}
 
-{% img center /content/community-charts1.png %}
+![community-charts1](/assets/community-charts1.png)
 
 Chart 1: Bugs reported by
 
-{% img center /content/community-charts3.png %}
+![community-charts3](/assets/community-charts3.png)
 
 Chart 2: Unique reporters
 
 When we look at the reporters charts, we see that they are quite similar. This is good!
 
-{% img center /content/community-charts2.png %}
+![community-charts2](/assets/community-charts2.png)
 
 Chart 3: Bugs assigned to
 
-{% img center /content/community-charts4.png %}
+![community-charts4](/assets/community-charts4.png)
 
 Chart 4: Unique assignees
 

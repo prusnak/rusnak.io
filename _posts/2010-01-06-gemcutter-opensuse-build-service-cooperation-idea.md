@@ -3,7 +3,7 @@ layout: post
 title: Gemcutter + openSUSE Build Service cooperation (idea)
 ---
 
-{% img /content/gemcutter.png %}
+![gemcutter](/assets/gemcutter.png)
 
 If you are closely following [Ruby](http://www.ruby-lang.org/) development and especially the situation around ruby gems, you might already know of [Gemcutter](http://gemcutter.org/). It is a new service, which provides a very easy way how to publish gems and also a good [API](http://gemcutter.org/pages/api_docs) to deal with them. It is not trying to replace [RubyForge](http://rubyforge.org/) as whole, just its gem hosting (+ now defunct [GitHub gem hosting](http://gems.github.com/)) and will soon become the central and the only place for Ruby gems. The whole site is [MIT licensed](http://www.opensource.org/licenses/mit-license.php) and the code is available on [GitHub](http://github.com/qrush/gemcutter).
 

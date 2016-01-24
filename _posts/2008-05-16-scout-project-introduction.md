@@ -9,7 +9,7 @@ In the meantime, my colleague and Java packager Michal Vyskocil encountered a pr
 
 It will be a command line utility which will index various attributes of the packages and will allow the users to search in them. Each functionality will have its own module, so implementation could differ (we wanted the binary module to use SAT solver files and the others SQlite). I think that you'll get the idea from the following picture:
 
-{% img center /content/scout-mockup.png %}
+![scout-mockup](/assets/scout-mockup.png)
 
 Michal and I started development by creating a [GIT repository](http://repo.or.cz/w/scout.git) (not much to see there, yet). Obviously this program will not appear in openSUSE 11.0, but we'd like to see it in 11.1 (and my plan is that command-not-found will use scout as its helper). At start, we will create 3 modules (binaries, java and autoconf), but later we'll extend the support for python/ruby programmers.
 

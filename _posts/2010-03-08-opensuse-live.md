@@ -7,9 +7,9 @@ A few days ago [Michal blogged](http://michal.hrusecky.net/index.php/blog/show/P
 
 [http://live.opensuse.org/](http://live.opensuse.org/)
 
-{% img center /content/opensuse-live1.png %}
+![opensuse-live1](/assets/opensuse-live1.png)
 
-{% img center /content/opensuse-live2.jpg %}
+![opensuse-live2](/assets/opensuse-live2.jpg)
 
 Enjoy this gift from our community member and don't forget to report any problems you find with this new milestone in our [bugzilla](http://bugzilla.novell.com/). :-)
 
