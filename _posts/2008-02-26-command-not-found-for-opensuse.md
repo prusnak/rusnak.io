@@ -19,6 +19,6 @@ Ah, I almost forgot :) You have to add these 3 lines to `/etc/bash.bashrc.local`
 if [ -f /etc/bash_command_not_found ]; then
   . /etc/bash_command_not_found
 fi
-%{ endhighlight %}
+{% endhighlight %}
 
 Handler for `zsh` can be installed in similar fashion. Read `README` in `command-not-found` package.

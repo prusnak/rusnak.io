@@ -7,4 +7,4 @@ This years Google Sumer of Code, student Peter Libič tried to implement an idea
 
 Application support is not as wide as it probably should be, but because of the clean design, we hope that the number of supported applications will rise in the future. You can try Mango for yourself - packages are ready in BuildService and we are looking forward to feedback from you. See [http://en.opensuse.org/Mango](http://en.opensuse.org/Mango) for more info and installation instructions ...
 
-{% img center http://files.opensuse.org/opensuse/en/0/06/Mango-gui.png %}
+![Mango-gui](/assets/Mango-gui.png)

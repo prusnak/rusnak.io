@@ -15,4 +15,4 @@ Among the talks I mentioned I also plan to visit sessions about [GNOME 3](http:/
 
 See you all there!
 
-{% img http://static.opensuse.org/promo/osc2011/banner/square-badge.png %}
+![square-badge](/assets/square-badge.png)
