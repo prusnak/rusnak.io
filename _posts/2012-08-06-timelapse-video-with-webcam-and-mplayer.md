@@ -2,7 +2,6 @@
 layout: post
 title: Timelapse video with webcam and mplayer
 ---
-categories:
 
 Some time ago I created a timelapse video using webcam and mplayer:
 

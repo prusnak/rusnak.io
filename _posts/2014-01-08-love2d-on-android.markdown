@@ -3,7 +3,7 @@ layout: post
 title: LÖVE (Love2D) on Android
 ---
 
-Almost two years ago I blogged about my [Global Game Jam](http://globalgamejam.org/) entry called [Hexoboros](http://stick.gk2.sk/2012/01/global-game-jam-2012-hexoboros/).
+Almost two years ago I blogged about my [Global Game Jam](http://globalgamejam.org/) entry called [Hexoboros](/global-game-jam-2012-hexoboros/).
 This year's approacing GGJ reminded me that I wanted to port this game to Android. Back then it turned out to be quite hard and results were not very satisfying.
 
 I knew that [SDL](http://libsdl.org/) 2.0 was released in August 2013 bringing Android support out of the box.
