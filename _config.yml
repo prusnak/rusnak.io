@@ -1,4 +1,6 @@
-gems:                [jekyll-paginate]
+gems:
+  - jekyll-paginate
+  - jekyll-archives
 
 permalink:           /:title/
 
@@ -13,3 +15,10 @@ author:
   name:              Pavol Rusnak
   url:               https://twitter.com/pavolrusnak
   email:             stick@gk2.sk
+
+jekyll-archives:
+  enabled:
+  - year
+  layout: 'archive'
+  permalinks:
+    year: '/archive/:year/'
