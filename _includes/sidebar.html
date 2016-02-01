@@ -5,16 +5,17 @@
 <!-- Toggleable sidebar -->
 <div class="sidebar" id="sidebar">
   <div class="sidebar-item">
-    <p>{{ site.description }}</p>
+    <p><i class="fa fa-user fa-fw"></i> {{ site.description }}</p>
   </div>
 
   <nav class="sidebar-nav">
-    <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}/">Home</a>
-    <a class="sidebar-nav-item" href="/projects">Projects</a>
-    <a class="sidebar-nav-item" href="/about">About</a>
-    <a class="sidebar-nav-item" href="/archive">Archive</a>
-    <a class="sidebar-nav-item" href="https://twitter.com/pavolrusnak">@pavolrusnak</a>
-    <a class="sidebar-nav-item" href="mailto:stick@gk2.sk">stick@gk2.sk</a>
+    <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}/"><i class="fa fa-home fa-fw"></i> Home</a>
+    <a class="sidebar-nav-item" href="/projects"><i class="fa fa-thumbs-up fa-fw"></i> Projects</a>
+    <a class="sidebar-nav-item" href="/about"><i class="fa fa-info-circle fa-fw"></i> About</a>
+    <a class="sidebar-nav-item" href="/archive"><i class="fa fa-archive fa-fw"></i> Archive</a>
+    <a class="sidebar-nav-item" href="https://twitter.com/pavolrusnak"><i class="fa fa-twitter fa-fw"></i> @pavolrusnak</a>
+    <a class="sidebar-nav-item" href="mailto:stick@gk2.sk"><i class="fa fa-envelope fa-fw"></i> stick@gk2.sk</a>
+    <a class="sidebar-nav-item" href="https://pgp.mit.edu/pks/lookup?op=get&search=0x91F3B339B9A02A3D"><i class="fa fa-key fa-fw"></i> GPG public key</a>
   </nav>
 
   <div class="sidebar-item">
