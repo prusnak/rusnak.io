@@ -27,7 +27,7 @@ The last argument has quite different meaning than the one used in [strncat](htt
 It is the maximum length of the **appended** string, not the size of the whole output buffer.
 The patch fixing this issue is similar to the following:
 
-{% highlight diff %}
+~~~diff
 --- source.c
 +++ source.c
 @@ -34,7 +34,7 @@
@@ -40,13 +40,13 @@ The patch fixing this issue is similar to the following:
  if (verbose)
  {
  
-{% endhighlight %}
+~~~
 
 This patch obviously fixes the problem only at one particular place.
 Semantic patch that fixes all wrong usages of the function might look like this (but please don't take my words for granted,
 I have not tested it):
 
-{% highlight diff %}
+~~~diff
 @@
 identifier dest, src;
 @@
@@ -54,7 +54,7 @@ identifier dest, src;
 -strncpy(dest, src, sizeof(dest));
 +strncpy(dest, src, sizeof(dest) - sizeof(src) - 1);
  
-{% endhighlight %}
+~~~
 
 So back to the idea:
 

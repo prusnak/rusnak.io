@@ -5,7 +5,7 @@ title: Getting SSH fingerprints for machines in your network
 
 Some time ago we were trying to get SSH fingerprints for all machines in our local network. Solution is not that straightforward, but it's not a rocket science either:
 
-{% highlight bash %}
+~~~bash
 #!/bin/bash
 tmpfile=$(mktemp)
 for i in $(seq 2 254); do
@@ -13,7 +13,7 @@ for i in $(seq 2 254); do
 done
 ssh-keygen -l -f $tmpfile
 rm -f $tmpfile
-{% endhighlight %}
+~~~
 
 First, we retrieve the keys using `ssh-keyscan`, store them into temporary file and compute fingerprints afterwards using `ssh-keygen`. Or is there a less complex and more elegant solution?
 

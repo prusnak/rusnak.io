@@ -19,14 +19,14 @@ hi-res: [6000x3750](/assets/openSUSE_Users_Collage_2.jpg)
 
 If you'd like to play with the parameters I give you the [tarballed avatars](/assets/opensuse-users.tar.bz2) (6 MiB), [original images](/assets/collage-sources.tar.bz2) (1 MiB) and the command lines I used to produce the image:
 
-{% highlight bash %}
+~~~bash
 tar xfj opensuse-users.tar.bz2
 tar xfj collage-sources.tar.bz2
 mkdir ./opensuse-users-ready
 metapixel-prepare --width=48 --height=48 ./opensuse-users ./opensuse-users-ready
 metapixel -c -l ./opensuse-users-ready -w 48 -h 48 -m wavelet -d 500 -e global --metapixel opensuse-logo-6000.png opensuse-users-collage.png
 metapixel -c -l ./opensuse-users-ready -w 48 -h 48 -m wavelet -d 300 -e global --metapixel chameleon.jpg opensuse-users-collage-2.png
-{% endhighlight %}
+~~~
 
 Enjoy! (Don't forget to install `metapixel` package from Contrib.)
 

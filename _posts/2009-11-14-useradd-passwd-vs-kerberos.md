@@ -9,14 +9,14 @@ At work we use [LDAP](http://en.wikipedia.org/wiki/Lightweight_Directory_Access_
 
 It turned out that this is caused by the line:
 
-{% highlight bash %}
+~~~
 password  [default=ignore success=1]  pam_succeed_if.so  uid > 999  quiet
-{% endhighlight %}
+~~~
 
 which is added to `/etc/pam.d/common-password-pc` by `pam-config` during the installation, when Kerberos is enabled.
 
 So the question is: How to add local users with local password (e.g. for testing purposes)? You can add so-called system-users by using `useradd -r username` (these will be given UID &lt; 1000 and thus will not be handled by Kerberos). There is a catch, though. You cannot login as this user, because it's shell is set to `/bin/false` by default. You can change it in `/etc/passwd` or, more cleanly, specify the shell immediately when creating the user:
 
-{% highlight bash %}
+~~~bash
 useradd -r username -s /bin/bash
-{% endhighlight %}
+~~~

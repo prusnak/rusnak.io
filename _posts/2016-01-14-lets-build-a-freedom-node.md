@@ -46,62 +46,62 @@ Now for the software part. I am going to use CentOS, because I am used to RPM di
 
 * Add EPEL (Extra Packages) repository by running:
 
-{% highlight bash %}
+~~~bash
 yum install epel-release
-{% endhighlight %}
+~~~
 
 * Add Ringing Liberty Bitcoin repository by running:
 
-{% highlight bash %}
+~~~bash
 yum install https://linux.ringingliberty.com/bitcoin/el7/x86_64/bitcoin-release-2-1.noarch.rpm
-{% endhighlight %}
+~~~
 
 * Install Tor, Bitcoin and Go language:
 
-{% highlight bash %}
+~~~bash
 yum install tor bitcoin-server golang
-{% endhighlight %}
+~~~
 
 (If you want to use Bitcoin XT instead of Bitcoin Core just use `bitcoinxt-server` package instead of `bitcoin-server` in the line above.)
 
 * Edit the Tor configuration file `/etc/tor/torrc` and uncomment the following lines (the first line opens the relay port, the second one disables the exit node):
 
-{% highlight bash %}
+~~~
 ORPort 9001
 ExitPolicy reject *:*
-{% endhighlight %}
+~~~
 
 If you are more adventurous you might skip uncommenting the `ExitPolicy reject` line, but I recommend [reading something](https://blog.torproject.org/blog/tips-running-exit-node-minimal-harassment) about running an Exit Node first.
 
 * Edit the Bitcoin configuration file `/etc/bitcoin/bitcoin.conf` and change RPC password to something random:
 
-{% highlight ini %}
+~~~ini
 rpcuser=bitcoinrpc
 rpcpassword=something_random_like_8aRuH7Dxa0NBegBWLVNTndF_but_longer
-{% endhighlight %}
+~~~
 
 * Add the following files to your `~/.bashrc` file and relogin:
 
-{% highlight bash %}
+~~~bash
 export GOPATH=$HOME/.go
-{% endhighlight %}
+~~~
 
 * Install IPFS and make a symlink to `/usr/bin`:
 
-{% highlight bash %}
+~~~bash
 go get -u github.com/ipfs/go-ipfs/cmd/ipfs
 ln -s /root/.go/bin/ipfs /usr/bin/ipfs
-{% endhighlight %}
+~~~
 
 * Initialize IPFS node:
 
-{% highlight bash %}
+~~~bash
 ipfs init
-{% endhighlight %}
+~~~
 
 * Create IPFS systemd service file `/usr/lib/systemd/system/ipfs.service` and put the following contents in it:
 
-{% highlight ini %}
+~~~ini
 [Unit]
 Description=IPFS daemon
 After=network.target
@@ -112,11 +112,11 @@ Restart=on-failure
 
 [Install]
 WantedBy=multiuser.target
-{% endhighlight %}
+~~~
 
 * Run and enable start at boot for all three services using the following commands:
 
-{% highlight bash %}
+~~~bash
 systemctl enable bitcoin
 systemctl start bitcoin
 
@@ -125,6 +125,6 @@ systemctl start tor
 
 systemctl enable ipfs
 systemctl start ipfs
-{% endhighlight %}
+~~~
 
 * Enjoy and big THANK YOU for your important contribution to these networks!

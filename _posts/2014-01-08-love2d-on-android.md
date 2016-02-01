@@ -26,7 +26,7 @@ Some notes:
 * never force fixed resolution in your LÖVE code; rather update your code so it works with any given resolution and aspect ratio (i.e. don't hardcode sizes and positions of rendered objects)
 * you can test you got that right by putting `t.window.resizable = true` in your `conf.lua` and using something like this in your `main.lua` code:
 
-{% highlight lua %}
+~~~lua
 function love.resize(w, h)
   width, height = w, h
   scale = height / 1024
@@ -35,4 +35,4 @@ end
 function love.load()
   love.resize(love.window.getWidth(), love.window.getHeight())
   ...
-{% endhighlight %}
+~~~

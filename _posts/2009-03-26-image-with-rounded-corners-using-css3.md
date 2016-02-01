@@ -9,18 +9,18 @@ I was playing with the rounded corners and I like this feature a lot, but I also
 
 ![img](/assets/rounded1.jpg)
 
-{% highlight html %}
+~~~html
 <img style="border: 2px solid black;
             border-radius: 30px;
             -moz-border-radius: 30px;
             -khtml-border-radius: 30px;
             -webkit-border-radius: 30px;"
             src="presov.jpg" />
-{% endhighlight %}
+~~~
 
 ![img](/assets/rounded2.jpg)
 
-{% highlight html %}
+~~~html
 <div style="border: 2px solid black;
             border-radius: 30px;
             -moz-border-radius: 30px;
@@ -29,7 +29,7 @@ I was playing with the rounded corners and I like this feature a lot, but I also
             width: 180px;
             height: 240px;
             background: url('presov.jpg');" />
-{% endhighlight %}
+~~~
 
 **Update#1:** I reported the issue to [Gecko](https://bugzilla.mozilla.org/show_bug.cgi?id=485501), [KHTML](https://bugs.kde.org/show_bug.cgi?id=188242) and [WebKit](https://bugs.webkit.org/show_bug.cgi?id=24880) bugzillas.
 

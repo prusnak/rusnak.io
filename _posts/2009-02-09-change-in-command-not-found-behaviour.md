@@ -7,7 +7,7 @@ Due to some requests on mailing lists and Feature [#305803](https://features.ope
 
 Now it prints this info immediately:
 
-{% highlight bash %}
+~~~
 $ blender
 If 'blender' is not a typo you can use command-not-found to lookup the package
 that contains it, like this:
@@ -18,7 +18,7 @@ $ ifconfig
 Absolute path to 'ifconfig' is '/sbin/ifconfig', so running it may require
 superuser privileges (eg. root).
 bash: ifconfig: command not found
-{% endhighlight %}
+~~~
 
 instead of directly performing the search.
 

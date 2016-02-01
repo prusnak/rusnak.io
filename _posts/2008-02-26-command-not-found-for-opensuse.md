@@ -15,10 +15,10 @@ Package command-not-found and patched bash are available in [BuildService](https
 
 Ah, I almost forgot :) You have to add these 3 lines to `/etc/bash.bashrc.local` or `~/.bashrc`:
 
-{% highlight bash %}
+~~~bash
 if [ -f /etc/bash_command_not_found ]; then
   . /etc/bash_command_not_found
 fi
-{% endhighlight %}
+~~~
 
 Handler for `zsh` can be installed in similar fashion. Read `README` in `command-not-found` package.

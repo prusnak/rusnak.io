@@ -13,12 +13,12 @@ Let's get hacking! Mac OS X application is in fact just a directory structure. I
 
 I tried `strace`ing the process, but found nothing unusual (like failed `open` calls). Then I downloaded the debug version of Flash Player, run the command again and got this exception:
 
-{% highlight actionscript %}
+~~~actionscript
 An ActionScript error has occurred:
 Error #2044: Unhandled SecurityErrorEvent:. text=Error #2140: Security sandbox violation:
 file:///.../movie.swf/[[DYNAMIC]]/1 cannot load file:///.../data/fonts/LiberationSerif-Regular.swf.
 Local-with-filesystem and local-with-networking SWF files cannot load each other.
-{% endhighlight %}
+~~~
 
 Aha! Locally stored SWF files cannot load other SWF files, neither local ones, nor remote ones. That's the problem.  Ok, let's change the standalone player settings. But how?! I tried various command line switch with no success. After couple minutes of searching I found that standalone Flash Player settings could be changed via Flash plugin that loads Settings manager from the Internet? WTF?! :-)
 

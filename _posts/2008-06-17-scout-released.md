@@ -7,25 +7,25 @@ Hooray! The first public version of Scout was just released. It is a simple tool
 
 1. add the following repositories:
 
-{% highlight bash %}
+~~~bash
 zypper ar http://download.opensuse.org/repositories/home:/prusnak:/scout/openSUSE_11.0 scout
 zypper ar http://download.opensuse.org/repositories/home:/prusnak:/scout/data scout-data
-{% endhighlight %}
+~~~
 
 (change openSUSE_11.0 to your distribution if necessary)
 
 2. install scout:
 
-{% highlight bash %}
+~~~bash
 zypper in scout
-{% endhighlight %}
+~~~
 
 3. add any of the index data you find attractive (only example - see [scout wiki page](http://en.opensuse.org/Scout) for the whole list)
 
-{% highlight bash %}
+~~~bash
 zypper in scout-bin-suse110
 zypper in scout-java-suse110
-{% endhighlight %}
+~~~
 
 Data package names are in format scout-*module*-*repo*. Indexes for autoconf macros are in *autoconf* packages, *bin* are indexed binaries and *java* are indexed java classes. Repository names are either distributions (*sle10*, *suse101*, *suse102*, *suse103*, *suse110*) or BuildService projects (*jpackage17* for Java:jpackage1.7). Simple, isn't it? :)
 

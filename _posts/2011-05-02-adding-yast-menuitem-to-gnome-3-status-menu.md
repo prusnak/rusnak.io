@@ -13,12 +13,12 @@ I read a [blogpost](http://lizards.opensuse.org/2011/04/30/mockup-gnome3-and-yas
 
 If you want to add the YaST menuitem as well, just follow these simple steps (as root):
 
-{% highlight bash %}
+~~~bash
 cd /
 wget https://gist.github.com/raw/8d0d7d756e18b8a1da21/131a6caae2556edaa045f9cc3f13c573e12f2d31/gnome3-statusmenu-yast.patch
 patch -p1 &lt; gnome3-statusmenu-yast.patch
 rm gnome3-statusmenu-yast.patch
-{% endhighlight %}
+~~~
 
 Now you have to restart GNOME Shell (press Alt+F2 and enter "r" command) and you can enjoy the new menu item. :-) Remember, the changes will be lost next time you reinstall the `gnome-shell` package.
 

@@ -13,9 +13,9 @@ It contains instructions for all distributions (like adding repo and installing 
 
 Go to [http://software.opensuse.org/download?project=openSUSE:Tools&package=osc](http://software.opensuse.org/download?project=openSUSE:Tools&package=osc) to see the page in action. You can also embed the page using slightly modified URL into your download page:
 
-{% highlight html %}
+~~~html
 <iframe src="http://software.opensuse.org/download/iframe?project=openSUSE:Tools&package=osc"></iframe>
-{% endhighlight %}
+~~~
 
 <iframe width="600" height="600" src="http://software.opensuse.org/download/iframe?project=openSUSE:Tools&package=osc"></iframe>
 

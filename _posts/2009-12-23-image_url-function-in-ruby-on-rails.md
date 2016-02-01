@@ -5,7 +5,7 @@ title: image_url function in Ruby on Rails
 
 If you need to get the full URL of an image, just put the following code snippet into `ApplicationHelper` module in your `app/helpers/application_helper.rb`:
 
-{% highlight ruby %}
+~~~ruby
 def image_url(source)
   abs_path = image_path(source)
   unless abs_path =~ /^http/
@@ -13,7 +13,7 @@ def image_url(source)
   end
  abs_path
 end
-{% endhighlight %}
+~~~
 
 I wonder why this function is not already a standard part of Rails.
 

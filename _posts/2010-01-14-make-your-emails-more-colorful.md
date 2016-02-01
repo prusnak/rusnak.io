@@ -13,14 +13,14 @@ I found a [little hack](http://www.mozilla.org/support/thunderbird/tips#app_quot
 
 If you like it, just run the following command to create the `userContents.css` file:
 
-{% highlight bash %}
+~~~bash
 mkdir -p ~/.thunderbird/*.default/chrome
 touch ~/.thunderbird/*.default/chrome/userContent.css
-{% endhighlight %}
+~~~
 
 and put the following contents there:
 
-{% highlight css %}
+~~~css
 /* Quote Levels Colors */
 /* bar color: #729fcf */
 blockquote[type=cite] {
@@ -47,6 +47,6 @@ blockquote[type=cite] blockquote blockquote blockquote blockquote {
     color: #745c37 !important;
     background-color: #fcf6ec !important;
 }
-{% endhighlight %}
+~~~
 
 Don't forget to restart Thunderbird! :-)

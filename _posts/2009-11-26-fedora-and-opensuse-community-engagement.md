@@ -8,7 +8,7 @@ The middle of November was very exciting for both [Fedora](http://fedoraproject.
 I'm not going to compare the absolute number of bugs, nor the ratio of reported/closed ones, because I think these statistics are easy to find. Also, Fedora 12 development took 6 months, while openSUSE 11.2 took 11 months and this is not very comparable. What I was interested in was how much work happens inside the companies and how much outside their walls, in the community. Please, bear in mind that development is not only about reporting, closing bugs and their count. A lot also happens on wikis, [openFATE](https://features.opensuse.org/) or other tools, so these statistics could be a little bit skewed. Enough talking, here comes the data and charts ...
 
 
-{% highlight ini %}
+~~~ini
                     +----------+-------------+-----------+-------------+
                     |     openSUSE 11.2      |        Fedora 12        |
                     +----------+-------------+-----------+-------------+
@@ -21,7 +21,7 @@ I'm not going to compare the absolute number of bugs, nor the ratio of reported/
 +-------------------+----------+-------------+-----------+-------------+
 
 * - assignee could be mailing list, it does not have to be an individual
-{% endhighlight %}
+~~~
 
 ![community-charts1](/assets/community-charts1.png)
 

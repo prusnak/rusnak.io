@@ -72,17 +72,17 @@ Out of 148 entries in my $HOME, there are only 12 of them I really want to see! 
 
 This is very simple to achieve, if only applications followed the [XDG Base Directory Specification](http://standards.freedesktop.org/basedir-spec/basedir-spec-latest.html). Unfortunately, lots of them don't. When you start using the following piece of code in your new awesome applications:
 
-{% highlight cpp %}
+~~~cpp
 config = getenv("XDG_CONFIG_HOME")
 if (!config) config = getenv("HOME") + "/.config"
 config = config + "/my_awesome_app"
-{% endhighlight %}
+~~~
 
 instead of the old-school one:
 
-{% highlight cpp %}
+~~~cpp
 config = getenv("HOME") + "/.my_awesome_app"
-{% endhighlight %}
+~~~
 
 users will gain two great advantages with nearly no extra effort:
 
