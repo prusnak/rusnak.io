@@ -13,9 +13,11 @@ How about now?
 
 ![nfc-metro-detail](/assets/nfc-metro-detail.jpg)
 
-Don't worry, I haven't notice that either at first, until my friend Sargon pointed me to it.
+Don't worry, I haven't notice it either at first, until my friend Sargon pointed that out.
 
-So this white circle looks like a NFC tag. Let's try it out!
+So this white circle looks like a NFC tag (and yes, it is there even when there is a poster over it).
+
+Let's try it out!
 
 I am using Nexus 5 phone with [NFC TagInfo by NXP](https://play.google.com/store/apps/details?id=com.nxp.taginfolite) application installed.
 
@@ -45,7 +47,7 @@ Select `New dataset`
 
 ![nfc-metro-b-writer3](/assets/nfc-metro-b-writer3.png)
 
-I will be creating a link, so I choose `Link`.
+I will be creating a link so I choose `Link`.
 
 ![nfc-metro-b-writer4](/assets/nfc-metro-b-writer4.png)
 
@@ -88,4 +90,4 @@ When I was experimented with the tags, I haven't found any which had any data st
 I hope next time I try this, there will be some nice poems (106 chars maximum) or links to some nice pictures.
 Heck, someone could even create an interesting augmented reality game, capture the flag, check-in (who wants to be a mayor of this train?) or ...
 
-The only limit is your imagination. And slow internet in the metro (and none in the tunnels). :-(
+The only limit is your imagination. And slow (or none) internet in the metro. :-(
