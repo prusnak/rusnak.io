@@ -3,7 +3,7 @@ layout: post
 title: Google Summer of Code Mentors Summit 2008 - Day 1
 ---
 
-###Day 1 - 2008/10/25
+## Day 1 - 2008/10/25
 
 * woke up and headed to the hotel <span class="vcb_lt">parlour</span> for breakfast
 * met Werner and talked a little bit about Java and Java packaging in openSUSE

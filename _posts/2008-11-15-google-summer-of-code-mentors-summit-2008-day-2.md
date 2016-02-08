@@ -3,7 +3,7 @@ layout: post
 title: Google Summer of Code Mentors Summit 2008 - Day 2
 ---
 
-###Day 2 - 2008/10/26
+## Day 2 - 2008/10/26
 
 * The second day started with breakfast and was followed by the bus journey to Googleplex.
 * There we had on opening talk about the first day, what went good, what went bad and we would like to change. We had a lots of comments about Summer of Code organization, mainly about picking right students for project.

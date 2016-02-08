@@ -3,7 +3,7 @@ layout: post
 title: Google Summer of Code Mentors Summit 2008 - Day 0
 ---
 
-###Day 0 - 2008/10/24
+## Day 0 - 2008/10/24
 
 In my previous blogpost I described the project I mentored during this year's Google Summer of Code event. At the end of October I was invited into Google Headquarters in Mountain View, California for Mentors Summit. Here you can find my remarks.
 
