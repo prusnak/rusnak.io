@@ -3,6 +3,8 @@ layout: page
 title: About
 ---
 
+![photo](/assets/photo.jpg)
+
 Pavol Rusnák, otherwise known as "Stick," is Co-Founder, Alchemist and
 Senior VP of SatoshiLabs. Pavol is deeply involved in the development of
 sophisticated software and hardware projects such as TREZOR, where he is
