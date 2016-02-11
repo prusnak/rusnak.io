@@ -64,12 +64,15 @@ yum install tor bitcoin-server golang
 
 (If you want to use Bitcoin XT instead of Bitcoin Core just use `bitcoinxt-server` package instead of `bitcoin-server` in the line above.)
 
-* Edit the Tor configuration file `/etc/tor/torrc` and uncomment the following lines (the first line opens the relay port, the second one disables the exit node):
+* Edit the Tor configuration file `/etc/tor/torrc` and uncomment the following lines (the first line opens the relay port, the second one enables the directory service, the third one disables the exit node):
 
 ~~~
 ORPort 9001
+DirPort 9030
 ExitPolicy reject *:*
 ~~~
+
+Also fill in the details on lines with `Nickname` and `ContactInfo`.
 
 If you are more adventurous you might skip uncommenting the `ExitPolicy reject` line, but I recommend [reading something](https://blog.torproject.org/blog/tips-running-exit-node-minimal-harassment) about running an Exit Node first.
 
