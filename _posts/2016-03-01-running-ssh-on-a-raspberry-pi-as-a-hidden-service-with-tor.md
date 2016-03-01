@@ -72,7 +72,14 @@ Host *.onion
   ProxyCommand /usr/bin/nc -xlocalhost:9050 -X5 %h %p
 ```
 
-* You can now connect to your node using SSH and hostname from above:
+* If you are having problem with nc/netcat above (various distributions ship different variants), you can use socat instead:
+
+```
+Host *.onion
+  ProxyCommand /usr/bin/socat STDIO SOCKS4A:localhost:%h:%p,socksport=9050
+```
+
+* Finally, you can now connect to your node using SSH and the hostname from above:
 
 ```
 ssh pi@vxbdqtv2ber7js5y.onion
