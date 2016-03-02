@@ -21,26 +21,38 @@ interactive installations. Pavol has also served as a board member of
 openSUSE Project and as a three-time memntor/administrator for the
 Google Summer of Code.
 
-## [SatoshiLabs](https://satoshilabs.com) (since 2012)
+## SatoshiLabs
+
+[web](https://satoshilabs.com) (since 2012)
 
 ![satoshilabs](/assets/satoshilabs.png)
 
-## [CTJB](https://ctjb.net) (since 2014)
+## CTJB
+
+[web](https://ctjb.net) (since 2014)
 
 ![ctjb](/assets/ctjb_logo.png)
 
-## [Ex Post](http://expost.space) (since 2015)
+## Ex Post
+
+[web](http://expost.space) (since 2015)
 
 ![expost](/assets/expost.png)
 
-## [pebe/lab](http://pebe.cz/lab) (since 2013)
+## pebe/lab
+
+[web](http://pebe.cz/lab) (since 2013)
 
 ![pebelab](/assets/pebelab.png)
 
-## [brmlab](https://brmlab.cz/) (2010-2012)
+## brmlab
+
+[web](https://brmlab.cz/) (2010-2012)
 
 ![brmlab](/assets/brmlab.png)
 
-## [openSUSE](https://www.opensuse.org) (2006-2012)
+## openSUSE
+
+[web](https://www.opensuse.org) (2006-2012)
 
 ![opensuse](/assets/opensuse.png)
