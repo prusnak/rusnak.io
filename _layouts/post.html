@@ -25,3 +25,17 @@ If you like this post, you can donate some <a href="https://en.wikipedia.org/wik
     {% endfor %}
   </ul>
 </aside>
+
+<aside id="disqus_thread"></aside>
+<script>
+var disqus_config = function () {
+  this.page.url = '{{ site.baseurl }}{{ post.url }}';
+  this.page.identifier = '{{ post.url }}';
+};
+(function() {
+var d = document, s = d.createElement('script');
+s.src = '//gk2sk.disqus.com/embed.js';
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+</script>
