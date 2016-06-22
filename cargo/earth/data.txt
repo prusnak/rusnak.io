@@ -1,0 +1,137 @@
+Slovakia
+	Kosice
+	Presov
+	Spisska Nova Ves
+	Velky Saris
+	Bardejov
+	Vranov nad Toplou
+	Humenne
+	Michalovce
+	Secovce
+	Trebisov
+	Kysak
+	Roznava
+	Moldava nad Bodvou
+	Turna nad Bodvou
+	Rimavska Sobota
+	Gelnica
+	Zvolen
+	Banska Bystrica
+	Banska Stiavnica
+	Brezno
+	Liptovsky Mikulas
+	Ruzomberok
+	Poprad
+	Stara Lubovna
+	Strbske Pleso
+	Stary Smokovec
+	Zilina
+	Vrutky
+	Povazska Bystrica
+	Dubnica nad Vahom
+	Trencin
+	Trnava
+	Nitra
+	Bratislava
+	Malacky
+	Kuty
+	Skalica
+	Senica
+
+Czech Republic
+	Praha
+	Brno
+	Ostrava
+	Uherske Hradiste
+	Kromeriz
+	Hodonin
+	Olomouc
+	Adamov
+	Trebic
+	Jihlava
+	Ceske Budejovice
+	Jindrichuv Hradec
+	Trebon
+	Cesky Krumlov
+	Lipno nad Vltavou
+	Roztoky
+	Horomerice
+	Zbraslav
+	Vestec
+	Hostivice
+	Dolni Pocernice
+	Horni Pocernice
+	Sterboholy
+	Kralupy nad Vltavou
+	Kladno
+	Karlovy Vary
+	Rozvadov
+	Liberec
+	Jablonec nad Nisou
+	Karlovy Vary
+
+Germany
+	Berlin
+	Hamburg
+	Nuernberg
+	Frankfurt
+	Sankt Augustin
+
+Netherlands
+	Amsterdam
+	Amstelveen
+	The Hague
+	Rotterdam
+	Utrecht
+
+Belgium
+	Brussels
+
+France
+	Paris
+
+Portugal
+	Lisbon
+	Cascais
+	Cabo da Roca
+
+Poland
+	Zakopane
+	Nowy Targ
+	Torun
+
+Hungary
+	Budapest
+	Miskolc
+	Szolnok
+	Rajka
+
+Bulgaria
+	Varna
+	Burgas
+	Primorsko
+	Obzor
+
+United Kingdom
+	London
+	Oxford
+
+Ireland
+	Dublin
+
+United States
+	San Francisco
+	San Jose
+	Palo Alto
+	Santa Clara
+	Mountain View
+	Sunnyvale
+
+Italy
+	Milano
+	Bergamo
+	Lago di Garda
+
+Switzerland
+	Zurich
+	Geneva

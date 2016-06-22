@@ -1,0 +1,19 @@
+html, body {
+	margin: 0;
+	padding: 0;
+	height: 100%;
+}
+
+#map {
+	width: 100%;
+	height: 100%;
+}
+
+.leaflet-marker-icon {
+	border: 0;
+}
+
+.leaflet-tile-pane {
+	-webkit-filter: saturate(4);
+	filter: saturate(4);
+}
