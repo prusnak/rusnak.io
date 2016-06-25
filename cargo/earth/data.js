@@ -107,4 +107,10 @@ window.point_data = [
 	[45.661319, 10.685104, "Lago di Garda, Italy"],
 	[47.368559, 8.540443, "Zurich, Switzerland"],
 	[46.201756, 6.146601, "Geneva, Switzerland"],
+	[56.949398, 24.105185, "Riga, Latvia"],
+	[56.511190, 21.018469, "Liepaja, Latvia"],
+	[57.311560, 25.260629, "Cesis, Latvia"],
+	[59.437216, 24.745369, "Tallinn, Estonia"],
+	[58.933854, 23.542842, "Haapsalu, Estonia"],
+	[59.545503, 25.802854, "Laheema, Estonia"],
 ];

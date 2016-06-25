@@ -135,3 +135,13 @@ Italy
 Switzerland
 	Zurich
 	Geneva
+
+Latvia
+	Riga
+	Liepaja
+	Cesis
+
+Estonia
+	Tallinn
+	Haapsalu
+	Laheema

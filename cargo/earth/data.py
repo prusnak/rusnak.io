@@ -4,6 +4,18 @@ from geopy.geocoders import Nominatim
 
 geolocator = Nominatim()
 
+old_data = {}
+
+print('Loading old data file')
+
+with open('data.js', 'rt') as f:
+    lines = [l.strip() for l in f.readlines()]
+lines = [x[1:-2] for x in lines[1:-1]]
+lines = [x.split(', ') for x in lines]
+for x in lines:
+    old_data['%s, %s' % (x[2][1:], x[3][:-1])] = (float(x[0]), float(x[1]), x[2][1:], x[3][:-1])
+print(old_data)
+
 with open('data.txt', 'rt') as f:
     lines = [l.rstrip() for l in f.readlines()]
 
@@ -20,8 +32,12 @@ for i, l in enumerate(lines):
         country = l
         continue
     l = l.strip()
-    location = geolocator.geocode('%s, %s' % (l, country))
-    data.append((location.latitude, location.longitude, l, country))
+    desc = '%s, %s' % (l, country)
+    if desc in old_data:
+        data.append(old_data[desc])
+    else:
+        location = geolocator.geocode(desc)
+        data.append((location.latitude, location.longitude, l, country))
     print('%d/%d %d%%' % (i, len(lines), 100 * i // len(lines)))
 
 with open('data.js', 'wt') as f:
