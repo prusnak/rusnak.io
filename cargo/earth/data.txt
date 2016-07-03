@@ -69,6 +69,21 @@ Czech Republic
 	Liberec
 	Jablonec nad Nisou
 	Karlovy Vary
+	Melnik
+	Rez
+	Nebusice
+	Tuchomerice
+	Bratronice
+	Vinor
+	Kbely
+	Brandys nad Labem
+	Stara Boleslav
+	Lhota
+	Konetopy
+	Vsetaty
+	Uhrineves
+	Kolovraty
+	Nupaky
 
 Germany
 	Berlin
@@ -145,3 +160,18 @@ Estonia
 	Tallinn
 	Haapsalu
 	Laheema
+
+Austria
+	Vienna
+	Hainburg an der Donau
+	Wolfsthal
+	Berg
+	Kittsee
+	Breitenbrunn
+	Neusiedl am See
+	Weiden am See
+	Podersdorf am See
+	Illmitz
+	Schlosshof
+	Marchegg
+	Linz

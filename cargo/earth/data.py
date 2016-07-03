@@ -1,5 +1,6 @@
 #!/usr/bin/env python2
 from __future__ import print_function
+import time
 from geopy.geocoders import Nominatim
 
 geolocator = Nominatim()
@@ -36,6 +37,7 @@ for i, l in enumerate(lines):
     if desc in old_data:
         data.append(old_data[desc])
     else:
+        time.sleep(0.5)
         location = geolocator.geocode(desc)
         data.append((location.latitude, location.longitude, l, country))
     print('%d/%d %d%%' % (i, len(lines), 100 * i // len(lines)))
