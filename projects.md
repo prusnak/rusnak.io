@@ -10,6 +10,7 @@ Here is the list of organizations I am/was involved in:
 * [Ex Post](/expost) (since 2015)
 * [pebe/lab](/pebe-lab) (since 2013)
 * [brmlab](/brmlab) (2010-2012)
+* [SOIT](/soit) (since 2010)
 * [openSUSE](/opensuse) (2006-2012)
 
 Here is the list of software projects I am involved in:
