@@ -3,7 +3,7 @@ layout: page
 title: Projects
 ---
 
-Here is the list of organization I am/was involved in:
+Here is the list of organizations I am/was involved in:
 
 * [SatoshiLabs](/satoshilabs) (since 2012)
 * [CTJB](/ctjb) (since 2014)

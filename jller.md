@@ -3,7 +3,7 @@ layout: page
 title: Jller
 ---
 
-*Art collaboration with Prokop Bartonicek and Tomislav Arnaudov as [pebe/lab](/pebelab) and Benjamin Maus of [FELD](http://www.feld.is/) (2015)*
+*Art collaboration with Prokop Bartonicek and Tomislav Arnaudov as [pebe/lab](/pebe-lab) and Benjamin Maus of [FELD](http://www.feld.is/) (2015)*
 
 {% for i in (1..4) %}
 ![jller{{ i }}](/assets/jller{{ i }}.jpg)

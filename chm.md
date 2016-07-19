@@ -3,7 +3,7 @@ layout: page
 title: Complex Harmonic Motion
 ---
 
-*Art collaboration with Prokop Bartonicek and Tomislav Arnaudov as [pebe/lab](/pebelab) (2014)* - [link](http://www.pebe.cz/lab/?p=3788)
+*Art collaboration with Prokop Bartonicek and Tomislav Arnaudov as [pebe/lab](/pebe-lab) (2014)* - [link](http://www.pebe.cz/lab/?p=3788)
 
 {% for i in (1..3) %}
 ![chm{{ i }}](/assets/chm{{ i }}.jpg)
