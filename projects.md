@@ -3,15 +3,15 @@ layout: page
 title: Projects
 ---
 
-Here is the list of organizations I am/was involved in:
+Here is the list of organizations I am involved in:
 
 * [SatoshiLabs](/satoshilabs) (since 2012)
 * [CTJB](/ctjb) (since 2014)
 * [Ex Post](/expost) (since 2015)
 * [pebe/lab](/pebe-lab) (since 2013)
-* [brmlab](/brmlab) (2010-2012)
-* [SOIT](/soit) (since 2010)
-* [openSUSE](/opensuse) (2006-2012)
+* [SOIT](http://www.soit.sk) (since 2010)
+* [brmlab](https://brmlab.cz) (2010-2012)
+* [openSUSE](https://opensuse.org) (2006-2012)
 
 Here is the list of software projects I am involved in:
 
