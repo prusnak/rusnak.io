@@ -3,7 +3,7 @@ layout: page
 title: Projects
 ---
 
-Here is the list of organizations I am involved in:
+Here is the list of organizations I am a part of or used to be a part of:
 
 * [SatoshiLabs](/satoshilabs) (since 2012)
 * [CTJB](/ctjb) (since 2014)
@@ -13,13 +13,13 @@ Here is the list of organizations I am involved in:
 * [brmlab](https://brmlab.cz) (2010-2012)
 * [openSUSE](https://opensuse.org) (2006-2012)
 
-Here is the list of software projects I am involved in:
+Here is the list of software/hardware projects I started:
 
 * [TREZOR](/trezor) (since 2012)
 * [Coinmap](/coinmap) (since 2013)
 * [SVG-edit](/svg-edit) (since 2009)
 
-Here is the list of art projects i was involved in:
+Here is the list of art projects I was involved in:
 
 * [Jller](/jller) (2015)
 * [Complex Harmonic Motion](/chm) (2014)
