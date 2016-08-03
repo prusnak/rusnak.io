@@ -3,7 +3,9 @@ layout: page
 title: Phosphor 360 ver. B
 ---
 
-*Art collaboration with Prokop Bartonicek and Tomislav Arnaudov as [pebe/lab](/pebe-lab) (2013)* - [link](http://www.pebe.cz/lab/?p=3737)
+*Art collaboration with Prokop Bartonicek and Tomislav Arnaudov as [pebe/lab](/pebe-lab) (2013)*
+
+web: [http://www.pebe.cz/lab/?p=3737](http://www.pebe.cz/lab/?p=3737)
 
 {% for i in (1..10) %}
 ![p360b{{ i }}](/assets/p360b{{ i }}.jpg)

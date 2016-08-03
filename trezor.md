@@ -3,7 +3,9 @@ layout: page
 title: TREZOR
 ---
 
-*A [SatoshiLabs](/satoshilabs) project (since 2012)* - [link](https://www.bitcointrezor.com/)
+*A [SatoshiLabs](/satoshilabs) project (since 2012)*
+
+web: [https://www.bitcointrezor.com/)](https://www.bitcointrezor.com/)
 
 {% for i in (1..4) %}
 ![trezor{{ i }}](/assets/trezor{{ i }}.jpg)

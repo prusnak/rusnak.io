@@ -11,7 +11,7 @@ Here is the list of organizations I am a part of or used to be a part of:
 * [pebe/lab](/pebe-lab) (since 2013)
 * [SOIT](http://www.soit.sk) (since 2010)
 * [brmlab](https://brmlab.cz) (2010-2012)
-* [openSUSE](https://opensuse.org) (2006-2012)
+* [openSUSE](https://www.opensuse.org) (2006-2012)
 
 Here is the list of software/hardware projects I started:
 
@@ -26,5 +26,5 @@ Here is the list of art projects I was involved in:
 * [49° 56.822, 15° 15.870](/49-56-822-15-15-870) (2014)
 * [Phosphor 360 ver. B](/phosphor360b) (2013)
 * [Mirrsaic NOW](/mirrsaic) (2012)
-* [Ignorance](/ignorance) (2012)
+* [Lost in translation](/lost-in-translation) (2012)
 * [Videofeedback](/videofeedback) (2012)

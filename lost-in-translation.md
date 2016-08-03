@@ -1,9 +1,11 @@
 ---
 layout: page
-title: Ignorance
+title: Lost in translation
 ---
 
-*Art collaboration with Richard Janecek (2012)* - [web](http://richardjanecek.com/ignorance)
+*Art collaboration with Richard Janecek (2012)*
+
+web: [http://richardjanecek.com/lost-in-translation](http://richardjanecek.com/lost-in-translation)
 
 {% for i in (1..2) %}
 ![book{{ i }}](/assets/book{{ i }}.jpg)

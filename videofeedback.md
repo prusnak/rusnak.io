@@ -3,7 +3,9 @@ layout: page
 title: Videofeedback
 ---
 
-*Individual project (2012)* - [web](https://github.com/prusnak/videofeedback)
+*Individual project (2012)*
+
+web: [https://github.com/prusnak/videofeedback](https://github.com/prusnak/videofeedback)
 
 {% for i in (1..6) %}
 ![vf{{ i }}](/assets/vf{{ i }}.jpg)

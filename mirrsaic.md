@@ -3,7 +3,9 @@ layout: page
 title: Mirrsaic NOW
 ---
 
-*Art collaboration with Prokop Bartonicek as [pebe/lab](/pebe-lab) (2012)* - [link](http://www.pebe.cz/lab/?p=3744)
+*Art collaboration with Prokop Bartonicek as [pebe/lab](/pebe-lab) (2012)*
+
+web: [http://www.pebe.cz/lab/?p=3744](http://www.pebe.cz/lab/?p=3744)
 
 {% for i in (1..6) %}
 ![mirrsaic{{ i }}](/assets/mirrsaic{{ i }}.jpg)

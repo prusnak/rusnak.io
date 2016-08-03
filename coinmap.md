@@ -3,7 +3,9 @@ layout: page
 title: Coinmap
 ---
 
-*A [SatoshiLabs](/satoshilabs) project (since 2013)* - [link](https://coinmap.org/)
+*A [SatoshiLabs](/satoshilabs) project (since 2013)*
+
+web: [https://coinmap.org/](https://coinmap.org/)
 
 ![coinmap1](/assets/coinmap1.jpg)
 
