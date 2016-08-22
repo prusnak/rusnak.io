@@ -141,4 +141,6 @@ window.point_data = [
 	[48.214195, 16.934809, "Schlosshof, Austria"],
 	[48.277895, 16.909788, "Marchegg, Austria"],
 	[48.305908, 14.286198, "Linz, Austria"],
+	[41.009633, 28.965165, "Istanbul, Turkey"],
+	[41.029308, 29.032635, "Uskudar, Turkey"],
 ];

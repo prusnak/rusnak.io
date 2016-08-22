@@ -175,3 +175,7 @@ Austria
 	Schlosshof
 	Marchegg
 	Linz
+
+Turkey
+	Istanbul
+	Uskudar
