@@ -18,7 +18,7 @@ Mathematics and Physics, majoring in Database Systems, with special
 emphasis on distributed systems. Along with his work, Pavol is Wizard
 for pebe/lab, where he works on hi-tech experimental, new media
 interactive installations. Pavol has also served as a board member of
-openSUSE Project and as a three-time memntor/administrator for the
+openSUSE Project and as a three-time mentor/administrator for the
 Google Summer of Code.
 
 You can read more about my activities [here](/projects).
