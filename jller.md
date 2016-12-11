@@ -5,6 +5,8 @@ title: Jller
 
 *Art collaboration with Prokop Bartonicek and Tomislav Arnaudov as [pebe/lab](/pebe-lab) and Benjamin Maus of [FELD](http://www.feld.is/) (2015)*
 
+web: [http://www.pebe.cz/lab/?p=3820](http://www.pebe.cz/lab/?p=3820)
+
 Jller is part of an ongoing research project in the fields of industrial automation and historical geology. It is an apparatus, that sorts pebbles from a specific river by their geologic age. The stones were taken from the stream bed of the German river Jller, shortly before it merges with the Danube, close to the city of Ulm. The machine and its performance is the first manifestation of this research.
 
 {% for i in (1..4) %}
