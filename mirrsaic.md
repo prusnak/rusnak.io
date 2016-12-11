@@ -7,6 +7,8 @@ title: Mirrsaic NOW
 
 web: [http://www.pebe.cz/lab/?p=3744](http://www.pebe.cz/lab/?p=3744)
 
+![mirrsaic](/assets/mirrsaic.gif)
+
 {% for i in (1..6) %}
 ![mirrsaic{{ i }}](/assets/mirrsaic{{ i }}.jpg)
 {% endfor %}
