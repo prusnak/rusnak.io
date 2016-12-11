@@ -3,17 +3,7 @@ layout: page
 title: Projects
 ---
 
-Here is the list of organizations I am a part of or used to be a part of:
-
-* [SatoshiLabs](/satoshilabs) (since 2012)
-* [CTJB](/ctjb) (since 2014)
-* [Ex Post](/expost) (since 2015)
-* [pebe/lab](/pebe-lab) (since 2013)
-* [SOIT](http://www.soit.sk) (since 2010)
-* [brmlab](https://brmlab.cz) (2010-2012)
-* [openSUSE](https://www.opensuse.org) (2006-2012)
-
-Here is the list of software/hardware projects I started:
+Here is the list of major software/hardware projects I started:
 
 * [TREZOR](/trezor) (since 2012)
 * [Coinmap](/coinmap) (since 2013)
@@ -29,3 +19,13 @@ Here is the list of art projects I was involved in:
 * [Mirrsaic NOW](/mirrsaic) (2012)
 * [Lost in translation](/lost-in-translation) (2012)
 * [Videofeedback](/videofeedback) (2012)
+
+Here is the list of organizations I am a part of or used to be a part of:
+
+* [SatoshiLabs](/satoshilabs) (since 2012)
+* [CTJB](/ctjb) (since 2014)
+* [Ex Post](/expost) (since 2015)
+* [pebe/lab](/pebe-lab) (since 2013)
+* [SOIT](http://www.soit.sk) (since 2010)
+* [brmlab](https://brmlab.cz) (2010-2012)
+* [openSUSE](https://www.opensuse.org) (2006-2012)
