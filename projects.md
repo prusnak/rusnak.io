@@ -22,6 +22,7 @@ Here is the list of software/hardware projects I started:
 Here is the list of art projects I was involved in:
 
 * [Jller](/jller) (2015)
+* [Lekno](/lekno) (2015)
 * [Complex Harmonic Motion](/chm) (2014)
 * [49° 56.822, 15° 15.870](/49-56-822-15-15-870) (2014)
 * [Phosphor 360 ver. B](/phosphor360b) (2013)
