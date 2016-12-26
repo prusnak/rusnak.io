@@ -100,6 +100,7 @@ window.point_data = [
 	[49.296945, 19.950659, "Zakopane, Poland"],
 	[49.481823, 20.030541, "Nowy Targ, Poland"],
 	[53.021067, 18.618612, "Torun, Poland"],
+	[50.061947, 19.936856, "Krakow, Poland"],
 	[47.498382, 19.040471, "Budapest, Hungary"],
 	[48.103152, 20.790216, "Miskolc, Hungary"],
 	[47.175474, 20.194896, "Szolnok, Hungary"],

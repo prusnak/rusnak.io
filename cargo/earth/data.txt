@@ -114,6 +114,7 @@ Poland
 	Zakopane
 	Nowy Targ
 	Torun
+	Krakow
 
 Hungary
 	Budapest
