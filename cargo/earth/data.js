@@ -87,6 +87,7 @@ window.point_data = [
 	[49.453872, 11.077298, "Nuernberg, Germany"],
 	[50.110653, 8.682093, "Frankfurt, Germany"],
 	[50.775278, 7.189551, "Sankt Augustin, Germany"],
+	[50.832261, 12.925298, "Chemnitz, Germany"],
 	[52.374436, 4.897996, "Amsterdam, Netherlands"],
 	[52.286218, 4.852649, "Amstelveen, Netherlands"],
 	[52.079984, 4.311346, "The Hague, Netherlands"],

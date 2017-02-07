@@ -91,6 +91,7 @@ Germany
 	Nuernberg
 	Frankfurt
 	Sankt Augustin
+	Chemnitz
 
 Netherlands
 	Amsterdam
