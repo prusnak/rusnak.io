@@ -1,6 +1,6 @@
 ---
 layout: post
-title: " Games in the openSUSE Build Service"
+title: Games in the openSUSE Build Service
 ---
 
 We decided to restructure and cleanup the games projects in the openSUSE Build Service. Before the change we had 8 projects for each game genre (action, adventure, arcade, board, puzzle, roleplay, strategy/realtime, strategy/turn-based) and one separate project for game libraries (so you can play games even on older distributions with obsoleted libraries).

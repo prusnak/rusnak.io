@@ -1,6 +1,6 @@
 ---
 layout: post
-title: openSUSE Users Collage
+title: openSUSE users collage
 ---
 
 Today I stumbled upon blogpost by [Andreas Gohr](http://www.splitbrain.org/personal) called [identi.ca Mosaic](http://www.splitbrain.org/blog/2009-07/31-identi.ca_mosaic). He took 30.000 avatars of [identi.ca](http://identi.ca/) users and created a mosaic from them using the [metapixel](http://www.complang.tuwien.ac.at/schani/metapixel/) software. What a great idea! How about doing something similar for openSUSE folks?

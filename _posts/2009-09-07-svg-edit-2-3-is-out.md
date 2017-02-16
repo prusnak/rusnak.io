@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SVG-edit 2.3 is out!"
+title: SVG-edit 2.3 is out!
 ---
 
 During the last weekend we released version 2.3 of our in-browser SVG editor called [SVG-edit](http://code.google.com/p/svg-edit/). If I was a [DnB producer](http://www.hospitalrecords.com/artists/) I would call this a "massive" release, because it includes lots of new features. :-) To name some of them:
