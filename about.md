@@ -21,4 +21,6 @@ interactive installations. Pavol has also served as a board member of
 openSUSE Project and as a three-time mentor/administrator for the
 Google Summer of Code.
 
-You can read more about my activities [here](/projects).
+----
+
+You can read more about my [projects](/projects) and [talks](/talks).
