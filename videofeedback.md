@@ -7,6 +7,8 @@ title: Videofeedback
 
 web: [https://github.com/prusnak/videofeedback](https://github.com/prusnak/videofeedback)
 
+[![thumb](https://img.youtube.com/vi/ljqyTNhQluk/sddefault.jpg)](https://www.youtube.com/watch?v=ljqyTNhQluk)
+
 {% for i in (1..6) %}
 ![vf{{ i }}](/assets/vf{{ i }}.jpg)
 {% endfor %}
