@@ -7,6 +7,8 @@ title: Jller
 
 web: [http://www.pebe.cz/lab/?p=3820](http://www.pebe.cz/lab/?p=3820), [http://www.feld.is/projects/jller/](http://www.feld.is/projects/jller/)
 
+<iframe src="https://player.vimeo.com/video/167126696?title=0&byline=0&portrait=0" width="720" height="405" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
 Jller is part of an ongoing research project in the fields of industrial automation and historical geology. It is an apparatus, that sorts pebbles from a specific river by their geologic age. The stones were taken from the stream bed of the German river Jller, shortly before it merges with the Danube, close to the city of Ulm. The machine and its performance is the first manifestation of this research.
 
 {% for i in (1..4) %}
@@ -21,7 +23,6 @@ The machine works with a computer vision system that processes the images of the
 
 In the media:
 
-* [Vimeo](https://vimeo.com/167126696)
 * [Collosal](http://www.thisiscolossal.com/2016/05/kinetic-rock-sorting-jller/)
 * [Wired](http://www.wired.com/2016/05/someone-built-rock-sorting-robot-downright-hypnotizing/)
 * [Popular Science](http://www.popsci.com/rock-sorting-art-machine-is-useless-and-beautiful)

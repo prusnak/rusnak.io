@@ -17,4 +17,4 @@ There are many ways how to achieve the result, but the one I liked the most is t
 8. set the file as executable: `chmod +x /etc/rc.local`
 9. reboot and enjoy!
 
-If you want something more magical (that can discover and autoplay all video files on attached USB stick), you can try [VideoPi](https://videopi.saloun.cz/) project by my friend Jakub.
+If you want something more magical (that can discover and autoplay all video files on attached USB stick), you can try [VideoPi](https://videopi.saloun.cz/) project by my friend [Jakub](https://www.jakubvalenta.cz/).
