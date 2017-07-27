@@ -37,6 +37,7 @@ Slovakia
 	Kuty
 	Skalica
 	Senica
+	Demanovska Dolina
 
 Czech Republic
 	Praha
@@ -84,6 +85,9 @@ Czech Republic
 	Uhrineves
 	Kolovraty
 	Nupaky
+	Kutna Hora
+	Sychrov
+	Radimovice
 
 Germany
 	Berlin

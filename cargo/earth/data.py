@@ -15,7 +15,6 @@ lines = [x[1:-2] for x in lines[1:-1]]
 lines = [x.split(', ') for x in lines]
 for x in lines:
     old_data['%s, %s' % (x[2][1:], x[3][:-1])] = (float(x[0]), float(x[1]), x[2][1:], x[3][:-1])
-print(old_data)
 
 with open('data.txt', 'rt') as f:
     lines = [l.rstrip() for l in f.readlines()]
