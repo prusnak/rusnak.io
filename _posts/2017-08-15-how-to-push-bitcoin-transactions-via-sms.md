@@ -51,7 +51,10 @@ That's it! That was easy right?! Remember, this is just a quick & dirty proof of
 
 Oh, I almost forgot. Below is the screenshot of the base64 encoded transaction I sent to my service. It's already [mined in the blockchain](https://blockchain.info/tx/d72ccc13fcbe9ea22ef60c4c5123c9825e7c56740e566ee1c3456471684b4b4e) after being successfully broadcasted to the Bitcoin network.
 
-You can try sending your own transactions via SMS here: **+32 460 213 730**.
+You can try sending your own transactions via SMS here:
+
+* **+32 460 213 730** (BE/EU)
+* **+1 31 43 003 730** (USA)
 
 I will keep the service running for some time. Enjoy! :-)
 
