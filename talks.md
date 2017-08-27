@@ -7,6 +7,7 @@ date       | title | event | place
 -----------|-------|-------|---------------------
 2017-03-10 | MicroPython & TREZOR | PyCon SK | Bratislava
 2016-10-28 | MicroPython | PyCon CZ | Brno
+2016-04-09 | Decentralized and Distributed Internet | OSS Vikend | Bratislava
 2015-10-03 | IPFS: The InterPlanetary File System | Hackers Congress, Paralelni Polis | Prague
 2014-10-11 | History of Hacking in Czechoslovakia | Hackers Congress, Paralelni Polis | Prague
 2014-06-27 | TREZOR: Bitcoin hardware wallet | mDevCamp | Prague
