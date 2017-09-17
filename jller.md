@@ -13,7 +13,7 @@ web: [http://www.pebe.cz/lab/?p=3820](http://www.pebe.cz/lab/?p=3820), [http://w
 ![jller{{ i }}](/assets/jller{{ i }}.jpg)
 {% endfor %}
 
-![jller.gif](/assets/jller.gif)
+<iframe width="720" height="405" src="https://www.youtube.com/embed/RFz_ejeIkTw?rel=0&showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 Jller is part of an ongoing research project in the fields of industrial automation and historical geology. It is an apparatus, that sorts pebbles from a specific river by their geologic age. The stones were taken from the stream bed of the German river Jller, shortly before it merges with the Danube, close to the city of Ulm. The machine and its performance is the first manifestation of this research.
 
