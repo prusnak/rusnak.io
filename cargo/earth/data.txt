@@ -185,3 +185,12 @@ Austria
 Turkey
 	Istanbul
 	Uskudar
+
+Japan
+	Tokyo
+	Sakashita
+	Tsumago
+	Magome
+	Nakatsugawa
+	Kyoto
+	Nara
