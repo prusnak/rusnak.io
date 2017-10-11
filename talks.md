@@ -5,6 +5,8 @@ title: Talks and Workshops
 
 date       | title | event | place
 -----------|-------|-------|---------------------
+2017-10-10 | Introduction to cryptocurrencies | Contemporary Issues in Cryptography, Faculty of Mathemathics and Physics, Charles University | Prague
+2017-10-07 | (In)Security of Cryptospace | Hackers Congress, Paralelni Polis | Prague
 2017-03-10 | MicroPython & TREZOR | PyCon SK | Bratislava
 2016-10-28 | MicroPython | PyCon CZ | Brno
 2016-04-09 | Decentralized and Distributed Internet | OSS Vikend | Bratislava
