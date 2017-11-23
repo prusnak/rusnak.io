@@ -1,0 +1,219 @@
+.main-logo {
+  position: relative;
+  top: -40px;
+}
+
+.reveal h1 {
+  text-shadow: none !important;
+}
+
+.prague {
+  border: 4px solid black !important;
+  display: inline-block !important;
+}
+
+.conference, .speaker {
+  font-size: 22px !important;
+}
+
+.alias {
+  font-size: 50% !important;
+  color: #999 !important;
+  margin-right: 10px !important;
+}
+
+.face {
+  display: inline-block;
+  float: right;
+}
+
+.minor {
+  font-weight: normal !important;
+}
+
+section > ol, section > ul {
+  margin-top: 2em !important;
+}
+
+section > ol > li, section > ul > li {
+  margin-bottom: 1em !important;
+  font-weight: bold !important;
+}
+
+section > ul ul {
+  margin-top: 10px !important;
+}
+
+a {
+  color: blue !important;
+  text-decoration: underline !important;
+}
+
+.big-fat-link {
+  font-weight: bold !important;
+  font-size: 54px !important;
+  text-decoration: none !important;
+}
+
+.desk {
+  width: 960px;
+  height: 700px;
+}
+
+.bold {
+  margin-top: 60px !important;
+}
+
+.bold li {
+  font-size: 1.6em;
+  line-height: 1.6em;
+  font-weight: bold;
+}
+
+.computer {
+  width: 960px;
+  height: 700px;
+  background-image: url('computer.png');
+  color: black;
+  position: relative;
+}
+
+.computer img {
+  width: 600px !important;
+  display: block;
+  position: absolute;
+}
+
+.display {
+  position: relative;
+}
+
+.computer .display {
+  font-weight: bold;
+  font-size: 40px;
+  margin: auto;
+  margin-top: 70px;
+  overflow: hidden;
+  box-shadow: none;
+  width: auto;
+  display: inline-block;
+  padding: 46px 58px;
+}
+
+.computer .display.extended {
+  margin-top: 40px;
+}
+
+.computer .display.extended b {
+  position: relative;
+  top: 12px;
+}
+
+.computer .display b {
+  background-color: DarkBlue;
+  padding: 4px 10px;
+  color: white;
+  border: 2px solid DarkBlue;
+  border-radius: 8px;
+}
+
+.computer .display b.active {
+  color: yellow;
+}
+
+.trezor {
+  background-image: url('render-clear.png');
+  color: white;
+  width: 960px;
+  height: 700px;
+  position: relative;
+}
+
+.trezor_next {
+  background-image: url('render-clear-next.png');
+}
+
+.trezor_logo {
+  background-image: url('render-logo.png');
+}
+
+.trezor .display {
+  font-family: "Dejavu Sans Mono", "Monaco", "Courier New";
+  font-size: 18px;
+  margin: auto;
+  margin-top: 182px;
+  overflow: hidden;
+  box-shadow: none;
+  width: auto;
+  display: inline-block;
+  padding: 2px 2px;
+  letter-spacing: 1px;
+  font-weight: bold;
+}
+
+.trezor .display b {
+  font-weight: bold;
+  color: black;
+  background-color: white;
+  padding: 0px 0px;
+}
+
+.buttons {
+  top: 0px;
+}
+
+.button {
+  display: inline-block;
+  margin: 56px 30px !important;
+  width: 88px;
+  height: 36px;
+  border-radius: 4px !important;
+  background-color: rgba(255, 0, 0, 0);
+}
+
+.button.active {
+  display: inline-block;
+  background-color: rgba(255, 0, 0, 0.5);
+}
+
+.fake-link {
+  color: blue;
+  text-decoration: underline;
+}
+
+.reveal-typing {
+  display: inline-block;
+  position: absolute;
+}
+
+.paper {
+  position: relative;
+}
+
+.paper .transaction {
+  background-color: #bbb;
+  border: 12px solid #bbb;
+  border-radius: 12px !important;
+  font-family: "Dejavu Sans Mono", "Monaco", "Courier New";
+  font-size: 32px;
+  margin: auto;
+  overflow: hidden;
+  box-shadow: none;
+  width: auto;
+  padding: 10px 20px;
+  letter-spacing: 1px;
+  font-weight: bold;
+  line-height: 38px;
+}
+
+.paper .transaction b {
+  background-color: yellow;
+  display: inline-block;
+  margin-top: 4px !important;
+  color: #999;
+}
+
+.paper .transaction.signed {
+  background-color: #76d6ff;
+  border: 12px solid #76d6ff;
+}
