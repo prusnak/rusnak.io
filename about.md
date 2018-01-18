@@ -23,4 +23,8 @@ Google Summer of Code.
 
 ----
 
+***Motto: In every struggle, there is a risk you'll become a monster you fight.***
+
+----
+
 You can read more about my [projects](/projects) and [talks](/talks).
