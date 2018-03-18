@@ -5,13 +5,15 @@ title: Talks and Workshops
 
 date       | title | event | place
 -----------|-------|-------|---------------------
-2017-10-10 | Introduction to cryptocurrencies | Contemporary Issues in Cryptography, Faculty of Mathemathics and Physics, Charles University | Prague
-2017-10-07 | (In)Security of Cryptospace | Hackers Congress, Paralelni Polis | Prague
+2018-04-07 | TREZOR Model T: Evolution or Revolution? | Security Session | Brno
+2018-03-14 | TREZOR, Bitcoin and Blockchain Panel Discussion | Night of Chances | Bratislava
+2017-10-10 | Introduction to cryptocurrencies | Contemporary Issues in Cryptography | Prague
+2017-10-07 | (In)Security of Cryptospace | Hackers Congress | Prague
 2017-03-10 | MicroPython & TREZOR | PyCon SK | Bratislava
 2016-10-28 | MicroPython | PyCon CZ | Brno
 2016-04-09 | Decentralized and Distributed Internet | OSS Vikend | Bratislava
-2015-10-03 | IPFS: The InterPlanetary File System | Hackers Congress, Paralelni Polis | Prague
-2014-10-11 | History of Hacking in Czechoslovakia | Hackers Congress, Paralelni Polis | Prague
+2015-10-03 | IPFS: The InterPlanetary File System | Hackers Congress | Prague
+2014-10-11 | History of Hacking in Czechoslovakia | Hackers Congress | Prague
 2014-06-27 | TREZOR: Bitcoin hardware wallet | mDevCamp | Prague
 2014-04-27 | TREZOR: hardwarová peneženka rok poté | Security Session | Brno
 2013-12-29 | TREZOR: Bitcoin hardware wallet | Chaos Communication Congress | Hamburg
