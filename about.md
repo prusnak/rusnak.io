@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-![photo](/assets/photo.jpg)
+![photo](/assets/photo_noc.jpg)
 
 Pavol Rusnák, otherwise known as "Stick," is Co-Founder and CTO of
 SatoshiLabs.  Pavol is deeply involved in the development of
