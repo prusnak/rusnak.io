@@ -5,6 +5,7 @@ title: Talks and Workshops
 
 date       | title | event | place
 -----------|-------|-------|---------------------
+2018-05-19 | TREZOR Model T: Evolution or Revolution? | Black Swan Security Congress | Prague
 2018-04-07 | TREZOR Model T: Evolution or Revolution? | Security Session | Brno
 2018-03-14 | TREZOR, Bitcoin and Blockchain Panel Discussion | Night of Chances | Bratislava
 2017-10-10 | Introduction to cryptocurrencies | Contemporary Issues in Cryptography | Prague
