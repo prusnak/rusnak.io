@@ -96,6 +96,7 @@ Germany
 	Frankfurt
 	Sankt Augustin
 	Chemnitz
+	Leipzig
 
 Netherlands
 	Amsterdam
@@ -103,6 +104,7 @@ Netherlands
 	The Hague
 	Rotterdam
 	Utrecht
+	Ommen
 
 Belgium
 	Brussels
@@ -156,6 +158,10 @@ Italy
 Switzerland
 	Zurich
 	Geneva
+	St. Gallen
+	Uzwil
+	Oberuzwil
+	Rorschach
 
 Latvia
 	Riga
@@ -194,3 +200,14 @@ Japan
 	Nakatsugawa
 	Kyoto
 	Nara
+
+China
+	Wuhan
+
+Canary Islands
+	Las Palmas de Gran Canaria
+	Vegueta
+	Maspalomas
+	Tasartico
+	Teror
+	Tejeda
