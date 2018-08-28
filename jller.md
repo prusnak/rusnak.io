@@ -26,7 +26,7 @@ The machine works with a computer vision system that processes the images of the
 Awards:
 
 * [Prix Ars Electronica 2016: Honorary Mention](http://prix2016.aec.at/prixwinner/19074/)
-* [Japan Media Arts Festival 2017: Excellence Award](http://festival.j-mediaarts.jp/en/works/art/jller/)
+* [Japan Media Arts Festival 2017: Excellence Award](http://archive.j-mediaarts.jp/en/festival/2017/art/works/20a_jller/)
 
 In the media:
 
