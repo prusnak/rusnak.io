@@ -10,11 +10,11 @@ SatoshiLabs.  Pavol is deeply involved in the development of
 sophisticated software and hardware projects such as TREZOR, where he
 is the core developer and cryptographer. He is a highly regarded
 security expert and privacy activist and has been invited to speak at
-biggest technology oriented events such as Chaos Communication
+significant technology-oriented events such as Chaos Communication
 Congress, FOSDEM or LinuxTag.
 
 Pavol graduated from Charles University in Prague, Faculty of
-Mathematics and Physics, majoring in Database Systems, with special
+Mathematics and Physics, majoring in Database Systems, with particular
 emphasis on distributed systems. Along with his regular work, he is
 also a wizard working on award-winning, hi-tech, experimental, new
 media interactive installations. He also served as a board member of
