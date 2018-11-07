@@ -9,7 +9,9 @@ Here is the result of my late-night experiment. And it's beautiful!
 
 ![trezor_raspi](/assets/trezor_raspi.jpg)
 
-You can even connect it (via WiFi) to the Trezor [web wallet](https://wallet.trezor.io) and use it like you would use a real thing! However, [the real Trezor](http://shop.trezor.io/) is faster and smaller. Also never use the emulator for storing any value, it's for testing only!
+You can even connect it (via WiFi) to the Trezor [web wallet](https://wallet.trezor.io) and use it like you would use a real thing! However, [the real Trezor](http://shop.trezor.io/) is faster and smaller.
+
+**Never use the emulator for storing any value, it's intended for testing only!**
 
 So, what do we need to build this?
 
