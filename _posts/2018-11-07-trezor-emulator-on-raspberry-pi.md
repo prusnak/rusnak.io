@@ -66,4 +66,4 @@ socat TCP-LISTEN:21325,fork TCP:{RASPI_IP_ADDRESS}:21325
 
 You need to replace `{RASPI_IP_ADDRESS}` with your  Raspberry Pi IP address.
 
-Enjoy!
+And that's it!
