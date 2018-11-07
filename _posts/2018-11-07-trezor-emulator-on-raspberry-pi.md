@@ -3,13 +3,13 @@ layout: post
 title: Trezor Emulator on Raspberry Pi
 ---
 
-I got an idea while looking at the cool project called [RaspiBlitz](https://github.com/rootzoll/raspiblitz). They are using a nice LCD shield on top of Raspberry Pi for their Lightning Node. What if I tried running the Trezor Emulator on the same hardware setup? Trezor is completely open-source, so this should not be a big problem, right?
+I got an idea while looking at the cool project called [RaspiBlitz](https://github.com/rootzoll/raspiblitz). They are using a nice LCD shield on top of Raspberry Pi for their Lightning Node. What if I tried running the [Trezor Emulator](https://github.com/trezor/trezor-core) on the same hardware setup? Trezor is completely open-source, so this should not be a big problem, right?
 
 Here is the result of my late-night experiment. And it's beautiful!
 
 ![trezor_raspi](/assets/trezor_raspi.jpg)
 
-You can even connect it (via WiFi) to the Trezor [web wallet](https://wallet.trezor.io) and use it like you would use a real Trezor! However, [the real Trezor](http://shop.trezor.io/) is much faster and smaller. :-)
+You can even connect it (via WiFi) to the Trezor [web wallet](https://wallet.trezor.io) and use it like you would use a real thing! However, [the real Trezor](http://shop.trezor.io/) is faster and smaller. Also never use the emulator for storing any value, it's for testing only!
 
 So, what do we need to build this?
 
