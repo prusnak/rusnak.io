@@ -9,7 +9,7 @@ Here is the result of my late-night experiment. And it's beautiful!
 
 ![trezor_raspi](/assets/trezor_raspi.jpg)
 
-You can even connect to it via WiFi and use it with our web wallet like you would use a real Trezor! However, [the real Trezor](http://shop.trezor.io/) is much faster and smaller. :-)
+You can even connect it (via WiFi) to the Trezor [web wallet](https://wallet.trezor.io) and use it like you would use a real Trezor! However, [the real Trezor](http://shop.trezor.io/) is much faster and smaller. :-)
 
 So, what do we need to build this?
 
@@ -58,12 +58,12 @@ We now have everything set! Let's run the following two commands in two terminal
 cd trezor-core ; make emu
 ```
 
-Now, we want to use the Trezor Emulator running on the Raspberry Pi with our web wallet. To do that, we'll just forward the local port to the remote port (on the Raspberry Pi) and the wallet will immediately find that. Here is the magic to do that:
+Now, we want to use the Trezor Emulator running on the Raspberry Pi with the Trezor web wallet. To do that, we'll just forward the local port to the remote port (on the Raspberry Pi) and the wallet will immediately find that. Here is the magic to do that:
 
 ``` bash
 socat TCP-LISTEN:21325,fork TCP:{RASPI_IP_ADDRESS}:21325
 ```
 
-You need to replace `{RASPI_IP_ADDRESS}` with your  Raspberry Pi IP address.
+You need to replace `{RASPI_IP_ADDRESS}` with your Raspberry Pi IP address.
 
 And that's it!
