@@ -5,9 +5,12 @@ title: Talks and Workshops
 
 date       | title | event | place
 -----------|-------|-------|---------------------
+2018-09-23 | Bitcoin security panel | Baltic Honeybadger | Riga
+2018-09-22 | The future of Bitcoin wallets panel | Baltic Honeybadger | Riga
 2018-05-19 | TREZOR Model T: Evolution or Revolution? | Black Swan Security Congress | Prague
 2018-04-07 | TREZOR Model T: Evolution or Revolution? | Security Session | Brno
 2018-03-14 | TREZOR, Bitcoin and Blockchain Panel Discussion | Night of Chances | Bratislava
+2017-11-25 | TREZOR | Baltic Honeybadger | Riga
 2017-10-10 | Introduction to cryptocurrencies | Contemporary Issues in Cryptography | Prague
 2017-10-07 | (In)Security of Cryptospace | Hackers Congress | Prague
 2017-03-10 | MicroPython & TREZOR | PyCon SK | Bratislava
