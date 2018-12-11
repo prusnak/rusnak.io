@@ -211,3 +211,13 @@ Canary Islands
 	Tasartico
 	Teror
 	Tejeda
+
+Ethiopia
+	Addis Ababa
+
+Zanzibar
+	Zanzibar City
+	Paje
+	Jambiani
+	Pingwe
+	Nungwi

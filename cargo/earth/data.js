@@ -169,4 +169,10 @@ window.point_data = [
 	[27.926577, -15.802166, "Tasartico, Canary Islands"],
 	[28.059000, -15.547565, "Teror, Canary Islands"],
 	[27.994992, -15.615382, "Tejeda, Canary Islands"],
+	[9.010793, 38.761252, "Addis Ababa, Ethiopia"],
+	[-6.166491, 39.207431, "Zanzibar City, Zanzibar"],
+	[-6.266745, 39.534072, "Paje, Zanzibar"],
+	[-6.321892, 39.546793, "Jambiani, Zanzibar"],
+	[-6.149981, 39.516590, "Pingwe, Zanzibar"],
+	[-5.727227, 39.299202, "Nungwi, Zanzibar"],
 ];
