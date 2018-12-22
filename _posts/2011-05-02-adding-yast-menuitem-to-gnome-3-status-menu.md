@@ -3,7 +3,7 @@ layout: post
 title: Adding YaST menuitem to GNOME 3 status menu
 ---
 
-**This blogpost is now obsolete.**
+**Update: This blogpost is now obsolete.**
 
 **Please go to [GNOME-Shell Extension: YaST (item in) Status Menu](/gnome-shell-extension-yast-status-menu/).**
 

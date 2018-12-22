@@ -3,9 +3,11 @@ layout: post
 title: IBM Watson runs on SUSE Linux Enterprise
 ---
 
+I am sure that most of you already saw (or at least heard about) how [Watson](http://en.wikipedia.org/wiki/Watson_(artificial_intelligence_software)) from IBM competed on the TV quiz show [Jeopardy](http://en.wikipedia.org/wiki/Jeopardy!). The software runs on supercomputer which consists of 10 racks of IBM POWER 750 servers (making it a cluster of 90 servers, each having 32 cores with 4 hardware threads) . The much lesser known fact is that this machine is [using SUSE Linux Enterprise](http://lwn.net/Articles/427665/) as its operating system. Except Linux it can also run on [AIX and IBM i](http://www.zdnet.com/blog/open-source/what-makes-ibms-watson-run/8208), but IBM has chosen SLES (probably because it has the best performance on IBM POWER7 among these options), which makes it even more cool!
+
 ![ibm_watson](/assets/ibm_watson.jpg)
 
-I am sure that most of you already saw (or at least heard about) how [Watson](http://en.wikipedia.org/wiki/Watson_(artificial_intelligence_software)) from IBM competed on the TV quiz show [Jeopardy](http://en.wikipedia.org/wiki/Jeopardy!). The software runs on supercomputer which consists of 10 racks of IBM POWER 750 servers (making it a cluster of 90 servers, each having 32 cores with 4 hardware threads) . The much lesser known fact is that this machine is [using SUSE Linux Enterprise](http://lwn.net/Articles/427665/) as its operating system. Except Linux it can also run on [AIX and IBM i](http://www.zdnet.com/blog/open-source/what-makes-ibms-watson-run/8208), but IBM has chosen SLES (probably because it has the best performance on IBM POWER7 among these options), which makes it even more cool! <del>I wonder why Novell marketing isn't using this great success story more!</del>
+<del>I wonder why Novell marketing isn't using this great success story more!</del>
 
 **Update:** I just found [this](http://www.novell.com/promo/suse/ibm-watson.html) - it seems that Novell IS promoting this great success story afterall! Cool!
 

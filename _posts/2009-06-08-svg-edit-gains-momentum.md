@@ -3,9 +3,9 @@ layout: post
 title: SVG-edit gains momentum
 ---
 
-![svg](/assets/svg.png)
-
 Last week I announced cooperation with [Narendra Sisodiya](http://narendra.techfandu.org/) on a [SVG-edit](http://svg-edit.googlecode.com/) project. The inscrutable ways of twitter allowed [Jeff Schiller](http://blog.codedread.com/), a co-chair of the W3C SVG Interest Group, to spot our efforts and later he contributed with various patches and implemented some new features like selecting and moving objects.
+
+![svg](/assets/svg.png)
 
 I was very surprised when I found out that [Vidar Hokstad](http://www.hokstad.com/) took trunk of SVG-edit (only two days after my blogpost!) and created a [proof-of-concept gadget](http://www.hokstad.com/svg-editor-gadget-for-google-wave.html) for [Google Wave](http://wave.google.com/), the exactly same thing I would try to accomplish once the editor was more mature :-) . I asked Vidar if he's not interested in moving his source into our SVN, he agreed and is adjusting the gadget to work with the latest version of the editor right now.
 

@@ -3,7 +3,9 @@ layout: post
 title: Daisy Plasmoid - A dock for KDE 4
 ---
 
-From time to time I use Mac OS X and I really like the application management with its [dock](http://en.wikipedia.org/wiki/Dock_(Mac_OS_X)). I came across several different implementations for KDE 4, but they were usually too immature and not very pretty. I was very surprised when I finally found a decent implementation called [Daisy](http://daisyplasma.freehostia.com/). I immediately dropped the default KDE taskbar and started to use Daisy in conjunction with desktop effects "Box Switch" and "Present Windows" a.k.a Exposé. You can look at my setup here (only bottom 64 pixels are shown, the rest is usually occupied with maximized application):
+From time to time I use Mac OS X and I really like the application management with its [dock](http://en.wikipedia.org/wiki/Dock_(Mac_OS_X)). I came across several different implementations for KDE 4, but they were usually too immature and not very pretty. I was very surprised when I finally found a decent implementation called [Daisy](http://daisyplasma.freehostia.com/).
+
+I immediately dropped the default KDE taskbar and started to use Daisy in conjunction with desktop effects "Box Switch" and "Present Windows" a.k.a Exposé. You can look at my setup here (only bottom 64 pixels are shown, the rest is usually occupied with maximized application):
 
 ![daisytray](/assets/daisytray.jpg)
 

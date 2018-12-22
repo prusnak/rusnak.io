@@ -3,11 +3,9 @@ layout: post
 title: Timelapse video with webcam and mplayer
 ---
 
-Some time ago I created a timelapse video using webcam and mplayer:
+Some time ago I created a timelapse video using webcam and mplayer. Today I was asked how I did it and because I did not remember exactly the command line options I decided to write this post to save you some time reading manpages.
 
 <iframe width="480" height="360" src="http://www.youtube.com/embed/HHfIg74Walc" frameborder="0" allowfullscreen></iframe>
-
-Today I was asked how I did it and because I did not remember exactly the command line options I decided to write this post to save you some time reading manpages.
 
 First step is to grab series of JPG images from mplayer using webcam:
 

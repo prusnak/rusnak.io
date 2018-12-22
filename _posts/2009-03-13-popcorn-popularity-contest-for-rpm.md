@@ -3,9 +3,9 @@ layout: post
 title: Popcorn - Popularity Contest (for RPM)
 ---
 
-![popcorn-128x128](/assets/popcorn-128x128.png)
-
 A few days ago I came across [Feature #305877](https://features.opensuse.org/305877). What is it about? Well, Debian has the [Popularity Contest](http://popcon.debian.org/), which tracks installed packages, how often they are used and sends an anonymized report once a week to their server. This maps the usage of Debian packages and as a nice side effect Debian guys can estimate the size of their user base on various platforms and releases. This also gives information about the community structure (e.g. how many users use development tools or graphic applications). This would be a very neat thing to have in openSUSE too!
+
+![popcorn-128x128](/assets/popcorn-128x128.png)
 
 At first, the task seemed pretty straightforward - just to replace dpkg calls with corresponding calls to rpm. There was one catch, though. Because of the transactions, which RPM uses, scanning on my openSUSE 11.1 machine took 2 minutes instead of 2 seconds on Debian! That's because RPM creates one transaction for each package and constant locking and unlocking of rpmdb makes this process really slow. I rewrote the script to python, just to see how long will it take using only one long transaction and was very pleasantly surprised that it got back to 2 seconds. :) Moreover, rpmdb can tell you the exact time when the package was installed, so there was no need to check for [ctime](http://en.wikipedia.org/wiki/Stat_(Unix)) for files inside the packages like Debian does. (We still have to check for files [atime](http://en.wikipedia.org/wiki/Stat_(Unix)) to determine whether the package is used or not, though).
 

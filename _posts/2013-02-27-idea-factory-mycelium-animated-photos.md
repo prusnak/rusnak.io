@@ -3,13 +3,7 @@ layout: post
 title: Idea Factory - Mycelium Animated Photos
 ---
 
-This post is a part of [Idea Factory](/idea-factory/) series.
-
-One evening I found really [nice work](http://www.creativeapplications.net/processing/mycelium-processing/)
-by Ryan Alexander where images are created by simulating a life of mycelium.
-I was wondering how it was done and I came up
-with my own [Processing sketch](https://github.com/prusnak/processing/tree/master/myco)
-that creates something similar (although not as quite nice as the original work).
+This post is a part of [Idea Factory](/idea-factory/) series. One evening I found really [nice work](http://www.creativeapplications.net/processing/mycelium-processing/) by Ryan Alexander where images are created by simulating a life of mycelium. I was wondering how it was done and I came up with my own [Processing sketch](https://github.com/prusnak/processing/tree/master/myco) that creates something similar (although not as quite nice as the original work).
 
 The principle is simple: you take an image and convert it to grayscale.
 The brighter (or darker) is the pixel, the more food you put

@@ -3,9 +3,9 @@ layout: post
 title: OSC under Windows and Mac OS X
 ---
 
-![osc-win](/assets/osc-win.png)
-
 Few months ago I tried to use [OSC](http://en.opensuse.org/Build_Service/CLI) - our command-line client to [BuildService](http://en.opensuse.org/Build_Service) under Windows. I failed because of the hard-coded dependency on python-rpm module, which is (of course) not present in Python package for Windows.
+
+![osc-win](/assets/osc-win.png)
 
 Today I saw [Feature #306354](https://features.opensuse.org/306354), so I decided to give it a try again. Fortunately, the recent code changes made this task a lot easier! :-) I still had to create some fixes and hacks, but they are now commited to OSC subversion and shouldn't cause problems anymore.
 There are two ways how to use OSC in Windows:

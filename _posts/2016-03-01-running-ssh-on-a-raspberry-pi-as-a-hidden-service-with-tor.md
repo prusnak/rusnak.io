@@ -3,9 +3,7 @@ layout: post
 title: Running SSH on a Raspberry Pi as a Hidden Service with Tor
 ---
 
-Have you ever tried to solve the following problem? I did. Many times.
-
-You have just finished installing a brand new Internet node, but you need to connect to it (usually using SSH) to perform some tasks. The issue is that this node usually lies behind NAT, does not have a public IP, its local IP keeps changing or even worse even the public IP is changed by ISP from time to time.
+You have just finished installing a brand new Internet node, but you need to connect to it (usually using SSH) to perform some tasks. The issue is that this node usually lies behind NAT, does not have a public IP, its local IP keeps changing or even worse even the public IP is changed by ISP from time to time. Have you ever tried to solve the following problem? I did. Many times.
 
 This problem is usually solved by port forwarding on a router that has the public IP, but this is not very usable in more complex network environments.
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Temporal space-time anchors
+title: Temporal space and time anchors
 ---
 
 I guess I was around 15 when I came up with an idea. I thought it was quite ordinary and didn't bother to think about it more. Recently, it came to me again out of the blue. With much better access to the net, I tried to find someone else who came up and documented this idea, but I failed. So here it goes:

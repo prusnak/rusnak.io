@@ -3,9 +3,7 @@ layout: post
 title: How to push Bitcoin transactions via SMS
 ---
 
-Blockstream announced today their [Satellite](https://blockstream.com/satellite/) project. I was thinking about exactly that for quite long time, ever since this [DVB-T broadcast experiment](http://kryptoradio.koodilehto.fi/) in 2014. There are lot of sceptics, but I am very excited about this development.
-
-One of the recurring questions I saw was this one: What about the other direction (from user to Bitcoin node)?
+Blockstream announced today their [Satellite](https://blockstream.com/satellite/) project. I was thinking about exactly that for quite long time, ever since this [DVB-T broadcast experiment](http://kryptoradio.koodilehto.fi/) in 2014. There are lot of sceptics, but I am very excited about this development. One of the recurring questions I saw was this one: What about the other direction (from user to Bitcoin node)?
 
 Well, there are many options. One of them is sending new transactions via SMS or some other "legacy" method, if the Internet is not usable (blocked by the government, etc.).
 

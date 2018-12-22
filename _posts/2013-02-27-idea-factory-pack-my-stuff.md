@@ -3,12 +3,7 @@ layout: post
 title: Idea Factory - Pack My Stuff
 ---
 
-This post is a part of [Idea Factory](/idea-factory/) series.
-
-Last two years I travelled a lot to various Open Source related conferences.
-After few of them I already got quite a good idea what to pack and what not,
-depending on the length and the destination of the trip. But from time to time
-I forgot something and that later turned out to be a huge mistake.
+This post is a part of [Idea Factory](/idea-factory/) series. Last two years I travelled a lot to various Open Source related conferences. After few of them I already got quite a good idea what to pack and what not, depending on the length and the destination of the trip. But from time to time I forgot something and that later turned out to be a huge mistake.
 
 The idea is to create a mobile application where you can define several lists
 of things you need to pack, for example: _"3 days in Europe (summer)"_,

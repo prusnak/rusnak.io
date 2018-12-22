@@ -3,9 +3,9 @@ layout: post
 title: openSUSE 11.3 & KDE SC 4.5 Launch Party
 ---
 
-![launch_11.3](/assets/launch_11.3.jpg)
-
 *This article is about openSUSE 11.3 & KDE SC 4.5 Launch Party in Prague, Czech Republic and is probably not very interesting for people living abroad. :-)*
+
+![launch_11.3](/assets/launch_11.3.jpg)
 
 Tak ako minulý rok, sme si aj tento rok pri príležitosti vydania [openSUSE 11.3](http://wiki.opensuse.org/Portal:11.3) (sťahujte [odtiaľto](http://software.opensuse.org/)) a [KDE](http://www.kde.org/) SC 4.5 pre vás pripravili [Launch Party](http://wiki.opensuse.org/openSUSE:Launch_parties) v Prahe.
 

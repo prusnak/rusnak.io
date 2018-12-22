@@ -3,12 +3,7 @@ layout: post
 title: Idea Factory - Semantic Patches on Github
 ---
 
-This post is a part of [Idea Factory](/idea-factory/) series.
-
-Two years ago someone sent me quite weird pull request on Github. It took me some time
-to realize that the only change was the removal of whitespace at the end of the lines
-of all files. Commit message contained a link to some software development company so
-the whole effort could be considered as some kind of spam or publicity stunt.
+This post is a part of [Idea Factory](/idea-factory/) series. Two years ago someone sent me quite weird pull request on Github. It took me some time to realize that the only change was the removal of whitespace at the end of the lines of all files. Commit message contained a link to some software development company so the whole effort could be considered as some kind of spam or publicity stunt.
 
 But it sparked an idea!
 

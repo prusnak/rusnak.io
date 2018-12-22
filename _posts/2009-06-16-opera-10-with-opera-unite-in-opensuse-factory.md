@@ -3,9 +3,9 @@ layout: post
 title: Opera 10 with Opera Unite in openSUSE Factory
 ---
 
-![operaunite](/assets/operaunite.jpg)
-
 Opera Software unveiled today the new Opera build with a technology called [Opera Unite](http://unite.opera.com/). I updated the package in openSUSE [Factory Non-OSS](http://download.opensuse.org/factory/repo/non-oss/) repository, so you can try it out. Factory package can be installed on older openSUSE releases too, because they are not built against particular libraries.
+
+![operaunite](/assets/operaunite.jpg)
 
 You are probably wondering what exactly is Unite? Simply put, it is a cloud architecture, where cloud nodes are computers of the individual users or more specifically Opera instances running on them. More marketing-friendly citation from [Unite FAQ](http://unite.opera.com/support/) says:
 

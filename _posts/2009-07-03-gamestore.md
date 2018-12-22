@@ -3,7 +3,9 @@ layout: post
 title: Game Store
 ---
 
-I was adding some new packages to our [games](http://download.opensuse.org/repositories/games/) repository in openSUSE Build Service, when I realized that we have over 150 games at this one centralized place! Wouldn't it be great if there was an application which would allow users to browse through games, filter them by genres or names, view the screenshots and read the information about the games? Players usings Windows can already use  "Games for Windows" or "Steam" from Valve, but they also have to pay for the majority of the games. All games in our repository are free and just one click away! I started to hack an application with pretty concrete idea in my mind. You can look at the result of my efforts below (left Games for Windows, right Game Store):
+I was adding some new packages to our [games](http://download.opensuse.org/repositories/games/) repository in openSUSE Build Service, when I realized that we have over 150 games at this one centralized place! Wouldn't it be great if there was an application which would allow users to browse through games, filter them by genres or names, view the screenshots and read the information about the games?
+
+Players usings Windows can already use "Games for Windows" or "Steam" from Valve, but they also have to pay for the majority of the games. All games in our repository are free and just one click away! I started to hack an application with pretty concrete idea in my mind. You can look at the result of my efforts below (left Games for Windows, right Game Store):
 
 ![games_for_windows](/assets/games_for_windows.jpg)
 

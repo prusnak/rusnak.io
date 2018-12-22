@@ -3,9 +3,9 @@ layout: post
 title: TREZOR support in Tails 3.0
 ---
 
-Tails project released a first beta version of their upcoming 3.0 release based on Debian 9 Stretch. See their [call for testing](https://tails.boum.org/news/test_3.0-beta1/index.en.html) for the official announcement.
+Tails project released a first beta version of their upcoming 3.0 release based on Debian 9 Stretch. See their [call for testing](https://tails.boum.org/news/test_3.0-beta1/index.en.html) for the official announcement. There are lot of interesting changes, but the important one for me is that [TREZOR](https://trezor.io) now works out of the box in [Electrum](https://electrum.org/).
 
-There are lot of interesting changes, but the important one for me is that [TREZOR](https://trezor.io) now works out of the box in [Electrum](https://electrum.org/). No need to install any extra packages or create custom udev rules. As a bonus, you can use TREZOR from command line using `trezorctl` command.
+No need to install any extra packages or create custom udev rules. As a bonus, you can use TREZOR from command line using `trezorctl` command.
 
 PS: You cannot use TREZOR with our official [TREZOR Wallet](https://wallet.trezor.io) in Tails, because TOR Browser is configured in a way that it cannot reach TREZOR Bridge which is running as a localhost service.
 

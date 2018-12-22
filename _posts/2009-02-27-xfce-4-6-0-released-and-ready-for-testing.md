@@ -3,9 +3,9 @@ layout: post
 title: Xfce 4.6.0 released (and ready for testing!)
 ---
 
-![xfce_logo](/assets/xfce_logo.png)
-
 The Xfce development team [announced](http://www.xfce.org/about/news?id=21) today the release of the long-awaited 4.6.0 version of their [Xfce Desktop Environment](http://www.xfce.org/). There is also a very nice [Visual Tour](http://www.xfce.org/about/tour) prepared by Jérôme Guelfucci and Jannis Pohlmann, which highlights some of the new and exciting Xfce features. For me, the most vivid change is the complete rewrite of the Settings Manager together with its configuration backend, but I'm sure that everybody will find his/hers own favorite :-).
+
+![xfce_logo](/assets/xfce_logo.png)
 
 It took me longer to prepare the updated packages than I expected, because of the busy BuildService, but they are finally ready in our [X11:xfce](http://en.opensuse.org/X11:xfce) BuildService project and I would like to encourage you to try them. If you encounter any problems, either upgrade issues from distribution 4.4.x series, issues with clean installation from repository or any other defects, please do not hesitate and [contact me](http://en.opensuse.org/User:Prusnak). Thank you very much and I'm looking for your comments and responses!
 

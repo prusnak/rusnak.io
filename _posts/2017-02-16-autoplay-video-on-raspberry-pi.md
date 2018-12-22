@@ -3,9 +3,7 @@ layout: post
 title: Autoplay video on Raspberry Pi
 ---
 
-Lots of (art) people are using Raspberry Pi instead of DVD players and MP4 players for their installations that play videos in loop.
-
-There are many ways how to achieve the result, but the one I liked the most is the following:
+Lots of (art) people are using Raspberry Pi instead of DVD players and MP4 players for their installations that play videos in loop.  There are many ways how to achieve the result, but the one I liked the most is the following:
 
 1. download Raspbian Lite from [raspberrypi.org](https://www.raspberrypi.org/downloads/raspbian/)
 2. copy the downloaded image to the SD card, e.g. `sudo dd_rescue 2017-01-11-raspbian-jessie-lite.img /dev/mmcblk0`

@@ -3,9 +3,9 @@ layout: post
 title: New RPM in openSUSE Factory
 ---
 
-![rpmlogo](/assets/rpmlogo.png)
-
 Michael Schroeder has finally updated the RPM package in openSUSE to the latest upstream version 4.7.1. \o/ There were LOTS of bugfixes, enhancements and internal API changes which are probably not very interesting for mere mortals, but what do they mean for packagers? Here's a list of important changes for them:
+
+![rpmlogo](/assets/rpmlogo.png)
 
 * Macro `%patch` does not behave like `%patch0` anymore. Stop mixing `Patch:` with `%patch0` and vice versa and use them consistently - i.e. either use the numbers in preamble and in `%prep` phase or don't.
 * Fuzz tolerance for patches was changed from 2 to zero. All patches must apply cleanly now.

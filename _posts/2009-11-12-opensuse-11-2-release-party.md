@@ -3,9 +3,9 @@ layout: post
 title: openSUSE 11.2 Release Party
 ---
 
-![opensuse-11.2](/assets/opensuse-11.2.png)
-
 *This article is about openSUSE 11.2 Release Party in Prague, Czech Republic and is probably not very interesting for people living abroad. :-)*
+
+![opensuse-11.2](/assets/opensuse-11.2.png)
 
 Ako mnohí z vás vedia, dnes oficiálne vyšlo [openSUSE&nbsp;11.2](http://en.opensuse.org/OpenSUSE_11.2) (sťahujte [odtiaľto](http://software.opensuse.org/)) a po celom svete sa nasledujúci tyždeň budú konať [Release Party](http://en.opensuse.org/OpenSUSE_11.2_Launch_Party_Locations). My sme si túto príležitosť nemohli nechať újsť a pripravili sme pre vás tiež jednu takúto akciu v&nbsp;Prahe.
 

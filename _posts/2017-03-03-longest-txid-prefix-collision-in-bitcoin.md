@@ -3,9 +3,7 @@ layout: post
 title: Longest TXID prefix collision in Bitcoin
 ---
 
-As you probably know, transactions in Bitcoin are identified by their SHA256 hashes which are 256 bits long. These identifiers are called transaction ID or TXID.
-
-We were brainstorming a new project at SatoshiLabs and an interesting question popped up. How much can we trim TXIDs before collisions start to appear? Or in another words: can we use just the first 128 bits of the hash instead of the full hash to uniquely identify the transaction? Can we use even less bits?
+As you probably know, transactions in Bitcoin are identified by their SHA256 hashes which are 256 bits long. These identifiers are called transaction ID or TXID. We were brainstorming a new project at SatoshiLabs and an interesting question popped up. How much can we trim TXIDs before collisions start to appear? Or in another words: can we use just the first 128 bits of the hash instead of the full hash to uniquely identify the transaction? Can we use even less bits?
 
 Let's find out!
 

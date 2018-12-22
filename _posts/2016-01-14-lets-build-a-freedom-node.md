@@ -3,10 +3,7 @@ layout: post
 title: Let's build a Freedom Node
 ---
 
-Recently, I decided to support some of the open-source distributed projects such as [Tor](https://www.torproject.org/), [IPFS](https://ipfs.io/) and [Bitcoin](https://bitcoin.org/).
-
-One way of supporting them would be to send some [money as a donation](https://www.torproject.org/donate),
-but because I am a hacker with a good Internet connection I decided to build a computer node that will directly contribute to their networks and make them bigger and more robust.
+Recently, I decided to support some of the open-source distributed projects such as [Tor](https://www.torproject.org/), [IPFS](https://ipfs.io/) and [Bitcoin](https://bitcoin.org/). One way of supporting them would be to send some [money as a donation](https://www.torproject.org/donate), but because I am a hacker with a good Internet connection I decided to build a computer node that will directly contribute to their networks and make them bigger and more robust.
 
 I call it a "Freedom Node".
 

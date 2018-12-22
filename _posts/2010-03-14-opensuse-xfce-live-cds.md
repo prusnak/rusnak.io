@@ -3,9 +3,9 @@ layout: post
 title: openSUSE Xfce Live CDs
 ---
 
-![xfce_cd](/assets/xfce_cd.png)
-
 Yesterday Andrea aka anubisg1 [announced the Live CDs for LXDE](http://lizards.opensuse.org/2010/03/13/opensuse-lxde-live-cds/), which he built in Build Service with the help of Dmitry Serpokryl. It was a very easy task for me to replace LXDE packages with Xfce ones in kiwi definition, so I can present you **the Xfce Live CDs**!
+
+![xfce_cd](/assets/xfce_cd.png)
 
 I've created an entry in our [Derivates](http://en.opensuse.org/Derivatives#Unofficial_updated_Xfce_live_CDs) page and you can download the images from [this location](http://download.opensuse.org/repositories/X11:/xfce/images/iso/). The default user is **linux** with no password, user **root** uses the same empty password.
 

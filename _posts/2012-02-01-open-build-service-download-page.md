@@ -3,9 +3,7 @@ layout: post
 title: Open Build Service - Introducing Download Page
 ---
 
-This is something I should've blogged about some time ago, but we wanted to make it a part of a bigger announcement, which did not happen so ... here goes.
-
-One of the ideas how to help with [Open Build Service](http://openbuildservice.org/) adoption was to create some kind of download widget that would be possible to embed into upstream projects' download pages. After a few days of work I ended up with the page that is now available from this URL:
+This is something I should've blogged about some time ago, but we wanted to make it a part of a bigger announcement, which did not happen so ... here goes. One of the ideas how to help with [Open Build Service](http://openbuildservice.org/) adoption was to create some kind of download widget that would be possible to embed into upstream projects' download pages. After a few days of work I ended up with the page that is now available from this URL:
 
 `http://software.opensuse.org/download?project=PROJECT&package=PACKAGE`
 

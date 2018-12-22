@@ -3,11 +3,9 @@ layout: post
 title: My Candidacy for the openSUSE Board
 ---
 
+¡Hola openSUSE Folks! I'd like to announce my candidacy for [openSUSE Board Elections 2009](http://en.opensuse.org/Board_Election/2009).
+
 ![snowboard_chameleon](/assets/snowboard_chameleon.png)
-
-¡Hola openSUSE Folks!
-
-I'd like to announce my candidacy for [openSUSE Board Elections 2009](http://en.opensuse.org/Board_Election/2009).
 
 My name is Pavol Rusnak and I'm 25 years old. I was born in [Kosice, Slovakia](http://maps.google.com/?q=kosice,slovakia), but for the last 7 years I've been living in [Prague, Czech Republic](http://maps.google.com/?q=prague), where I graduated from computer science at the Charles University.
 

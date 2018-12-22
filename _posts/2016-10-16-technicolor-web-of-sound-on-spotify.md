@@ -3,9 +3,9 @@ layout: post
 title: Technicolor Web of Sound on Spotify
 ---
 
-![technicolor](/assets/technicolor.jpg)
-
 My friend is a big fan of psychedelic music from the 60s and 70s. Recently, he told me about the (now defunct) internet radio he really enjoyed listening to: [Technicolor Web of Sound](http://www.techwebsound.com/). He also mentioned that the website has a list of all artists and their songs that used to be in the rotation. I immediately got an idea to scrape the list and convert it to Spotify playlist.
+
+![technicolor](/assets/technicolor.jpg)
 
 And here's the result:
 
