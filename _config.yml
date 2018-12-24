@@ -7,11 +7,11 @@ permalink:           /:title/
 title:               Pavol Rusnak
 tagline:             '#cypherpunk #hacker #openhw #privacy #bitcoin #newmediaart'
 description:         'Pavol Rusnak'
-url:                 https://gk2.sk
-baseurl:             https://gk2.sk
+url:                 https://rusnak.io
+baseurl:             https://rusnak.io
 paginate:            10
 
 author:
   name:              Pavol Rusnak
   url:               https://twitter.com/pavolrusnak
-  email:             stick@gk2.sk
+  email:             pavol@rusnak.io
