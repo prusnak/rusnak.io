@@ -18,28 +18,28 @@ Example of the incoming notifications:
 ```python
 {
     'concat-ref': '16',
-    'msisdn': '420xxxxxxxxx',
+    'msisdn': 'xxxxxxxxxxxx',
     'messageId': '0C000000538BA945',
     'concat-total': '2',
     'message-timestamp': '2017-08-15 21:04:16',
     'concat-part': '1',
     'concat': 'true',
     'type': 'text',
-    'to': '32460213730',
+    'to': 'xxxxxxxxxxx',
     'text': 'AQAAAAGKDYUXkeV/1wYLUD82slBs++d1BG+3l3VDzQsCk06KtAQAAABrSDBFAiEAhnJOYrejTqK/yeC7trGn/RhmQ13cCLjgI7KFmpPxxf4CIEj599L7S7r/WNFw63178y2cUHbQPtquhs3JtAcxxzyZA',
     'keyword': 'AQAAAAGKDYUXKEV/1WYLUD82SLBS',
 }
 
 {
     'concat-ref': '16',
-    'msisdn': '420xxxxxxxxx',
+    'msisdn': 'xxxxxxxxxxxx',
     'messageId': '0C000000538BAAA6',
     'concat-total': '2',
     'message-timestamp': '2017-08-15 21:04:17',
     'concat-part': '2',
     'concat': 'true',
     'type': 'text',
-    'to': '32460213730',
+    'to': 'xxxxxxxxxxx',
     'text': 'SECK8N3vuXGrfZcC+wxfzyXVJtOnRaDDVVgU6RP/7vIKJj/////AgcEMwAAAAAAGXapFFmMuQgji+WAXhfI8FA1PGHHV8ZeiKxAQg8AAAAAABl2qRQkNDDiX+4AeooHtEj57drd3FbY54isAAAAAA==',
     'keyword': 'SECK8N3VUXGRFZCC',
 }
@@ -50,12 +50,5 @@ Once the message is correctly concatenated, we can push it to Insight server usi
 That's it! That was easy right?! Remember, this is just a quick & dirty proof of concept and lots of things can (and should) be improved. But if one person is able to do something like this within 90 minutes with 10 EUR budget (10 EUR is minimum Nexmo payment, you will get 2 EUR as bonus, what translates to 2 years of Belgian number!), imagine what could be done with a little bit more resources!
 
 Below is the screenshot of the base64 encoded transaction I sent to my service. It's already [mined in the blockchain](https://blockchain.info/tx/d72ccc13fcbe9ea22ef60c4c5123c9825e7c56740e566ee1c3456471684b4b4e) after being successfully broadcasted via my service to the Bitcoin network.
-
-You can try sending your own transactions via SMS here:
-
-* **+32 460 213 730** (BE/EU)
-* **+1 (314) 300-3730** (USA)
-
-I will try to keep the service running for some time. Enjoy! :-)
 
 ![smspushtx](/assets/smspushtx.png)
