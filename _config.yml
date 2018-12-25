@@ -8,7 +8,7 @@ title:               Pavol Rusnak
 tagline:             '#cypherpunk #hacker #openhw #privacy #bitcoin #newmediaart'
 description:         'Pavol Rusnak'
 url:                 https://rusnak.io
-baseurl:             https://rusnak.io
+baseurl:             ''
 paginate:            10
 
 author:
