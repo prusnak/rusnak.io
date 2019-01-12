@@ -3,7 +3,7 @@ layout: post
 title: How to use TREZOR with Rootstock (RSK) using MyEtherWallet
 ---
 
-**Update: This post is now obsolete, I stopped providing the service and RSK still haven't stepped up and does not provide any alternative.**
+**Update: This post is now obsolete as I stopped providing the service. RSK people haven't picked this up and do not provide any alternative.**
 
 To use RSK using MyEtherWallet one needs to point it to a RSK node which runs using HTTPS (not HTTP) and has correctly set Cross-Origin headers. Since there was none, I created one and sent a [pull request](https://github.com/kvhnuke/etherwallet/pull/489) to MyEtherWallet, so this chain can be used out of the box.
 
