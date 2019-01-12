@@ -124,3 +124,15 @@ Running the program (it took just around 45 seconds!) resulted in the following 
 Woohoo! We have the result. The longest collision is 13 hex characters long and you can see it above.
 
 This means 7 bytes (56 bits) are enough to distinguish the transactions by their TXID for now. Much less than I anticipated at the beginning!
+
+## Update for 2019
+
+I run the scripts again in January 2019, this time with the following results:
+
+```
+d1de32dd06ac06a98f479bdf31654e3c0bfcf1fe82579b3cb3760ee002e008fd
+d1de32dd06ac06a10cc6479102d8e4a941acd243bd6aa68f5b707176ea27905c
+15
+```
+
+We have hit the 8 bytes, that is 64 bits boundary. If you are using this optimization, it might be a good idea to increase this limit.
