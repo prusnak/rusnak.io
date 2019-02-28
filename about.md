@@ -5,12 +5,13 @@ title: About
 
 ![photo](/assets/photo_noc.jpg)
 
-Pavol Rusnák, otherwise known as “Stick,” is Co-Founder, CTO, core developer
-and cryptographer of SatoshiLabs, where he is leading the development of
-software and hardware projects such as TREZOR, the first hardware wallet. Along
-with his regular work, he is also interested in artificial intelligence and
-cognitive science in general. In his spare time he is working on award-winning,
-hi-tech, experimental, new media interactive installations.
+
+Pavol Rusnák is a co-founder, CTO and core developer of SatoshiLabs, where he
+is leading the development of software and hardware projects such as TREZOR,
+the first hardware wallet. Along with his regular work, he is also interested
+in artificial intelligence and cognitive science in general. In his spare time
+he is working on award-winning, hi-tech, experimental, new media interactive
+installations.
 
 Pavol graduated from Charles University in Prague, Faculty of Mathematics and
 Physics, majoring in Database Systems, with particular emphasis on distributed
