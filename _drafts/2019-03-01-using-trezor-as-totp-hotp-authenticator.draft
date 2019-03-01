@@ -1,0 +1,62 @@
+---
+layout: post
+title: Using Trezor as a TOTP/HOTP authenticator
+---
+
+I created a small Python script that allows you to use Trezor as a TOTP/HOTP authenticator: [trezor-otp.py](https://github.com/trezor/python-trezor/blob/master/tools/trezor-otp.py).
+
+Because TOTP/HOTP secrets are shared secrets and cannot be derived from Trezor's entropy, they need to be stored on the computer.
+However, we can use Trezor to encrypt these.
+
+The workflow is pretty simple. First you need to add some domains with their secrets.
+These will be usually provided by the server when you initialize the second factor authentication.
+
+``` bash
+$ ./trezor-otp.py add
+domain: example.com
+secret: JBSWY3DPEHPK3PXP
+type (t=totp h=hotp): t
+Entry added
+
+$ ./trezor-otp.py add
+domain: example.org
+secret: JBSWY3DPEHPK3PXP
+type (t=totp h=hotp): h
+Entry added
+```
+
+Commands above create the following file (stored in `~/.config/trezor-otp.ini`):
+
+``` ini
+[example.com]
+secret = 5925970db41b4a79fe9676acd4d0e03b
+type = totp
+
+[example.org]
+secret = 317010a2a3c4c91f2dc85e3b1edb99f9
+type = hotp
+counter = 0
+```
+
+As you can see the secrets are encrypted by Trezor and not stored in the plain-text format.
+
+If you want to login using 2FA, just run the script while providing the domain as a parameter.
+Trezor will show a confirmation screen before decrypting the secrets.
+Only if you confirm this dialog, the script can proceed and give you the correct OTP numbers.
+
+![trezor-totp](/assets/trezor-totp.png)
+
+``` bash
+$ ./trezor-otp.py example.com
+Please confirm action on your Trezor device
+569610
+
+$ ./trezor-otp.py example.org
+Please confirm action on your Trezor device
+996554
+```
+
+In case HOTP is used, the script also increases the stored counter as expected.
+
+In the future we are adding this feature to our [Trezor Password Manager](https://trezor.io/passwords/) and updating the Trezor code,
+so the OTP numbers are shown directly on the device display.
