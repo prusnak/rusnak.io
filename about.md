@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-![photo](/assets/photo_noc.jpg)
+![photo](/assets/photo.jpg)
 
 
 Pavol Rusnák is a co-founder, CTO and core developer of SatoshiLabs, where he
