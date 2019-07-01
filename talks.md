@@ -5,6 +5,8 @@ title: Talks and Workshops
 
 date / event | title / place
 -------------|--------------
+2019-04-12 | How Generative Adversarial Networks (GANs) Changed the Way We Look on the World or the Necessity of Visual Scepticism in the Post-truth Era (with Lenka Hamosova)
+Datatata Conference | Brno
 2018-09-23 | Bitcoin security panel
 Baltic Honeybadger | Riga
 2018-09-22 | The future of Bitcoin wallets panel
