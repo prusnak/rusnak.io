@@ -5,7 +5,7 @@ title: Complex Harmonic Motion
 
 *Art collaboration with Prokop Bartonicek and Tomislav Arnaudov as [pebe/lab](/pebe-lab) (2014)*
 
-web: [http://www.pebe.cz/lab/?p=3788](http://www.pebe.cz/lab/?p=3788)
+web: [prokopbartonicek.com](http://www.prokopbartonicek.com/complex-harmonic-motion)
 
 {% for i in (1..3) %}
 ![chm{{ i }}](/assets/chm{{ i }}.jpg)

@@ -3,9 +3,9 @@ layout: page
 title: Jller
 ---
 
-*Art collaboration with Prokop Bartonicek and Tomislav Arnaudov as [pebe/lab](/pebe-lab) and Benjamin Maus of [FELD](http://www.feld.is/) (2015-2017)*
+*Art collaboration with Prokop Bartonicek and Tomislav Arnaudov as [pebe/lab](/pebe-lab) and Benjamin Maus (2015-2017)*
 
-web: [http://www.pebe.cz/lab/?p=3820](http://www.pebe.cz/lab/?p=3820), [http://www.feld.is/projects/jller/](http://www.feld.is/projects/jller/)
+web: [prokopbartonicek.com](http://www.prokopbartonicek.com/jller-ignorance-with-benjamin-maus-2015), [allesblinkt.com](https://www.allesblinkt.com/projects/iller/)
 
 <iframe src="https://player.vimeo.com/video/167126696?title=0&byline=0&portrait=0" width="720" height="405" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 

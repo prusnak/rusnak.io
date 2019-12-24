@@ -5,7 +5,7 @@ title: Mirrsaic NOW
 
 *Art collaboration with Prokop Bartonicek as [pebe/lab](/pebe-lab) (2012)*
 
-web: [http://www.pebe.cz/lab/?p=3744](http://www.pebe.cz/lab/?p=3744)
+web: [prokopbartonicek.com](http://www.prokopbartonicek.com/mirrsaic-now-2012)
 
 <iframe src="https://player.vimeo.com/video/50501685?title=0&byline=0&portrait=0" width="720" height="405" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
