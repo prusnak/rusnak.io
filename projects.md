@@ -24,7 +24,7 @@ Here is the list of art projects I was involved in:
 Here is the list of organizations I am a part of or used to be a part of:
 
 * [SatoshiLabs](/satoshilabs) (since 2012)
-* [CTJB](/ctjb) (since 2014)
+* [CTJB](/ctjb) (2014-2019)
 * [Ex Post](/expost) (2015-2017)
 * [pebe/lab](/pebe-lab) (since 2013)
 * [SOIT](http://www.soit.sk) (2010-2016)
