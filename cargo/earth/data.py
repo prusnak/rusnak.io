@@ -2,7 +2,7 @@
 import time
 from geopy.geocoders import Nominatim
 
-geolocator = Nominatim()
+geolocator = Nominatim(user_agent="MyEarth")
 
 old_data = {}
 

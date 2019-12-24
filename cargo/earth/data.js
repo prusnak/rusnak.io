@@ -38,6 +38,8 @@ window.point_data = [
 	[48.841448, 17.253117, "Skalica, Slovakia"],
 	[48.668369, 17.348676, "Senica, Slovakia"],
 	[48.971952, 19.583023, "Demanovska Dolina, Slovakia"],
+	[48.589525, 17.821385, "Piestany, Slovakia"],
+	[48.600686, 17.878046, "Moravany nad Vahom, Slovakia"],
 	[50.087465, 14.421250, "Praha, Czech Republic"],
 	[49.192244, 16.611338, "Brno, Czech Republic"],
 	[49.834914, 18.282008, "Ostrava, Czech Republic"],
@@ -175,4 +177,8 @@ window.point_data = [
 	[-6.321892, 39.546793, "Jambiani, Zanzibar"],
 	[-6.149981, 39.516590, "Pingwe, Zanzibar"],
 	[-5.727227, 39.299202, "Nungwi, Zanzibar"],
+	[10.649745, 106.761979, "Ho Chi Minh City, Vietnam"],
+	[16.068000, 108.212000, "Da Nang, Vietnam"],
+	[10.222379, 103.965908, "Phu Quoc, Vietnam"],
+	[15.879814, 108.327394, "Hoi An, Vietnam"],
 ];

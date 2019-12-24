@@ -38,6 +38,8 @@ Slovakia
 	Skalica
 	Senica
 	Demanovska Dolina
+	Piestany
+	Moravany nad Vahom
 
 Czech Republic
 	Praha
@@ -221,3 +223,9 @@ Zanzibar
 	Jambiani
 	Pingwe
 	Nungwi
+
+Vietnam
+	Ho Chi Minh City
+	Da Nang
+	Phu Quoc
+	Hoi An
