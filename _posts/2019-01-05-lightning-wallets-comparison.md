@@ -3,7 +3,7 @@ layout: post
 title: Lightning Wallets Comparison
 ---
 
-This post compares four Lightning Wallets for Android (and iOS).
+This post compares five Lightning Wallets for Android (and iOS).
 
 Please contact me via the email in the sidebar if you want to change something and/or if you have an idea what should I add to the comparison. Thank you!
 
@@ -14,6 +14,12 @@ Please contact me via the email in the sidebar if you want to change something a
 * summary: full blown Bitcoin/Lightning wallet, where everything is under your control
 * homepage: [https://acinq.co/](https://acinq.co/)
 * Android: [Google Play](https://play.google.com/store/apps/details?id=fr.acinq.eclair.wallet.mainnet2)
+
+## Phoenix
+
+* summary: quick and simple non-custodial Lightning-only wallet
+* homepage: [https://phoenix.acinq.co/](https://phoenix.acinq.co/)
+* Android: [Google Play](https://play.google.com/store/apps/details?id=fr.acinq.phoenix.mainnet)
 
 ## Lightning Wallet aka BLW
 
