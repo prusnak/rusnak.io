@@ -3,7 +3,7 @@ layout: post
 title: SVG-edit 2.1 released
 ---
 
-Thanks to hard work of Jeff, Narendra, Vidar and me, we managed to create today a 2.1 release of [SVG-edit](http://svg-edit.googlecode.com/). Interesting changes include:
+Thanks to hard work of Jeff, Narendra, Vidar and me, we managed to create today a 2.1 release of [SVG-edit](https://github.com/SVG-Edit/svgedit). Interesting changes include:
 
 * tooltips for all UI elements
 * editing of fill, stroke and group opacity
@@ -16,6 +16,6 @@ Thanks to hard work of Jeff, Narendra, Vidar and me, we managed to create today 
 
 ![svg-edit-2.1](/assets/svg-edit-2.1.png)
 
-You can try the 2.1 branch [here](http://svg-edit.googlecode.com/svn/branches/2.1/editor/svg-editor.html)
+You can try the 2.1 branch [here](https://svg-edit.github.io/svgedit/releases/latest/editor/svg-editor.html)
 
 Unfortunately the editor still has some problems when embedded into [Google Wave](http://wave.google.com/), but now that Vidar received his invitation, I hope we'll be able to fix it sooner. :-) We are also already cooking new features for 2.2 so stay tuned!
