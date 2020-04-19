@@ -9,7 +9,7 @@ Lots of (art) people are using Raspberry Pi to show image slideshow in loop.
 There are many ways how to achieve the result, but the one I liked the most is the following:
 
 1. download Raspbian Lite from [raspberrypi.org](https://www.raspberrypi.org/downloads/raspbian/)
-2. copy the downloaded image to the SD card, e.g. `sudo dd_rescue 2020-02-13-raspbian-buster-lite.img /dev/mmcblk0`
+2. copy the downloaded image to the SD card, e.g. `sudo dd if=2020-02-13-raspbian-buster-lite.img of=/dev/mmcblk0 conv=fsync,notrunc bs=4M`
 3. boot Raspberry Pi into freshly installed Raspbian
 4. run `sudo raspi-config` and set Boot to Automatic login (`3 Boot Options` > `B1 Desktop / CLI` > `B2 Console Autologin`)
 4. copy your images from USB flash drive to the SD card (`/media` folder)
