@@ -5,7 +5,7 @@ title: Lekno
 
 *Art collaboration with Ivana "Laila" Drobna (2015)*
 
-web: [http://www.laila.sk/lekno/](http://www.laila.sk/lekno/)
+web: [https://www.laila.sk/lekno/](https://www.laila.sk/lekno/)
 
 {% for i in (1..4) %}
 ![lekno{{ i }}](/assets/lekno{{ i }}.jpg)

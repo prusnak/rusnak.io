@@ -30,7 +30,7 @@ Awards:
 
 In the media:
 
-* [Collosal](http://www.thisiscolossal.com/2016/05/kinetic-rock-sorting-jller/)
-* [Wired](http://www.wired.com/2016/05/someone-built-rock-sorting-robot-downright-hypnotizing/)
-* [Popular Science](http://www.popsci.com/rock-sorting-art-machine-is-useless-and-beautiful)
-* [Atlas Obscura](http://www.atlasobscura.com/articles/watch-a-hypnotizing-machine-sort-river-rocks-by-age)
+* [Collosal](https://www.thisiscolossal.com/2016/05/kinetic-rock-sorting-jller/)
+* [Wired](https://www.wired.com/2016/05/someone-built-rock-sorting-robot-downright-hypnotizing/)
+* [Popular Science](https://www.popsci.com/rock-sorting-art-machine-is-useless-and-beautiful)
+* [Atlas Obscura](https://www.atlasobscura.com/articles/watch-a-hypnotizing-machine-sort-river-rocks-by-age)

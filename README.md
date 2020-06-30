@@ -1,3 +1,3 @@
 # rusnak.io
 
-Blog based on [Lanyon](http://lanyon.getpoole.com/)/[Poole](http://getpoole.com)/[Jekyll](http://jekyllrb.com).
+Blog based on [Lanyon](https://lanyon.getpoole.com/)/[Poole](https://getpoole.com)/[Jekyll](https://jekyllrb.com).

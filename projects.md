@@ -27,6 +27,6 @@ Here is the list of organizations I am a part of or used to be a part of:
 * [CTJB](/ctjb) (2014-2019)
 * [Ex Post](/expost) (2015-2017)
 * [pebe/lab](/pebe-lab) (since 2013)
-* [SOIT](http://www.soit.sk) (2010-2016)
+* [SOIT](https://www.soit.sk) (2010-2016)
 * [brmlab](https://brmlab.cz) (2010-2012)
 * [openSUSE](https://www.opensuse.org) (2006-2012)
