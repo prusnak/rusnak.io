@@ -12,3 +12,8 @@ web: [prokopbartonicek.com](http://www.prokopbartonicek.com/phosphor-360-ver-b)
 {% endfor %}
 
 The Phosphor 360 ver. B installation is a prototype of a new visual mechanism connecting laser projection, mapping and generative motion graphics with an energy accumulating material. Japanese artist and production engineer Daito Manabe tested a UV laser on a phosphor coated projection surface. P360B also uses a UV laser projector, but it is mounted on a 360° rotating head making it possible to cover selected areas. Real-time generated graphic is projected on objects located nearby. A strong UV beam charges the phosphor-coated surface of the geometric objects that radiate energy in the form of visible structures, compositions and images.
+
+Links:
+
+* [Signal Festival 2013](https://www.signalfestival.com/en/history/2013/the-phosphor-360-ver-b/)
+* [Bella Skyway Festival 2014](http://www.bellaskyway.pl/2014/en/program-festiwalu/fosfor-360-wersja-b/)
