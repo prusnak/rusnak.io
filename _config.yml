@@ -2,6 +2,10 @@ gems:
   - jekyll-paginate
   - jekyll-sitemap
 
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+
 permalink:           /:title/
 
 title:               Pavol Rusnak
