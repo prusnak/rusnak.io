@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Lightning Wallets Comparison
+title: Bitcoin + Lightning Wallets Comparison
 ---
 
-This post compares five Lightning Wallets for Android (and iOS).
+This post compares six Bitcoin + Lightning Wallets for Android and iOS.
 
 Please contact me via the email in the sidebar if you want to change something and/or if you have an idea what should I add to the comparison. Thank you!
 
