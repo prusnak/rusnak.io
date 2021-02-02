@@ -40,3 +40,10 @@ Please contact me via the email in the sidebar if you want to change something a
 * summary: quick and simple custodial Lightning-only wallet
 * homepage: [https://www.walletofsatoshi.com/](https://www.walletofsatoshi.com/)
 * Android: [Google Play](https://play.google.com/store/apps/details?id=com.livingroomofsatoshi.wallet)
+
+## Muun
+
+* summary: simple non-custodial Bitcoin and custodial Lightning wallet
+* homepage: [https://muun.com](https://muun.com)
+* Android: [Google Play](https://play.google.com/store/apps/details?id=io.muun.apollo)
+* iOS: [App Store](https://apps.apple.com/us/app/muun-wallet/id1482037683)
