@@ -1,0 +1,47 @@
+<html>
+<head>
+<title>DeFi Disaster</title>
+<style>
+body {
+  background: black;
+}
+img {
+}
+#claws {
+  position: absolute;
+  left: 360px;
+  top: 198px;
+  z-index: 2;
+}
+#logo {
+  position: absolute;
+  left: 367px;
+  top: 124px;
+  z-index: 1;
+  width: 192px;
+  height: 192px;
+}
+#back {
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+</style>
+</head>
+<body>
+<div id="main">
+<img id="claws" src="claws.png">
+<img id="logo">
+<img id="back" src="bg.jpg">
+</div>
+<script>
+const coin = window.location.search;
+const e = document.getElementById("logo");
+if (coin) {
+  e.src = "https://s2.coinmarketcap.com/static/img/coins/128x128/" + coin.substr(1) + ".png";
+} else {
+  e.style.display = "none";
+}
+</script>
+</body>
+</html>
