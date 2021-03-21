@@ -6,12 +6,11 @@ title: About
 ![photo](/assets/photo.jpg)
 
 
-Pavol Rusnák is a co-founder, CTO and core developer of SatoshiLabs, where he
-is leading the development of software and hardware projects such as TREZOR,
-the first hardware wallet. Along with his regular work, he is also interested
-in artificial intelligence and cognitive science in general. In his spare time,
-he is working on award-winning, hi-tech, experimental, new media interactive
-installations.
+Pavol Rusnak is Co-Founder and CTO of SatoshiLabs, where he is overseeing
+the development of open-source software and hardware projects
+that strengthen the power and independence of an individual.
+Along with his everyday work, he is also very interested in
+artificial intelligence, cognitive science and biotechnologies.
 
 Pavol graduated from Charles University in Prague, Faculty of Mathematics and
 Physics, majoring in Database Systems, with particular emphasis on distributed
