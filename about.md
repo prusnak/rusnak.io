@@ -5,6 +5,11 @@ title: About
 
 ![photo](/assets/photo.jpg)
 
+----
+
+**Mission: Strengthening the power and independence of individuals via open-source projects**
+
+----
 
 Pavol Rusnak is Co-Founder and CTO of SatoshiLabs, where he is overseeing
 the development of open-source software and hardware projects
@@ -19,10 +24,6 @@ been invited to speak at significant technology-oriented events such as Chaos
 Communication Congress, FOSDEM or LinuxTag. In the past, he also served as a
 board member of the openSUSE Project and as a three-time mentor/administrator
 for the Google Summer of Code.
-
-----
-
-***Motto: In every struggle, there is a risk you'll become a monster you fight.***
 
 ----
 
