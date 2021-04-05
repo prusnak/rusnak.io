@@ -7,7 +7,7 @@ title: About
 
 ----
 
-**Mission: Strengthening the power and independence of individuals via open-source projects**
+**Mission: Strengthening the power and independence of individuals via open-source software and hardware projects**
 
 ----
 
