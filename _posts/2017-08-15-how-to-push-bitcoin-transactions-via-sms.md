@@ -46,3 +46,6 @@ If your phone can't do this automatically, you can do it manually by prefixing e
 * etc.
 
 The space after the bracket is not necessary.
+
+<meta http-equiv="refresh" content="0; url=https://rusnak.io/how-to-send-bitcoin-transactions-via-sms/">
+<link rel="canonical" href="https://rusnak.io/how-to-send-bitcoin-transactions-via-sms/">
