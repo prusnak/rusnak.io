@@ -56,7 +56,7 @@ cat $SERVICE_DIR/hostname
 * Which should print something like this:
 
 ```
-vxbdqtv2ber7js5y.onion
+x5a4ox5qzsmgr2rucnldo54prhkzfd4bnwhmjo7jtp5zfeugkuq53jid.onion
 ```
 
 * Your node is now available from anywhere in the world using this onion address! But how do we connect to it?
@@ -80,7 +80,7 @@ Host *.onion
 * Finally, you can now connect to your node using SSH and the hostname from above:
 
 ```
-ssh pi@vxbdqtv2ber7js5y.onion
+ssh pi@x5a4ox5qzsmgr2rucnldo54prhkzfd4bnwhmjo7jtp5zfeugkuq53jid.onion
 ```
 
 * Congratulations!
