@@ -68,6 +68,8 @@ src/qt/android/build/outputs/apk/release/android-release-unsigned.apk
 src/qt/android/build/outputs/apk/debug/android-debug.apk
 ```
 
-And here it is! Bitcoin Core with Qt GUI synchronizing on my [CalyxOS](https://calyxos.org) Android phone:
+And here it is!
+
+Bitcoin Core with Qt GUI synchronizing on my [CalyxOS](https://calyxos.org) Android phone:
 
 ![bitcoin-qt-android](/assets/bitcoin-qt-android.png)
