@@ -52,7 +52,11 @@ Once you are in the container run the following commands:
 cd /work
 make -C depends
 ./autogen.sh
-./configure --host=${HOST} --prefix=/work/depends/${HOST} --disable-bench --disable-gui-tests --disable-tests --disable-wallet
+./configure --host=${HOST} --prefix=/work/depends/${HOST} \
+  --disable-bench \
+  --disable-gui-tests \
+  --disable-tests \
+  --disable-wallet
 make -j 8
 make -C src/qt apk
 ```
