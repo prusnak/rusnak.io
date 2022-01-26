@@ -73,3 +73,30 @@ And here it is!
 Bitcoin Core with Qt GUI synchronizing on my [CalyxOS](https://calyxos.org) Android phone:
 
 ![bitcoin-qt-android](/assets/bitcoin-qt-android.png)
+
+If you want to change the target SDK version or switch from Testnet to Mainnet,
+just edit the `src/qt/android/AndroidManifest.xml` file:
+
+``` patch
+diff --git a/src/qt/android/AndroidManifest.xml b/src/qt/android/AndroidManifest.xml
+index 41615294e..fdbc1385e 100644
+--- a/src/qt/android/AndroidManifest.xml
++++ b/src/qt/android/AndroidManifest.xml
+@@ -1,6 +1,6 @@
+ <?xml version='1.0' encoding='utf-8'?>
+ <manifest package="org.bitcoincore.qt" xmlns:android="http://schemas.android.com/apk/res/android" android:versionName="1.0" android:versionCode="1" android:installLocation="auto">
+-    <uses-sdk android:targetSdkVersion="24"/>
++    <uses-sdk android:targetSdkVersion="28"/>
+ 
+     <uses-permission android:name="android.permission.INTERNET" />
+     <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+@@ -22,7 +22,7 @@
+                 <category android:name="android.intent.category.LAUNCHER"/>
+             </intent-filter>
+ 
+-            <meta-data android:name="android.app.arguments" android:value="-testnet"/>
++            <meta-data android:name="android.app.arguments" android:value=""/>
+             <meta-data android:name="android.app.lib_name" android:value="bitcoin-qt"/>
+             <meta-data android:name="android.app.repository" android:value="default"/>
+             <meta-data android:name="android.app.bundle_local_qt_libs" android:value="1"/>
+```
