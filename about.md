@@ -7,7 +7,7 @@ title: About
 
 ----
 
-Pavol Rusnak is Co-Founder of SatoshiLabs, where he is overseeing
+Pavol Rusnak is co-founder of SatoshiLabs, where he is overseeing
 the development of open-source software and hardware projects
 that strengthen the power and independence of an individual.
 Along with his everyday work, he is also very interested in
