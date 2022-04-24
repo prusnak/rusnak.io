@@ -1,3 +1,5 @@
+include: [".well-known"]
+
 gems:
   - jekyll-paginate
   - jekyll-sitemap
