@@ -3,7 +3,7 @@ layout: post
 title: Trezor Emulator on Raspberry Pi
 ---
 
-I got an idea while looking at the cool project called [RaspiBlitz](https://github.com/rootzoll/raspiblitz). They are using a nice LCD shield on top of Raspberry Pi for their Lightning Node. What if I tried running the [Trezor Emulator](https://github.com/trezor/trezor-core) on the same hardware setup? Trezor is completely open-source, so this should not be a big problem, right? Here is the result of my late-night experiment. And it's beautiful!
+I got an idea while looking at the cool project called [RaspiBlitz](https://github.com/rootzoll/raspiblitz). They are using a nice LCD shield on top of Raspberry Pi for their Lightning Node. What if I tried running the [Trezor Emulator](https://github.com/trezor/trezor-firmware) on the same hardware setup? Trezor is completely open-source, so this should not be a big problem, right? Here is the result of my late-night experiment. And it's beautiful!
 
 ![trezor_raspi](/assets/trezor_raspi.jpg)
 
@@ -34,14 +34,14 @@ Now, we'll build the Trezor emulator:
 
 ``` bash
 sudo apt-get install scons libsdl2-dev libsdl2-image-dev
-git clone --recursive https://github.com/trezor/trezor-core.git
-cd trezor-core
-make build_unix_raspi
+git clone --recursive https://github.com/trezor/trezor-firmware.git
+cd trezor-firmware/core
+TREZOR_EMULATOR_RASPI=1 make build_unix
 ```
 
 And the Trezor Bridge:
 
-```
+``` bash
 sudo apt-get install golang
 export GOPATH=/home/pi/go
 go get github.com/trezor/trezord-go
@@ -55,7 +55,7 @@ We now have everything set! Let's run the following two commands in two terminal
 
 ``` bash
 ./trezord-go -e 21324
-cd trezor-core ; make emu
+cd trezor-firmware/core ; make emu
 ```
 
 Now, we want to use the Trezor Emulator running on the Raspberry Pi with the Trezor web wallet. To do that, we'll just forward the local port to the remote port (on the Raspberry Pi) and the wallet will immediately find that. Here is the magic to do that:
