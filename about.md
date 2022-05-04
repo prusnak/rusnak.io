@@ -9,7 +9,7 @@ title: About
 
 Pavol Rusnak is a cypherpunk, co-founder of SatoshiLabs, co-creator of Trezor
 and Bitcoin Core contributor.
-He is writing writing open-source software and creating open-source hardware
+He is writing open-source software and creating open-source hardware
 that strengthen the power and independence of an individual.
 Along with his everyday work, he is also very interested in
 cognitive science and biotechnology.
