@@ -5,6 +5,9 @@ title: Talks and Workshops
 
 date | title | event | place
 -----|-------|-------|------
+2022-09-03 | 🔒 TBD | Baltic Honeybadger | 🇱🇻 Riga
+2022-07-14 | 🔒 TBD | Mallorca Blockchain Days | 🇪🇸 Mallorca
+2022-04-06 | 🔒 Defining the Standards of Taproot & Multisig | Bitcoin 2022 | 🇺🇸 Miami
 2019-07-23 | 🤖 Bob Ross Lives! workshop (with [Lenka Hamosova](https://hamosova.com/)) | Hackers and Designers Summer Academy | 🇳🇱 Amsterdam
 2019-04-12 | 🤖 Necessity of Visual Scepticism in the Post-truth Era (with [Lenka Hamosova](https://hamosova.com/)) | Datatata Conference | 🇨🇿 Brno
 2018-09-23 | 🔒 Bitcoin security panel | Baltic Honeybadger | 🇱🇻 Riga
