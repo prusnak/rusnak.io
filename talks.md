@@ -7,6 +7,7 @@ date | title | event | place
 -----|-------|-------|------
 2022-09-03 | 🔒 TBD | Baltic Honeybadger | 🇱🇻 Riga
 2022-07-14 | 🔒 TBD | Mallorca Blockchain Days | 🇪🇸 Mallorca
+2019-04-12 | 🔒 [BK LIVE: Budoucnost Trezoru](https://www.youtube.com/watch?v=F3MaZKuPl9E) | Bitcoinovej Kanál | 🇨🇿 Online
 2022-04-06 | 🔒 Defining the Standards of Taproot & Multisig | Bitcoin 2022 | 🇺🇸 Miami
 2019-07-23 | 🤖 Bob Ross Lives! workshop (with [Lenka Hamosova](https://hamosova.com/)) | Hackers and Designers Summer Academy | 🇳🇱 Amsterdam
 2019-04-12 | 🤖 Necessity of Visual Scepticism in the Post-truth Era (with [Lenka Hamosova](https://hamosova.com/)) | Datatata Conference | 🇨🇿 Brno
