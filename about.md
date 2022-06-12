@@ -24,7 +24,7 @@ for the Google Summer of Code.
 
 ----
 
-**Mission: Strengthening the power and independence of individuals via open-source software and hardware projects**
+**Mission: Strengthening the power and independence of an individual via open-source software and hardware projects**
 
 ----
 
