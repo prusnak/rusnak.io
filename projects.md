@@ -11,6 +11,8 @@ Here is the list of major software/hardware projects I started:
 
 Here is the list of art projects I was involved in:
 
+* [TroublingGAN](https://troublinggan.hamosova.com) (2021)
+* [Strange Attractions](https://strangeattractions.xyz) (2019-2020)
 * [Vibrator 2.2](/vibrator) (2016)
 * [Jller](/jller) (2015-2017)
 * [Lekno](/lekno) (2015)
