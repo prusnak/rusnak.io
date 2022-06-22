@@ -5,7 +5,7 @@ title: Projects
 
 Here is the list of major software/hardware projects I started:
 
-* [TREZOR](/trezor) (since 2012)
+* [Trezor](/trezor) (since 2012)
 * [Coinmap](/coinmap) (since 2013)
 * [SVG-edit](/svg-edit) (since 2009)
 
