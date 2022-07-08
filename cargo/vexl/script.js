@@ -34,23 +34,28 @@ video.addEventListener('play', () => {
       // draw
       const ctx = canvas.getContext('2d');
       ctx.clearRect(0, 0, canvas.width, canvas.height);
+
       ctx.fillStyle = '#000000';
+
       ctx.translate((lx + rx) / 2.0, (ly + ry) / 2.0);
       ctx.rotate(Math.PI * 0.5 - Math.atan2((lx - rx), (ly - ry)));
       ctx.fillRect(- size, - size * 0.15 / 2, size * 2.0, size * 0.15)
       ctx.setTransform(1, 0, 0, 1, 0, 0);
+
       ctx.beginPath();
-        ctx.ellipse(lx, ly, size * 0.45, size * 0.45, 0, Math.PI * 0.25, Math.PI * 1.25);
+        ctx.ellipse(lx, ly, size * 0.45, size * 0.45, 0, Math.PI * 1.75, Math.PI * 0.75);
       ctx.fill();
       ctx.beginPath();
-        ctx.ellipse(rx, ry, size * 0.45, size * 0.45, 0, Math.PI * 0.25, Math.PI * 1.25);
+        ctx.ellipse(rx, ry, size * 0.45, size * 0.45, 0, Math.PI * 1.75, Math.PI * 0.75);
       ctx.fill();
+
       ctx.fillStyle = '#333333';
+
       ctx.beginPath();
-        ctx.ellipse(lx, ly, size * 0.45, size * 0.45, 0, Math.PI * 1.25, Math.PI * 2.25);
+        ctx.ellipse(lx, ly, size * 0.45, size * 0.45, 0, Math.PI * 0.75, Math.PI * 1.75);
       ctx.fill();
       ctx.beginPath();
-        ctx.ellipse(rx, ry, size * 0.45, size * 0.45, 0, Math.PI * 1.25, Math.PI * 2.25);
+        ctx.ellipse(rx, ry, size * 0.45, size * 0.45, 0, Math.PI * 0.75, Math.PI * 1.75);
       ctx.fill();
     }
   }, 50)
