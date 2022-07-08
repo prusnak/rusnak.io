@@ -21,9 +21,11 @@ video.addEventListener('play', () => {
   setInterval(async () => {
     const detections = await faceapi.detectAllFaces(video, new faceapi.TinyFaceDetectorOptions()).withFaceLandmarks();
     const resizedDetections = faceapi.resizeResults(detections, displaySize);
-    if (resizedDetections.length > 0) {
-      const le = resizedDetections[0].landmarks.getLeftEye();
-      const re = resizedDetections[0].landmarks.getRightEye();
+    const ctx = canvas.getContext('2d');
+    ctx.clearRect(0, 0, canvas.width, canvas.height);
+    for (let f = 0; f < resizedDetections.length; f++) {
+      const le = resizedDetections[f].landmarks.getLeftEye();
+      const re = resizedDetections[f].landmarks.getRightEye();
       let lx = 0, ly = 0, rx = 0, ry = 0;
       for (let k = 0; k < 6; k++) {
         lx += le[k].x; ly += le[k].y;
@@ -31,10 +33,6 @@ video.addEventListener('play', () => {
       }
       lx /= 6; ly /= 6; rx /= 6; ry /= 6;
       const size = Math.sqrt((lx - rx) * (lx - rx) + (ly - ry) * (ly - ry));
-      // draw
-      const ctx = canvas.getContext('2d');
-      ctx.clearRect(0, 0, canvas.width, canvas.height);
-
       ctx.fillStyle = '#000000';
 
       ctx.translate((lx + rx) / 2.0, (ly + ry) / 2.0);
