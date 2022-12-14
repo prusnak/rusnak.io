@@ -7,20 +7,12 @@ title: About
 
 ----
 
-Pavol Rusnak is a cypherpunk, co-founder of SatoshiLabs, co-creator of Trezor
-and Bitcoin Core contributor.
-He is writing open-source software and creating open-source hardware
-that strengthen the power and independence of an individual.
-Along with his everyday work, he is also very interested in
-cognitive science and biotechnology.
-
-Pavol graduated from Charles University in Prague, Faculty of Mathematics and
-Physics, majoring in Database Systems, with particular emphasis on distributed
-systems. He is a highly regarded security expert and privacy activist and has
-been invited to speak at significant technology-oriented events such as Chaos
-Communication Congress, FOSDEM or LinuxTag. In the past, he also served as a
-board member of the openSUSE Project and as a three-time mentor/administrator
-for the Google Summer of Code.
+Pavol Rusnak is a pioneering cypherpunk and co-founder of SatoshiLabs, the company behind the world-renowned Trezor hardware wallet.
+In addition to his unrelenting work in the Bitcoin space, Pavol is also an avid supporter of open-source software and hardware,
+believing that they are essential tools for protecting the power and independence of individuals.
+His expertise in security and privacy have made him a sought-after speaker at technology-focused events around the world,
+including the Chaos Communication Congress and LinuxTag.
+In addition to his speaking engagements, Pavol has also served as a board member of the openSUSE Project and as a mentor for the Google Summer of Code.
 
 ----
 
