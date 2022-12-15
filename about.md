@@ -11,7 +11,7 @@ Pavol Rusnak is a pioneering cypherpunk and co-founder of SatoshiLabs, the compa
 In addition to his unrelenting work in the Bitcoin space, Pavol is also an avid supporter of open-source software and hardware,
 believing that they are essential tools for protecting the power and independence of individuals.
 His expertise in security and privacy have made him a sought-after speaker at technology-focused events around the world,
-including the Chaos Communication Congress and LinuxTag.
+including the Chaos Communication Congress, FOSDEM and LinuxTag.
 In addition to his speaking engagements, Pavol has also served as a board member of the openSUSE Project and as a mentor for the Google Summer of Code.
 
 ----
