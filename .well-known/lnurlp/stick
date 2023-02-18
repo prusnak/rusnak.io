@@ -6,9 +6,7 @@
   "metadata":"[[\"text/identifier\", \"stick@getalby.com\"], [\"text/plain\", \"Sats for stick\"]]",
   "minSendable":1000,
   "maxSendable":11000000000,
-  "payerData":
-    {
-      "name":{"mandatory":false},
-      "email":{"mandatory":false}
-    }
+  "payerData": { "name":{"mandatory":false}, "email":{"mandatory":false} },
+  "allowsNostr": true,
+  "nostrPubkey": "d7f0e3917c466f1e2233e9624fbd6d4bd1392dbcfcaf3574f457569d496cb731"
 }
