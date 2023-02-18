@@ -17,7 +17,7 @@ In addition to his speaking engagements, Pavol has also served as a board member
 
 ----
 
-**Mission: Strengthening the power and independence of an individual via open-source software and hardware projects**
+**Mission: Strengthening individual power and independence via open-source software and hardware projects**
 
 ----
 
