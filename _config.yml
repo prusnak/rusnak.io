@@ -11,7 +11,7 @@ plugins:
 permalink:           /:title/
 
 title:               Pavol Rusnak
-tagline:             '#cypherpunk #hacker #openhw #privacy #bitcoin #creativeAI'
+tagline:             '#Cypherpunk #FOSS #Bitcoin #AI'
 description:         'Pavol Rusnak'
 url:                 https://rusnak.io
 baseurl:             ''
