@@ -5,8 +5,9 @@ title: Talks and Workshops
 
 date | title | event | place
 -----|-------|-------|------
-2023-06-?? | 🔒 TBA | BTC Prague | 🇨🇿 Prague
-2023-03-02 | 🔒 TBA | Advancing Bitcoin | 🇬🇧 London
+2023-06-10 | 🔒 Panel: Hardware Wallets | BTC Prague | 🇨🇿 Prague
+2023-06-08 | 🔒 Panel: Open Source Technology | BTC Prague | 🇨🇿 Prague
+2023-03-02 | 🔒 [Challenges in implementing coinjoin in hardware wallets](https://www.youtube.com/watch?v=gqINXwsR33g) | Advancing Bitcoin | 🇬🇧 London
 2022-09-03 | 🔒 Security panel / Privacy panel | Baltic Honeybadger | 🇱🇻 Riga
 2022-07-14 | 💻 The importance of open-source | Mallorca Blockchain Days | 🇪🇸 Mallorca
 2022-05-24 | 🔒 [BK LIVE: Budoucnost Trezoru](https://www.youtube.com/watch?v=F3MaZKuPl9E) | Bitcoinovej Kanál | 🇨🇿 Online
